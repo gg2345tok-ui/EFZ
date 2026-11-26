@@ -1,0 +1,43 @@
+{
+  "display_name": "Yshik xlama",
+  "description": "",
+  "min_random_rolls": 3,
+  "max_random_rolls": 6,
+  "guaranteed_items": [
+    {
+      "item": "lightmanscurrency:coin_copper",
+      "min_count": 1.0,
+      "max_count": 7.0
+    },
+    {
+      "item": "minecraft:cobweb",
+      "min_count": 2.0,
+      "max_count": 20.0
+    },
+    {
+      "item": "minecraft:string",
+      "min_count": 8.0,
+      "max_count": 25.0
+    }
+  ],
+  "random_items": [
+    {
+      "item": "narcosis:premium_cigar",
+      "weight": 15.0,
+      "min_count": 1.0,
+      "max_count": 2.0
+    },
+    {
+      "item": "lrtactical:throwable{ThrowableId:\"lrtactical:smoke_grenade\"}",
+      "weight": 10.0,
+      "min_count": 1.0,
+      "max_count": 1.0
+    },
+    {
+      "item": "lrtactical:consumable{ConsumableId:\"lrtactical:condensed_milk\"}",
+      "weight": 15.0,
+      "min_count": 1.0,
+      "max_count": 2.0
+    }
+  ]
+}

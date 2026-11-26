@@ -1,0 +1,33 @@
+{
+  "rendering": {
+    "oldRotation": false,
+    "vanillaRendering": false,
+    "rotateSpeed": 1.0,
+    "showPickupTooltip": true,
+    "showPickupTooltipOnlyOnGround": false,
+    "showPickupTooltipExtended": false,
+    "showPickupTooltipKeybind": false,
+    "disableThrowHUD": false,
+    "vanillaRendered": {
+      "entries": [
+        "tacz:modern_kinetic_gun",
+        "tacz:attachment"
+      ],
+      "isWhitelist": true
+    },
+    "tooltipOffsetX": 0,
+    "tooltipOffsetY": 0,
+    "blockRequireOffset": {
+      "blocks": [
+        "minecraft:snow",
+        "minecraft:soul_sand",
+        "minecraft:mud"
+      ],
+      "tags": []
+    },
+    "blockBelowRequireOffset": {
+      "blocks": [],
+      "tags": []
+    }
+  }
+}
