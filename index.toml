@@ -1038,7 +1038,7 @@ hash = "0862e977aa20c508b6d5f6576b4d34299bebcf71de09e3628ea53c2aaeb299f8"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "5e3cf401fe18de8f87481c6e6ec69f7daa72db2792fbaa6b0c9af2d4cb09955a"
+hash = "9cdb20e9a88caf00abda8a085bd80f7d11db04f83a46f7f19513909798c7385b"
 
 [[files]]
 file = "config/parcool-animation.toml"
