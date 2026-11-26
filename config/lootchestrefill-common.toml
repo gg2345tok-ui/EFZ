@@ -1,0 +1,18 @@
+
+["LootChestRefill Configuration"]
+	#Default refill time in seconds for loot chests
+	#Range: 10 ~ 86400
+	defaultRefillTime = 300
+	#Minimum number of items to spawn per refill
+	#Range: 1 ~ 27
+	minItemsPerRefill = 1
+	#Maximum number of items to spawn per refill
+	#Range: 1 ~ 27
+	maxItemsPerRefill = 5
+	#Whether to broadcast a message when a chest refills (for debugging)
+	broadcastRefill = false
+	#Text displayed on the overlay when looking at a lootable crate (e.g. [Fouiller])
+	searchText = "[Fouiller]"
+	#Text displayed on the overlay when a crate is on cooldown. Use {time} for the M:SS timer (e.g. Disponible dans {time})
+	cooldownText = "Disponible dans {time}"
+

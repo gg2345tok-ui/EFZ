@@ -1,0 +1,4277 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/Blood Bits.toml"
+hash = "207da19c0b66cd18f21254719cf13e2828a4af2643657502e058ca37acda94dd"
+
+[[files]]
+file = "config/CustomNpcs.cfg"
+hash = "5a10d259ae8e21cf89039fc73bb87e4ce292286b03967d68bc4d20cd08836bfa"
+
+[[files]]
+file = "config/Feathers-Client.toml"
+hash = "c58230f37ca23df606e9f84e09adb148caa41fb62bfde2f330953040e1d67746"
+
+[[files]]
+file = "config/Feathers-Common.toml"
+hash = "25527c7c7886d28d2493c1495fea56b87fe790173554e6e2619c9c4e9d986017"
+
+[[files]]
+file = "config/QuantifiedAPI/cache/tools/openclIsolated/lib/lwjgl-3.3.3-natives-linux-arm64.jar"
+hash = "397a79a5d8907286d4018d026cbc37358c53bbb6aabc3a1534f19ff23b7f8558"
+
+[[files]]
+file = "config/QuantifiedAPI/cache/tools/openclIsolated/lib/lwjgl-3.3.3-natives-linux.jar"
+hash = "e663738c519a06f6d659882fa8e4e09af7f10e921929ee5cc54a7587f62ed4c9"
+
+[[files]]
+file = "config/QuantifiedAPI/cache/tools/openclIsolated/lib/lwjgl-3.3.3-natives-windows.jar"
+hash = "5ee63a19187efe5bb8747fd24f7b13257db348df5ad641113a3695e43f213959"
+
+[[files]]
+file = "config/QuantifiedAPI/cache/tools/openclIsolated/lib/lwjgl-3.3.3.jar"
+hash = "dc9c7b2d48e8396d68895f8902ffa01e46253de44dfe927533ff09457ebfeec4"
+
+[[files]]
+file = "config/QuantifiedAPI/cache/tools/openclIsolated/lib/lwjgl-opencl-3.3.3.jar"
+hash = "10ea1ac52e0cae7a7571e7bed81f57909f5ac50b449aa0f2494c49562e187c5e"
+
+[[files]]
+file = "config/QuantifiedAPI/cache/tools/openclIsolated/quantified-opencl-probe.jar"
+hash = "32d27482af4d813f46b644f43637286138a259feaa63b65b918d9e0212f5bd1f"
+
+[[files]]
+file = "config/QuantifiedAPI/cache/tools/openclProbe/lib/lwjgl-3.3.3-natives-linux-arm64.jar"
+hash = "397a79a5d8907286d4018d026cbc37358c53bbb6aabc3a1534f19ff23b7f8558"
+
+[[files]]
+file = "config/QuantifiedAPI/cache/tools/openclProbe/lib/lwjgl-3.3.3-natives-linux.jar"
+hash = "e663738c519a06f6d659882fa8e4e09af7f10e921929ee5cc54a7587f62ed4c9"
+
+[[files]]
+file = "config/QuantifiedAPI/cache/tools/openclProbe/lib/lwjgl-3.3.3-natives-windows.jar"
+hash = "5ee63a19187efe5bb8747fd24f7b13257db348df5ad641113a3695e43f213959"
+
+[[files]]
+file = "config/QuantifiedAPI/cache/tools/openclProbe/lib/lwjgl-3.3.3.jar"
+hash = "dc9c7b2d48e8396d68895f8902ffa01e46253de44dfe927533ff09457ebfeec4"
+
+[[files]]
+file = "config/QuantifiedAPI/cache/tools/openclProbe/lib/lwjgl-opencl-3.3.3.jar"
+hash = "10ea1ac52e0cae7a7571e7bed81f57909f5ac50b449aa0f2494c49562e187c5e"
+
+[[files]]
+file = "config/QuantifiedAPI/cache/tools/openclProbe/natives/lwjgl.dll"
+hash = "a39adf52947fafd954c2a86ce031abb8c59825f7ee50337ac8c41e4280abe82d"
+
+[[files]]
+file = "config/QuantifiedAPI/cache/tools/openclProbe/quantified-opencl-probe.jar"
+hash = "32d27482af4d813f46b644f43637286138a259feaa63b65b918d9e0212f5bd1f"
+
+[[files]]
+file = "config/QuantifiedAPI/cache/tools/vulkanIsolated/lib/lwjgl-3.3.3-natives-linux-arm64.jar"
+hash = "397a79a5d8907286d4018d026cbc37358c53bbb6aabc3a1534f19ff23b7f8558"
+
+[[files]]
+file = "config/QuantifiedAPI/cache/tools/vulkanIsolated/lib/lwjgl-3.3.3-natives-linux.jar"
+hash = "e663738c519a06f6d659882fa8e4e09af7f10e921929ee5cc54a7587f62ed4c9"
+
+[[files]]
+file = "config/QuantifiedAPI/cache/tools/vulkanIsolated/lib/lwjgl-3.3.3-natives-windows.jar"
+hash = "5ee63a19187efe5bb8747fd24f7b13257db348df5ad641113a3695e43f213959"
+
+[[files]]
+file = "config/QuantifiedAPI/cache/tools/vulkanIsolated/lib/lwjgl-3.3.3.jar"
+hash = "dc9c7b2d48e8396d68895f8902ffa01e46253de44dfe927533ff09457ebfeec4"
+
+[[files]]
+file = "config/QuantifiedAPI/cache/tools/vulkanIsolated/lib/lwjgl-vulkan-3.3.3.jar"
+hash = "d7715b77abb79c02c2b1928c0b3686762deccfbfd36a4c676c170c1eb138de78"
+
+[[files]]
+file = "config/QuantifiedAPI/cache/tools/vulkanIsolated/quantified-vulkan-probe.jar"
+hash = "2403afa2e7e615e1695057f788fd27cde7d9b5739ecd83c398a9bafb5af3d4e9"
+
+[[files]]
+file = "config/QuantifiedAPI/cache/tools/vulkanProbe/lib/lwjgl-3.3.3-natives-linux-arm64.jar"
+hash = "397a79a5d8907286d4018d026cbc37358c53bbb6aabc3a1534f19ff23b7f8558"
+
+[[files]]
+file = "config/QuantifiedAPI/cache/tools/vulkanProbe/lib/lwjgl-3.3.3-natives-linux.jar"
+hash = "e663738c519a06f6d659882fa8e4e09af7f10e921929ee5cc54a7587f62ed4c9"
+
+[[files]]
+file = "config/QuantifiedAPI/cache/tools/vulkanProbe/lib/lwjgl-3.3.3-natives-windows.jar"
+hash = "5ee63a19187efe5bb8747fd24f7b13257db348df5ad641113a3695e43f213959"
+
+[[files]]
+file = "config/QuantifiedAPI/cache/tools/vulkanProbe/lib/lwjgl-3.3.3.jar"
+hash = "dc9c7b2d48e8396d68895f8902ffa01e46253de44dfe927533ff09457ebfeec4"
+
+[[files]]
+file = "config/QuantifiedAPI/cache/tools/vulkanProbe/lib/lwjgl-vulkan-3.3.3.jar"
+hash = "d7715b77abb79c02c2b1928c0b3686762deccfbfd36a4c676c170c1eb138de78"
+
+[[files]]
+file = "config/QuantifiedAPI/cache/tools/vulkanProbe/natives/lwjgl.dll"
+hash = "a39adf52947fafd954c2a86ce031abb8c59825f7ee50337ac8c41e4280abe82d"
+
+[[files]]
+file = "config/QuantifiedAPI/cache/tools/vulkanProbe/quantified-vulkan-probe.jar"
+hash = "2403afa2e7e615e1695057f788fd27cde7d9b5739ecd83c398a9bafb5af3d4e9"
+
+[[files]]
+file = "config/QuantifiedAPI/quantified_config.json"
+hash = "58df44ea4481ba3de599869d77ed5d03cd7db61504152cba80454e4e6b2f8b64"
+
+[[files]]
+file = "config/alexsmobs.toml"
+hash = "7c01df704a66653df7793e4c6a856815be283106df03765f196c89bd962d463c"
+
+[[files]]
+file = "config/alexsmobs/alligator_snapping_turtle_spawns.json"
+hash = "df14afd6e1e96ace0dc8e4c71bc325e3baec8dbeaebf61f682561a70fc145f9d"
+
+[[files]]
+file = "config/alexsmobs/anaconda_spawns.json"
+hash = "ca961946a7b3c6e9abcb1bb82bbf36e1f9ce01d11769a06a7fbff6351293ff5d"
+
+[[files]]
+file = "config/alexsmobs/anteater_spawns.json"
+hash = "f65e31155b2f2e033bed66dc5ec2ce7f6962be3389369ff800b69dfdecb5d990"
+
+[[files]]
+file = "config/alexsmobs/bald_eagle_spawns.json"
+hash = "f8b51a798bfa4b51e0ee8fb78c860ca5b2677583db10584792a0e1548f17d396"
+
+[[files]]
+file = "config/alexsmobs/banana_slug_spawns.json"
+hash = "1d5d0ce4ef42e94f0361c41b4b2402b64e87f0b1b987e1f1b2f6b2ac377211a7"
+
+[[files]]
+file = "config/alexsmobs/bison_spawns.json"
+hash = "78e726ed002a31f5084a7b49fcce467c5623a046981d6c59d9ed7c4eb6cdbb1e"
+
+[[files]]
+file = "config/alexsmobs/blobfish_spawns.json"
+hash = "7e7b175c33aed22c3d2cd31e215c6243e3790b07a3664b42d130a8f3b897489f"
+
+[[files]]
+file = "config/alexsmobs/blue_jay_spawns.json"
+hash = "7d1f784ab378e1e851e73dbb6f81866420c1328d25f754546d82c417bf304644"
+
+[[files]]
+file = "config/alexsmobs/bone_serpent_spawns.json"
+hash = "47eef91378d3d6455a911d58cc3afdbfcdda7fd49968a7921b22620faa8ff672"
+
+[[files]]
+file = "config/alexsmobs/bunfungus_spawns.json"
+hash = "5d5a9d2039b6df546b788f62cb376cc29312a7115a5553541652aad7259436a6"
+
+[[files]]
+file = "config/alexsmobs/cachalot_whale_beached_spawns.json"
+hash = "73b8f83ddfa936642b38af1003e3c47eab6f089ad61612ee5181137409038f57"
+
+[[files]]
+file = "config/alexsmobs/cachalot_whale_spawns.json"
+hash = "fb901f1ea0bce7b9fb51dfaeb565539a3c1a9ee86bafb49caddac7ca1002e296"
+
+[[files]]
+file = "config/alexsmobs/caiman_spawns.json"
+hash = "542cca079ae671a6d928737b622b205deebfe2aed5864a01b5048f501aec2753"
+
+[[files]]
+file = "config/alexsmobs/capuchin_monkey_spawns.json"
+hash = "83b68d395236771ae9276f48b2988cfa9eb65e14dc41531b37a6b4e77c64859a"
+
+[[files]]
+file = "config/alexsmobs/catfish_spawns.json"
+hash = "3c097d29c1f74807815d4c13e3586a76528ac3c104670ce95852bd3b62f9e16e"
+
+[[files]]
+file = "config/alexsmobs/cave_centipede_spawns.json"
+hash = "973b8ebc19fa04e02b050f28359ee6bffbae93367f49ecac10892f4a2c1dad7d"
+
+[[files]]
+file = "config/alexsmobs/cockroach_spawns.json"
+hash = "97a67afb52f1398f2c55e2a74001e5b893394e28d3f0eb00695f049bdd19f204"
+
+[[files]]
+file = "config/alexsmobs/comb_jelly_spawns.json"
+hash = "cf9ba87b0d2001543fe09d8f6a4c602c03644643a9bd49d1e9ca0b041ab4dc02"
+
+[[files]]
+file = "config/alexsmobs/cosmaw_spawns.json"
+hash = "8e1d05a9b4ab8b923ff4951ef391665f3bdd218d943152f6f1f57509786bc0f7"
+
+[[files]]
+file = "config/alexsmobs/cosmic_cod_spawns.json"
+hash = "aed14e990ed38ee78214b1ea4a15e06bca1b8d098e1e440596be9ab14e4403b8"
+
+[[files]]
+file = "config/alexsmobs/crimson_mosquito_spawns.json"
+hash = "104fa9ce71421c5023abba88ce382957828b22341b44c2d03b3300b760482c9d"
+
+[[files]]
+file = "config/alexsmobs/crocodile_spawns.json"
+hash = "a73d36d1b5dd75eb20f6143193b991e942f4ef4cef725835b66ec01197d7074f"
+
+[[files]]
+file = "config/alexsmobs/crow_spawns.json"
+hash = "cace87b5d504be10d1fff107ad14349066ae1c39d5200a7a29bdd5476167d9b8"
+
+[[files]]
+file = "config/alexsmobs/devils_hole_pupfish_spawns.json"
+hash = "e7855fa7d73f4d3af77f47ddd70b4fcbab7862302d004b4ddae9dddc75c4e402"
+
+[[files]]
+file = "config/alexsmobs/dropbear_spawns.json"
+hash = "0fa8f72e4c73805727577a343758cfd39377cbdadebb88b6b2343183053e16cb"
+
+[[files]]
+file = "config/alexsmobs/elephant_spawns.json"
+hash = "cac271d780a6ed65db7b22e6944b6d456805d72b309865d6293ad6aa4f60c3e2"
+
+[[files]]
+file = "config/alexsmobs/emu_spawns.json"
+hash = "70e30e058709266e665eb6642df126eeee744d05e63d77344501e78cb4a37851"
+
+[[files]]
+file = "config/alexsmobs/endergrade_spawns.json"
+hash = "ca6e68bd3e74eb9cedcdbae4c82f594c4e85bdd54e1d0e35344a3febb9672980"
+
+[[files]]
+file = "config/alexsmobs/enderiophage_spawns.json"
+hash = "846748f4f352dead7fae39221d653713b7cbd775eaf10f80e0dea86f4e9ccb9a"
+
+[[files]]
+file = "config/alexsmobs/farseer.json"
+hash = "c245528d844458d8ac416572ee0df7575bb23d58beb07367d4cd55c66fec9000"
+
+[[files]]
+file = "config/alexsmobs/flutter_spawns.json"
+hash = "f729be2a0bc7bccc88cde40464f990d6074bfcf52a0d1d6719d8ebcd63c496ff"
+
+[[files]]
+file = "config/alexsmobs/fly_spawns.json"
+hash = "e7855fa7d73f4d3af77f47ddd70b4fcbab7862302d004b4ddae9dddc75c4e402"
+
+[[files]]
+file = "config/alexsmobs/flying_fish_spawns.json"
+hash = "69904b309696b6081cdec1ea87bdb62f84886cf6dac600a8bca231860c3a3f2f"
+
+[[files]]
+file = "config/alexsmobs/frilled_shark_spawns.json"
+hash = "7e7b175c33aed22c3d2cd31e215c6243e3790b07a3664b42d130a8f3b897489f"
+
+[[files]]
+file = "config/alexsmobs/froststalker_spawns.json"
+hash = "2cc43cdc9df3b20cc2eeb75a3c11736558f544571640607d08dec5c0a939c02d"
+
+[[files]]
+file = "config/alexsmobs/gazelle_spawns.json"
+hash = "17a5c3263942410596f91fb0aece138e5115bfabfa2a5913a63406fcb64b42d0"
+
+[[files]]
+file = "config/alexsmobs/gelada_monkey_spawns.json"
+hash = "cdd0380bfa9b754856150966a042f807ac48d2f9409f4f2b543be19e87f4c41f"
+
+[[files]]
+file = "config/alexsmobs/giant_squid_spawns.json"
+hash = "7e7b175c33aed22c3d2cd31e215c6243e3790b07a3664b42d130a8f3b897489f"
+
+[[files]]
+file = "config/alexsmobs/gorilla_spawns.json"
+hash = "8c90151f66a632b01e7b8f6998f72618720aae5362c1df0bdd7fefdb13cc20c8"
+
+[[files]]
+file = "config/alexsmobs/grizzly_bear_spawns.json"
+hash = "7d1f784ab378e1e851e73dbb6f81866420c1328d25f754546d82c417bf304644"
+
+[[files]]
+file = "config/alexsmobs/guster_spawns.json"
+hash = "263974f58a4b48df633648246820681745da9f9e16f30fefe6e07f576251dfb1"
+
+[[files]]
+file = "config/alexsmobs/hammerhead_shark_spawns.json"
+hash = "a5eeb1a3843a12ef4fde1d8a3a5f13161034457c0901d3f938aa71a20e6712f3"
+
+[[files]]
+file = "config/alexsmobs/hummingbird_spawns.json"
+hash = "6aa305d47ca32364d445c04c8a20da36a7ccef97955c27e834d4114604d2785d"
+
+[[files]]
+file = "config/alexsmobs/jerboa_spawns.json"
+hash = "c4b2ef89d9ad5c4dffcebb51209837da430b166c5767c1a38d90911c4445b124"
+
+[[files]]
+file = "config/alexsmobs/kangaroo_spawns.json"
+hash = "70e30e058709266e665eb6642df126eeee744d05e63d77344501e78cb4a37851"
+
+[[files]]
+file = "config/alexsmobs/komodo_dragon_spawns.json"
+hash = "695a3eb4d61a8208cc634871c237b0e6efc980ac668793f4686848e32cda0907"
+
+[[files]]
+file = "config/alexsmobs/laviathan_spawns.json"
+hash = "07d0215377f12f1299ec46b6277426c3cf957aa1d310c97fa943cdf5ace8d260"
+
+[[files]]
+file = "config/alexsmobs/leafcutter_anthill_spawns.json"
+hash = "f65e31155b2f2e033bed66dc5ec2ce7f6962be3389369ff800b69dfdecb5d990"
+
+[[files]]
+file = "config/alexsmobs/lobster_spawns.json"
+hash = "bb0c918e8dbd4d003417a1bcabb38b8433d1f9be95fe6f8feef95d30616b49a7"
+
+[[files]]
+file = "config/alexsmobs/maned_wolf_spawns.json"
+hash = "8483d96341369b430ff2ebfebd7562b0c58c40b96be541cc88189fc696606a0d"
+
+[[files]]
+file = "config/alexsmobs/mantis_shrimp_spawns.json"
+hash = "4f6099fe4d9f99530f9f0f9bae7e55c0713506efdc47da69d227ae62137647e4"
+
+[[files]]
+file = "config/alexsmobs/mimic_octopus_spawns.json"
+hash = "9c68a433ab6f75ff9e8d46868480158e4c1f46949779cb0b0d973f7759dbfc2d"
+
+[[files]]
+file = "config/alexsmobs/mimicube_spawns.json"
+hash = "fcace6e8c558df6eb13827f7a2b4a7f43c9fdfd3015331bd7e277329ca034c34"
+
+[[files]]
+file = "config/alexsmobs/moose_spawns.json"
+hash = "abac051da2458ec848604b66a6d7889f7c715060bb9706c1d1822155127d096c"
+
+[[files]]
+file = "config/alexsmobs/mudskipper_spawns.json"
+hash = "542cca079ae671a6d928737b622b205deebfe2aed5864a01b5048f501aec2753"
+
+[[files]]
+file = "config/alexsmobs/mungus_spawns.json"
+hash = "5d5a9d2039b6df546b788f62cb376cc29312a7115a5553541652aad7259436a6"
+
+[[files]]
+file = "config/alexsmobs/murmur.json"
+hash = "973b8ebc19fa04e02b050f28359ee6bffbae93367f49ecac10892f4a2c1dad7d"
+
+[[files]]
+file = "config/alexsmobs/orca_spawns.json"
+hash = "2e62ae273c3488a294068e5ed737dbf08791f4758cd3659308824d7bf4ece377"
+
+[[files]]
+file = "config/alexsmobs/platypus_spawns.json"
+hash = "b96f9e44f59f54b67460784fb1fdfa06d053f9ca9abb4fc3b04f222fd65ee958"
+
+[[files]]
+file = "config/alexsmobs/potoo_spawns.json"
+hash = "59c5832a40ef0e7212a4d499862f931a5dfcd3ff6d68598153f1274191b0939d"
+
+[[files]]
+file = "config/alexsmobs/raccoon_spawns.json"
+hash = "2f353aa8720d03fbdef9d9e4932ecc4435b7923bbc72191fab6f46acb66d3a12"
+
+[[files]]
+file = "config/alexsmobs/rain_frog_spawns.json"
+hash = "c4b2ef89d9ad5c4dffcebb51209837da430b166c5767c1a38d90911c4445b124"
+
+[[files]]
+file = "config/alexsmobs/rattlesnake_spawns.json"
+hash = "b8662bb3de9e2e5cc4af3773700fe6446c389980a80f6350f99d51f3fa2cef39"
+
+[[files]]
+file = "config/alexsmobs/rhinoceros_spawns.json"
+hash = "17a5c3263942410596f91fb0aece138e5115bfabfa2a5913a63406fcb64b42d0"
+
+[[files]]
+file = "config/alexsmobs/roadrunner_spawns.json"
+hash = "b8662bb3de9e2e5cc4af3773700fe6446c389980a80f6350f99d51f3fa2cef39"
+
+[[files]]
+file = "config/alexsmobs/rocky_roller_spawns.json"
+hash = "98dc351abc061685560adc82bd3ffa6e4c87d4faab81e9bb6a9e2a6f07cdb177"
+
+[[files]]
+file = "config/alexsmobs/seagull_spawns.json"
+hash = "4dca182ebef46ea0076b8e8066add18f69527cf2f81da83e77e0409127c92dc4"
+
+[[files]]
+file = "config/alexsmobs/seal_spawns.json"
+hash = "ef706c1e2ba0b9356523f8aeb3679303ab98d85c9b761d0e55962e930be4d8e6"
+
+[[files]]
+file = "config/alexsmobs/shoebill_spawns.json"
+hash = "0d8683c0a1b8176d4e89f88c4f3b1e6fbf6b269781497a190749904c7323eeec"
+
+[[files]]
+file = "config/alexsmobs/skelewag_spawns.json"
+hash = "86aad88d05c283679e85900cab1bf3977d496849005ac068a14e40b93db35aa2"
+
+[[files]]
+file = "config/alexsmobs/skreecher.json"
+hash = "f812e719afb24421c6853dacf4d1f66864305e335cfdf6193613d7c408ecab30"
+
+[[files]]
+file = "config/alexsmobs/skunk_spawns.json"
+hash = "01cc2eb4d92ba30b7301b9325a353cd96c5c7ff263c348795bfb34698cf8f11b"
+
+[[files]]
+file = "config/alexsmobs/snow_leopard_spawns.json"
+hash = "fdf546af7c7ff2307d0862c0802450eef1e99554af3a340e7a6af69fa5785ea5"
+
+[[files]]
+file = "config/alexsmobs/soul_vulture_spawns.json"
+hash = "45407796e49769550eef92fd3953daa191c85aaf032fb2be32fe591b0199a172"
+
+[[files]]
+file = "config/alexsmobs/spectre_spawns.json"
+hash = "ca6e68bd3e74eb9cedcdbae4c82f594c4e85bdd54e1d0e35344a3febb9672980"
+
+[[files]]
+file = "config/alexsmobs/straddler_spawns.json"
+hash = "5ee746cf50b358048a0243e4c45997285cf4a9b736758d388ad730d4ed493900"
+
+[[files]]
+file = "config/alexsmobs/stradpole_spawns.json"
+hash = "5ee746cf50b358048a0243e4c45997285cf4a9b736758d388ad730d4ed493900"
+
+[[files]]
+file = "config/alexsmobs/sugar_glider_spawns.json"
+hash = "cec5208e2e9f12aa8ce13d0f6d34a18500a77d143441c9b511df21c623fe368f"
+
+[[files]]
+file = "config/alexsmobs/sunbird_spawns.json"
+hash = "7b82ff39e191bd213cd8ecf06ff9a78c4658e6f6b9d8b48a4fcc4017e7268cb5"
+
+[[files]]
+file = "config/alexsmobs/tarantula_hawk_spawns.json"
+hash = "c4b2ef89d9ad5c4dffcebb51209837da430b166c5767c1a38d90911c4445b124"
+
+[[files]]
+file = "config/alexsmobs/tasmanian_devil_spawns.json"
+hash = "40c769365424d492a4c17700bb8cfac4c8ce7fac2bc16728f0c4287e3a043130"
+
+[[files]]
+file = "config/alexsmobs/terrapin_spawns.json"
+hash = "b96f9e44f59f54b67460784fb1fdfa06d053f9ca9abb4fc3b04f222fd65ee958"
+
+[[files]]
+file = "config/alexsmobs/tiger_spawns.json"
+hash = "f88fc1b519759fe41347afca59030619365e173c577e8c1adfcb88777078d066"
+
+[[files]]
+file = "config/alexsmobs/toucan_spawns.json"
+hash = "f65e31155b2f2e033bed66dc5ec2ce7f6962be3389369ff800b69dfdecb5d990"
+
+[[files]]
+file = "config/alexsmobs/triops_spawns.json"
+hash = "c4b2ef89d9ad5c4dffcebb51209837da430b166c5767c1a38d90911c4445b124"
+
+[[files]]
+file = "config/alexsmobs/tusklin_spawns.json"
+hash = "9ab4772704660c679ea30dff2db2c1272843e00675e2a7e610adcc6486120c3c"
+
+[[files]]
+file = "config/alexsmobs/underminer.json"
+hash = "97a67afb52f1398f2c55e2a74001e5b893394e28d3f0eb00695f049bdd19f204"
+
+[[files]]
+file = "config/alexsmobs/void_worm_spawns.json"
+hash = "6712a2d6165ed52b7d251a8fc4cbfb6c1f834210a8bda82b55440402fd2d3273"
+
+[[files]]
+file = "config/alexsmobs/warped_mosco_spawns.json"
+hash = "6712a2d6165ed52b7d251a8fc4cbfb6c1f834210a8bda82b55440402fd2d3273"
+
+[[files]]
+file = "config/alexsmobs/warped_toad_spawns.json"
+hash = "72126b26d7f3ae03b80df97dd103e0cec87d10829e86ac8b08da23abc7b318d8"
+
+[[files]]
+file = "config/all_configs.txt"
+hash = "7a16e45966cdbc7e8cdcf52aeb28e58d6bd4ca617c5c4ae57cdcfaeb14ff58d5"
+
+[[files]]
+file = "config/ambientsounds-client.json"
+hash = "c98f572839ace55b0792042fa4b984311e7d876abdaccfc8a4694f5bebad766c"
+
+[[files]]
+file = "config/autohud.json5"
+hash = "b1a6f575a91bd95871b776b42169f5547d0953b41f59f4ad71fda5c53a5853a3"
+
+[[files]]
+file = "config/blur-client.toml"
+hash = "ca832dcc4887e9ba0d11684ce417f58d32c1931132845b916256149662f55efd"
+
+[[files]]
+file = "config/cameraoverhaul.toml"
+hash = "e1f29391f85957f68be94f7fd5c4eccbb3b32b3f2eaa73b842eb76e388ed66ff"
+
+[[files]]
+file = "config/citadel-common.toml"
+hash = "3fcd8013137a86c00953d4be1e56945b84b87594be722bbf3b3be8d752e2577f"
+
+[[files]]
+file = "config/concord_deco-client.toml"
+hash = "171f3be9f14b3fad8503a6d1a300fb99a6235acb9dc253e9a73471be0b30a2f9"
+
+[[files]]
+file = "config/config_BoT.toml"
+hash = "502bf0295aab9bcc373d4190d683ea23da6fa9999fdd14e9235473669a5703de"
+
+[[files]]
+file = "config/connector.json"
+hash = "060e296a5fddce603e50034e3cdb6059c3a0e122d0aae3d85a0523341c82ea22"
+
+[[files]]
+file = "config/continuity.json"
+hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
+
+[[files]]
+file = "config/curios-client.toml"
+hash = "ebc96c813d601e9c61b6929a8490e71fa990dc64918c19e1f9937bb275510abc"
+
+[[files]]
+file = "config/curios-common.toml"
+hash = "5fe808869d46a4b80e1191fbe40f40a4d63987beda0eaeb2d89b909a990ea2ea"
+
+[[files]]
+file = "config/curios_for_ammo_box-common.toml"
+hash = "459919c20f3aecbf6e7d05fdc95df931bbf423dd8f962ec51a15e995ad54e7f5"
+
+[[files]]
+file = "config/dochi_warfare-client.toml"
+hash = "5895466fcce9473dcff0913c2a457b81278982e64aff266d6e2076bec4433412"
+
+[[files]]
+file = "config/dochi_warfare-common.toml"
+hash = "41276a0565fdf7143099e5cc4821b59944d9d8b187d5f2bfb519bd184d9e50e8"
+
+[[files]]
+file = "config/dochi_warfare/server-ai.json"
+hash = "25f675ef194cc803b69929ec4c11677e531e451c4610d0fe2571d9b4feef1002"
+
+[[files]]
+file = "config/easy_npc/dialog_client.cfg"
+hash = "82f6d2c50137b16179a26f8c366ddec4dd754a0ed3d33e8344d86aa29dd11b8b"
+
+[[files]]
+file = "config/easy_npc/dialog_options.cfg"
+hash = "824296c4fcbbd0e6223e05d6fb050aafe7ab62fccbc2dbe7f4aaaf0db2a34277"
+
+[[files]]
+file = "config/easy_npc/highlight_client.cfg"
+hash = "70f7eac6ddca9b829005920f8b547083c4707e8b0c46114a8b65e6065263ecb2"
+
+[[files]]
+file = "config/easy_npc/name_tag_client.cfg"
+hash = "9d0d97b245ef12bc90f16b75cf027b528ec0a5143e0461d0fe79f0560b851604"
+
+[[files]]
+file = "config/easy_npc/npc_base.cfg"
+hash = "c9cdfeef85ac44aca780aed46a16889bc928a1163241c7ccd5e8be0d6e3f32c1"
+
+[[files]]
+file = "config/easy_npc/remote_texture.cfg"
+hash = "d4eea5ceceb6dc4273d21bea16e212cfca4331dfd5f9d1fcb5766c42096bf27d"
+
+[[files]]
+file = "config/easy_npc/render_entity_type_support.cfg"
+hash = "01725b56df7a9d565c89e338f2ff9fb07e0707eff04c02d6054595db8fc47cc7"
+
+[[files]]
+file = "config/easy_npc/security.cfg"
+hash = "afe087e87f627208806ca1116c31b85c4b1c03d03d64575687abd1f6caff7d62"
+
+[[files]]
+file = "config/easy_npc/skin/allay/allay_template.png"
+hash = "5851df322e03f8c7d4ccd5875a7b8f38b692d6484cd9a8a34ca3ba2e51bcde1a"
+
+[[files]]
+file = "config/easy_npc/skin/cat/cat_template.png"
+hash = "c9c22851b6ce2a97d731b4e476423abcfc4911acd9e29ae157b8be5b42088364"
+
+[[files]]
+file = "config/easy_npc/skin/chicken/chicken_template.png"
+hash = "c9a5d1a53f844f32e2d530103540b4a91cfe8d53861c7b70bcae950742c50422"
+
+[[files]]
+file = "config/easy_npc/skin/creeper/creeper_template.png"
+hash = "effaa2db2b00b87505ed4e59549598106a7c63684b69e0c820c308b41eeb2385"
+
+[[files]]
+file = "config/easy_npc/skin/ender_man/ender_man_template.png"
+hash = "73579f345c51e7096168cacddf4b3e0a93b6c9880bded532a9d292c5917642a3"
+
+[[files]]
+file = "config/easy_npc/skin/fairy/fairy_template.png"
+hash = "db071fe581827f3a195df8344909bafb243cbf54c8931dc60a7785285946d1bb"
+
+[[files]]
+file = "config/easy_npc/skin/fox/fox_template.png"
+hash = "8cce109a5322cff97d82ea51c2c50d54d4486e57d48d72f20354d0e2e7aaf9a6"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/humanoid_template.png"
+hash = "b96aee293379a6a60a0e862dc338eb6a14ea31929b4f78d9923eb6b60940106c"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid_slim/humanoid_slim_template.png"
+hash = "1c194da6ebe3a991146b0ef04a6000451789887a62bf7ee2d8a49b50b4bec6dd"
+
+[[files]]
+file = "config/easy_npc/skin/husk/husk_template.png"
+hash = "81f7fb65d89044326626462c36bfdc28b45d7fb307543d5b28abfa7a3a031624"
+
+[[files]]
+file = "config/easy_npc/skin/illager/illager_template.png"
+hash = "d3a9f1a01c6b711bb3ca70f598f14f3cfde8017542a8a48f93f8489b514dc03c"
+
+[[files]]
+file = "config/easy_npc/skin/iron_golem/iron_golem_template.png"
+hash = "2fadcece746b8a921130968a567296e63d4dbdfd1282e21d71fbd278994a4fe6"
+
+[[files]]
+file = "config/easy_npc/skin/orc/orc_template.png"
+hash = "1469eab5ffabb32f3b8ed9965de819db03ee6b0bd950885ad88fc5c517eaf817"
+
+[[files]]
+file = "config/easy_npc/skin/pig/pig_template.png"
+hash = "e1d27259fbaab2ae6924d5fc73ed462215395f08f79ef1518005ee0f73f2a81a"
+
+[[files]]
+file = "config/easy_npc/skin/piglin/piglin_template.png"
+hash = "9d2dfd8515332c4ac529e51599ee89b8a4c359617a225d15a5147020034870a5"
+
+[[files]]
+file = "config/easy_npc/skin/skeleton/skeleton_template.png"
+hash = "aa91f44a9c36bea6c14537e4f73ab69a4b50d4406370577a7a0d63af4783a8c6"
+
+[[files]]
+file = "config/easy_npc/skin/spider/spider_template.png"
+hash = "f9f894b50e1ebf1a2ea9cede0e6b8eadb816ef951b4d4ad6a7e55ce85be3bf1e"
+
+[[files]]
+file = "config/easy_npc/skin/stray/stray_template.png"
+hash = "81f7fb65d89044326626462c36bfdc28b45d7fb307543d5b28abfa7a3a031624"
+
+[[files]]
+file = "config/easy_npc/skin/vex/vex_template.png"
+hash = "56c665b06aa06dcc111c6a7c09e02729c026350a30c98635df5f54e3d12d4bcf"
+
+[[files]]
+file = "config/easy_npc/skin/villager/villager_template.png"
+hash = "ee42acf22b0f8df770510a77e1c0988af96bb4f24e3b82a32b3364be021c760c"
+
+[[files]]
+file = "config/easy_npc/skin/villager/villager_without_hat_template.png"
+hash = "d24d599378f1fb54f343926c2d39c078c81021cab7da6337f7a688621327cac5"
+
+[[files]]
+file = "config/easy_npc/skin/witch/witch_template.png"
+hash = "ef51d0f6a893c201752ce5b12ee352651928d42497b102ba429d1b8cd25f2722"
+
+[[files]]
+file = "config/easy_npc/skin/wolf/wolf_template.png"
+hash = "47833f4690766423c63905c6950224b77867e1c30833fd9a7cdcc0d6455d743a"
+
+[[files]]
+file = "config/easy_npc/skin/zombie/zombie_template.png"
+hash = "e9a38d8b1980d1390575658004f1a8274d57e5f14afaff9a2c7dc06315d01f54"
+
+[[files]]
+file = "config/easy_npc/skin/zombie_villager/zombie_villager_template.png"
+hash = "fdeea612041dc4c5137675bfb656ff570cad4b33fffa995746f1e56290614516"
+
+[[files]]
+file = "config/easy_npc/spawner_type.cfg"
+hash = "2670ddac654370df5b39bbbdd7ee0baebbe35d36dff33b8426d68bcaedc82cd8"
+
+[[files]]
+file = "config/easy_npc/speech_bubble_client.cfg"
+hash = "850747edff41965a651ee5b74558ef0fc749e7522761dc4994a2103f0051288f"
+
+[[files]]
+file = "config/easy_npc/storage.cfg"
+hash = "b22843ad31a391cad670c6a20b345b6f3ea702fc2129ace93db88a1915b41750"
+
+[[files]]
+file = "config/elitex-common.toml"
+hash = "4b4a5806d628f7652dadb3768457b1bcdb4103712ba328375b1b4e6aac4d8071"
+
+[[files]]
+file = "config/embeddium-fingerprint.json"
+hash = "779a04bd0b8ea5029b1f3d791308df9f07a7331ad19f3f1ba3f15d0b59039b9b"
+
+[[files]]
+file = "config/embeddium-mixins.properties"
+hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
+
+[[files]]
+file = "config/embeddium-options.json"
+hash = "37ec84c36170a6f4b503d1b4a08ecdda8667bb8f85629e1792dc61df037b8215"
+
+[[files]]
+file = "config/encumber-client.toml"
+hash = "e9704a4af419a633b1e9dfa5ecbc554f107acd39cf802f8bd4b8100b5ce5f11e"
+
+[[files]]
+file = "config/encumber-common.toml"
+hash = "a40222484aed473eac8d52407b1066674dcc8e39c419f78bcbbac9f514931850"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "4a6d510b7e0157027b1cf2022184567fd5387aa09d08db108cb0369ba371ddbe"
+
+[[files]]
+file = "config/extrasounds.json"
+hash = "989b9a36e68984d58e83d6006db921330e00a1d799dc98e6de732ff7a3a02293"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "288d34acae55289cf61ffa5028d56b4f4c10abe3a263d8d801547f315b7f7671"
+
+[[files]]
+file = "config/fallingleaves-client.toml"
+hash = "2cd017af6632239398b694fadf8191d6073cf39585549876cc682843f521ecb3"
+
+[[files]]
+file = "config/fancymenu/assets/efz_logo.png"
+hash = "6c3da5ca0b3768536856e9ea06963f125aaa0d72dcf5d89f89661712aa28e7cd"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "ec1b24c37aaee80a80647ed48541faf40bcd94ab50e19b8f2b1848a1cc9e3a61"
+
+[[files]]
+file = "config/fancymenu/customization/join_multiplayer_screen_layout.txt"
+hash = "e719288fbd9bf784448cfa96fe57927b287251719a4b7b9a9c809900630fc151"
+
+[[files]]
+file = "config/fancymenu/customization/join_multiplayer_screen_layout_1.txt"
+hash = "ed26ab11a16909458735cacf10c6e3df641c3147c93467bc525e3560023b980f"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "34683d65f6cd1f9186908ee7a79e0a6c9a95e70d753c2edae73f85f22fdf6ec6"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "01384dc21b2674b9da92596efdefb1da87e0edf160ce97e8e815f0e065f93acf"
+
+[[files]]
+file = "config/fancymenu/ui_themes/cherry_blossom.json"
+hash = "993c16664fe2d1b9e8ad107bf1c19c1dbb244729c403ed058ca2e54616dc5452"
+
+[[files]]
+file = "config/fancymenu/ui_themes/cozy_campfire.json"
+hash = "1e7505231b9d99e6315845043ce810dfc7004ce1d8f5a4ceddb4ecb96c03ac50"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "ca080a805352af88f9cb67dd3e1714a0492d225bc3d69bab09be2285c8d84fe3"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark_high_contrast.json"
+hash = "54316a2b309ddb472b9133f8ccb8694dce9b57be6ebcfb3c2e9d1bbfdade3f26"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "a05e95f7b62f338049fe0045d9a6a50060d3aba52d5ab83ac1ed6ff55cac1153"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light_high_contrast.json"
+hash = "7c96ba2f2cb4d59d20eaf88960de7a9308ce8a3460c4e1757e07c42e174ea65a"
+
+[[files]]
+file = "config/fancymenu/ui_themes/pumpkin_soup.json"
+hash = "7c6a5d5b19e53ca2f88371c2e867f51339b045697aab29864df5877a6bba9311"
+
+[[files]]
+file = "config/fancymenu/ui_themes/purple_void.json"
+hash = "fa63577441fd576ebac90ecf06b7ded376cbf80ca5103d398bc9a73a25c6c2c0"
+
+[[files]]
+file = "config/fancymenu/ui_themes/spooky_season.json"
+hash = "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "c164439c632aa7c95c07edec5cfef74b8e2d5671a8445a781deeb4de7ad0c8b6"
+
+[[files]]
+file = "config/firstaid-client.toml"
+hash = "1958dc693b18974713765a60398dc601746292901c8a45ff7ddd620e15247cb2"
+
+[[files]]
+file = "config/firstaid-common.toml"
+hash = "22ef4e55f5ed2f22c97bd9dba934dfec0beaa4b284e23c7c8493cda9c4d5e504"
+
+[[files]]
+file = "config/fml.toml"
+hash = "4b9e1f5b9c84ceff8eebff012a1f2530c20659627b3e5e397e88a78e69d746d5"
+
+[[files]]
+file = "config/foglooksgoodnow.toml"
+hash = "11cd824e8c5ef2b5e14ff01df33f7ab677f03cf3c3dab49cb8455f67de2d5a90"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "0b1b3c45343435184c9dde3149b38afcdb97953e287686ecda54385f53ebcddc"
+
+[[files]]
+file = "config/ftbxmodcompat.snbt"
+hash = "9abe2c7f784810cac3ca71c74d02aacd5fe6861d744cb143d077a525a2b42e76"
+
+[[files]]
+file = "config/fzzy_config/keybinds.toml"
+hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
+
+[[files]]
+file = "config/grassiergrass-client.toml"
+hash = "b19c5cfdd784d0616ca94e5df4fcdba79d0a11cf95af18a496d0c68b6ee8d1b1"
+
+[[files]]
+file = "config/hourglass-client.toml"
+hash = "23c83d21ba514f9dd1aed6a7d4641c1fe0ed48c5a46ce6f802182cce616626f4"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "f2b7f219198f0a911d04b09f545f2c1256e8d114951443924878dc10963e16aa"
+
+[[files]]
+file = "config/immersive_ballistic/ammo_rules.json"
+hash = "242789d37f8d735c3f006b374d9967f8e762fc9c37f05282002923232e06f873"
+
+[[files]]
+file = "config/immersive_ballistic/block_tagger_rules.json"
+hash = "a2f97afe555e92a7066768e11a09783b0049bfcad5bf8a5c142a5b61775391af"
+
+[[files]]
+file = "config/immersive_ballistic/immersive_ballistic-common.toml"
+hash = "4e767e185d39e6f7c4530941295aaa023822aac1aa12e91021d8f04a18f98b2e"
+
+[[files]]
+file = "config/inventory_weight-common.toml"
+hash = "4d0068a386ce2e0a2349ed8695d91f1499ec10f15a136439eb35676c04c072c8"
+
+[[files]]
+file = "config/inventoryprofilesnext/delwelmaltha.crocodilo.vip/prev-villager-trading-config.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "config/inventoryprofilesnext/delwelmaltha.crocodilo.vip/villager-trading-config.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "a44027e5b5bf7106a7657a84978cbdb46b0d55ac9db0cf77636d4670c4ebfdc3"
+
+[[files]]
+file = "config/inventoryprofilesnext/villager-trading-config.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "config/item_weights.json"
+hash = "806738831e903c58ff8757a1db3d0aa47f7a6aba269ef215558c40fd8e41ff2c"
+
+[[files]]
+file = "config/itemphysic-client.json"
+hash = "bfb4cd0b2e0892049c1ebdb769975ad2637055f9a40ba89ce0c4d01525f0c5c5"
+
+[[files]]
+file = "config/itemphysiclite-client.json"
+hash = "e0ab9dbd2ac5ae54053431f22cfd56c0a49f438a3a313e2e40641351477d65ce"
+
+[[files]]
+file = "config/kiwi-client.yaml"
+hash = "fcf939cc6b0e0847b035a52b6e1d03510bb5a6a8b3bfabf959b95d1197a6a7a1"
+
+[[files]]
+file = "config/kiwi-common.yaml"
+hash = "8fb69c0a392b81158eef544771046c67bacc320710da6d63cf441277a821479e"
+
+[[files]]
+file = "config/konkrete/locals/de_de.local"
+hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
+
+[[files]]
+file = "config/konkrete/locals/en_us.local"
+hash = "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a"
+
+[[files]]
+file = "config/konkrete/locals/pl_pl.local"
+hash = "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8"
+
+[[files]]
+file = "config/konkrete/locals/pt_br.local"
+hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
+
+[[files]]
+file = "config/leaningornot-client.toml"
+hash = "cdaf2aa53b6d636bff5f32b82a2222180eec92b6a0ff18f284db198b0a1ea865"
+
+[[files]]
+file = "config/leaningornot-common.toml"
+hash = "9ffdd100fe8733355ef935f2564831798a3e678f4c559dfad0932d1e61699c7e"
+
+[[files]]
+file = "config/lightmanscurrency-client.txt"
+hash = "5edffdd02ce2f211aece0558ba1c03ca4b08a8d599352fb12a699d6e19bb5a9a"
+
+[[files]]
+file = "config/lightmanscurrency-common.txt"
+hash = "cd43fe6ef18239e9e05a1172728aa476181140492b28edb27c3ea4a6e1d157d7"
+
+[[files]]
+file = "config/lightmanscurrency-server.txt"
+hash = "8f4793c550a99388b08073cd4dd7a1519077f60a14ca3cdb9f0ab3a6f833d775"
+
+[[files]]
+file = "config/lightmanscurrency/MasterCoinList.json"
+hash = "ee31f783c6c8ae53e7a56bd6b0ae8568b820f8373e4bba76d630b1937d398948"
+
+[[files]]
+file = "config/lightmanscurrency/PersistentTraders.json"
+hash = "95e8f6a7f8690592aef9cd84ce5d9b10ccd245ccf8e8e8ed5701c3aff7ca9fb8"
+
+[[files]]
+file = "config/lightmanscurrency/SeasonalEvents.json"
+hash = "274cf03e46d4112029c192015d5db918cd28de3d4a02964c50b560c68d04bdb7"
+
+[[files]]
+file = "config/lootbeams-client.toml"
+hash = "f18ca202ccd783550bfb6ea11a3ef7ef14a2baa8b38e308d210491fc318ddd20"
+
+[[files]]
+file = "config/lootchestrefill-common.toml"
+hash = "a595e2a67eac99347c0e358ff90a2c8f6a42ccb184cd7900d9db442e7a8d9f16"
+
+[[files]]
+file = "config/lootr-client.toml"
+hash = "4e37c085446f2a5be3a3cc4765ffc9657e71473245574c3e398c64fef07615a0"
+
+[[files]]
+file = "config/lootr-common.toml"
+hash = "c056a537b6cbc9cf4c49f29ec98480537a68932e412f7c5dbd7f0a70bee69ce4"
+
+[[files]]
+file = "config/lrarmor-common.toml"
+hash = "bdec3b93960e7eb668779b201c0d483f569c9fc10c140d86900e0f9e2539017b"
+
+[[files]]
+file = "config/lrtactical-client.toml"
+hash = "4e6a04bad1226d0691f13d43adca9ba261c9237305f1f6757f08040a678b448e"
+
+[[files]]
+file = "config/lrtactical-common.toml"
+hash = "bbc36c3d894b632e919513f30373a90a9ea1db9ee4f7651d69393f863726b779"
+
+[[files]]
+file = "config/mobstacz-common.toml"
+hash = "119b942eca95976f018183950cfb1a8d2c6b504dbd38bf0c435bde144134530c"
+
+[[files]]
+file = "config/modernfix-common.toml"
+hash = "fad9aea710ec3508eab562cd8f2b5f8e2dda6ee1c5fb1fe818f90ce253017f66"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "cc9db08ca3f44714cf14117fb1772eed88c9cc3272fea6d17e657292c8799fe0"
+
+[[files]]
+file = "config/modernhud-bossbar.toml"
+hash = "991b3ff573509350047f6289c743647a172ff9c8555b19b49da525a493ae9bb6"
+
+[[files]]
+file = "config/modernhud-common.toml"
+hash = "36ae2c97b7f33f5816c72847cb8104e8a7737de918c46aae98c4ae5ca1ff1552"
+
+[[files]]
+file = "config/modernhud-compass.toml"
+hash = "4fc94d218ea6d2314cc10f7db3a1dab0051ff5988f488ac7de7bdf0e9190a1bf"
+
+[[files]]
+file = "config/modernhud-hitindication.toml"
+hash = "6c6a2ec7c67e53e40cea5cfbb4da769ad5c2b2aed3f810634fec2aa1a10943fd"
+
+[[files]]
+file = "config/modernhud-hud.toml"
+hash = "9d6333b73340a9925e1e440efd240763e09eb1cc840fbf2d7b5fbd4e1e62548a"
+
+[[files]]
+file = "config/modernhud-killstreak.toml"
+hash = "bbdd8d22d61ef838b868e0a08c2d65e9569da41bc66e5c071cd5a9f129d14266"
+
+[[files]]
+file = "config/modernhud-sounds.toml"
+hash = "982b914e9c44f5929145d6bbcf7ebf14396f663feb2ca731833022c671a10f79"
+
+[[files]]
+file = "config/modernhud-weapon.toml"
+hash = "4d7b2332523c5c052d951c9c6f9bffa627c88a0c412dc8cec2b2c4223afd28a5"
+
+[[files]]
+file = "config/openlights-client.toml"
+hash = "0862e977aa20c508b6d5f6576b4d34299bebcf71de09e3628ea53c2aaeb299f8"
+
+[[files]]
+file = "config/packetfixer.properties"
+hash = "5e3cf401fe18de8f87481c6e6ec69f7daa72db2792fbaa6b0c9af2d4cb09955a"
+
+[[files]]
+file = "config/parcool-animation.toml"
+hash = "9d6d18cd3523f96d32e8b1d2c3c5be51fd5becc1302eb94074e9e713f6ccd58e"
+
+[[files]]
+file = "config/parcool-client.toml"
+hash = "849762ce65d27b2c91963845bfeb60df2bb8e3a3150c87ce6a2271445b6e7b21"
+
+[[files]]
+file = "config/passablefoliage-common.yaml"
+hash = "2ec8f3337ec3f84131a920c7bbfef61ee9650cf2c09f2596082356f3af6ad774"
+
+[[files]]
+file = "config/physicsmod/physics_animations_client_config.json"
+hash = "d8a629b25da461374926b02b6649ed90154cb1bb6ab7e5208f519b5bcf29b08b"
+
+[[files]]
+file = "config/physicsmod/physics_blocks_client_config.json"
+hash = "e2665550ee44c95ffddf597b9b778927043df3bbeb7bd5c02356450db1513fa3"
+
+[[files]]
+file = "config/physicsmod/physics_client_config.json"
+hash = "64885191fbcbcbcb4a76d6367797c3d39a8a718e13099afc5027e96226ec1bcc"
+
+[[files]]
+file = "config/physicsmod/physics_cloth_config.json"
+hash = "c004242898b912a2ad1a836a4e017d921c1e8660180565ce56dc4cadc027e939"
+
+[[files]]
+file = "config/physicsmod/physics_mobs_client_config.json"
+hash = "752775debf65550a6a11ae2cc27c6f5c649cb8ac833a496e5c222d484bc63c14"
+
+[[files]]
+file = "config/physicsmod/physics_server_config.json"
+hash = "1afde48eff108eb21adb246de5d44ef6ced16862cca62cf0123c059a9934c7cc"
+
+[[files]]
+file = "config/physicsmod/physics_vines_client_config.json"
+hash = "d58f9519b1ff4bfde113949ddc9e0a938231f3f826b0744388a27fe6ecb48803"
+
+[[files]]
+file = "config/playerrevive-client.json"
+hash = "66afd32595b00de5d2837780a5866d600e296d9200a4e4fb1b6a2ef94693c909"
+
+[[files]]
+file = "config/playerrevive.json"
+hash = "7bb3ce3720fd4c2f723e0800ffade9b6bb53d5646f7b357324690e42c4e759cc"
+
+[[files]]
+file = "config/presencefootsteps/userconfig.json"
+hash = "6cffea1c20852a079342429a0f223fcc45993a51596c4736e0fe1910c3fcba52"
+
+[[files]]
+file = "config/prettyrain.json5"
+hash = "7a009b89faa448fbe6b4e9c0d005b4469d8c4fde23da18369013e9357b1f2282"
+
+[[files]]
+file = "config/rbi-common.toml"
+hash = "471f417bb6d5c535f69f0611f04e13b3efb5af10c212d886034f7a1a2985a2ce"
+
+[[files]]
+file = "config/securitycraft-client.toml"
+hash = "b389265c37589ce6ff1581890fd2c0766b6477e223447a9670ba153008d331e1"
+
+[[files]]
+file = "config/shrapnelexplosionsmod-common.toml"
+hash = "7c8a5fb3474fc1936067bb66b3cb04e7283fd47d005883119111f985b712895e"
+
+[[files]]
+file = "config/sidebar_buttons.json"
+hash = "c9d079f82d0e6d6c3f89695474c072fb3b2743197f0d68a701f58490a6bb3d52"
+
+[[files]]
+file = "config/sodiumdynamiclights-client.toml"
+hash = "a07f02d32ca757d3aab93dbff71081a33ea30300d85a0e5defee53eb83e7161f"
+
+[[files]]
+file = "config/sophisticatedbackpacks-common.toml"
+hash = "6674ec92f625296aa8accc93d71fdf1eecfc8050111c5ae7b6d9a94b4fe14506"
+
+[[files]]
+file = "config/sophisticatedcore-client.toml"
+hash = "3175ac14ac1da55ba706d1f0321c0b5620cd968a381e60323b283778e7b6d9e6"
+
+[[files]]
+file = "config/sophisticatedcore-common.toml"
+hash = "aa033fa3f2c439b7cc03256ce5e4f271a6b44a11eeac55d7bf3bf34b20a1136d"
+
+[[files]]
+file = "config/sound_physics_remastered/occlusion.properties"
+hash = "ebbac45fbb3ca01487b85ffee9601b213b71896e6606fb297bcb0f3ac9c30ffb"
+
+[[files]]
+file = "config/sound_physics_remastered/reflectivity.properties"
+hash = "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"
+
+[[files]]
+file = "config/sound_physics_remastered/sound_rates.properties"
+hash = "efd1ea530d07abe92cf29413729bf0cf39d88c6e14fcaf2a9d5b45e5d40cbb57"
+
+[[files]]
+file = "config/sound_physics_remastered/soundphysics.properties"
+hash = "d29dede3f214ee4b1aa03314f92c3f973c21ee6e26d173eba3d01a2083237b6d"
+
+[[files]]
+file = "config/structureloot/chests/apteka.json"
+hash = "ee4e88a8a36e331f55b6e6a73fe96dbe54b8624475d5e170ad505625d3b21e14"
+
+[[files]]
+file = "config/structureloot/chests/yshik_xlama.json"
+hash = "c7fc61daa67c66128750f8b93081387ce6de99c584feafc58300a24364670550"
+
+[[files]]
+file = "config/structureloot/pools/README.txt"
+hash = "8775ce34a68c0625cacf425462bfd48531bdcedc3b424efa1bbe97251dbb48f1"
+
+[[files]]
+file = "config/structureloot/pools/minecraft_chests_apteka.json"
+hash = "6f1efaddba77ebf6d4b88a452e7945bd74f65a1c3e41bdc4a79f21bf1189f7d5"
+
+[[files]]
+file = "config/structureloot/pools/sample_bastion.json"
+hash = "f4d877cd6a3c5a78576d9e1e960e88b621a132d6f44a9b8240a1f9f431599620"
+
+[[files]]
+file = "config/structureloot/pools/sample_stronghold.json"
+hash = "77b3685ec91b3d01cece1ade5cf6540d567075a7e08dbc7d0cfde6f007c43268"
+
+[[files]]
+file = "config/subtle_effects/blocks.toml"
+hash = "4062dafdb9fa250d49d2d60c0fac38c3a37e68d216299fec1152d6d18b67a708"
+
+[[files]]
+file = "config/subtle_effects/entities.toml"
+hash = "4afc6ef851cb166b7954b75a6ea6fc66e9798b552eac7ef2125b9a012f172fc6"
+
+[[files]]
+file = "config/subtle_effects/environment.toml"
+hash = "2ee2918575611ae2fca4d3be651b71285fc78484de74d9877f6c33fd84b32dc0"
+
+[[files]]
+file = "config/subtle_effects/general.toml"
+hash = "5353166984807de971960ac2286baf08a94558ca54811348d7d3ade8fc171d85"
+
+[[files]]
+file = "config/subtle_effects/items.toml"
+hash = "3dfa90bb57bcdc017a84d57c16acbb4228a0cb217443bb83cf2be9276f26455e"
+
+[[files]]
+file = "config/tacz-client.toml"
+hash = "7db36b0a3464774dfa9c82499317038349b5366dc802f5610f2728d429201b4f"
+
+[[files]]
+file = "config/tacz-common.toml"
+hash = "2c5645c6cb879b8f1917d4473c5b6c26fc57cc814d408703c9ac774f3b523958"
+
+[[files]]
+file = "config/tacz_ammo_hud_customizer.properties"
+hash = "b7aea1cdd9382fc28ae728b2a9253e335c79204fee27bee9ead3778656c3fa68"
+
+[[files]]
+file = "config/tacz_npc-client.toml"
+hash = "24684ddb1aa673c57c5ee25472343df2556334e96d9f2b8b1ed1ebd5f1a0204c"
+
+[[files]]
+file = "config/tacz_npc-common.toml"
+hash = "2f4aaf632c9e8db5dfe6f39a9a8c8150903af2319c39cc6ace926d6923ce1742"
+
+[[files]]
+file = "config/tacz_realistic_drop-client.toml"
+hash = "6baebb80cb8af789f9d5c87d277571e1fd39945dad9548005034754f0a98c89d"
+
+[[files]]
+file = "config/tacz_tactical_hud-client.toml"
+hash = "c0661be1d4261f7800394ee4f03cfefb31d04168dd0fd8365babf9a57de6f4e6"
+
+[[files]]
+file = "config/tacz_x_guns_lights_addon-client.toml"
+hash = "5abeda005174ec801f5392d81abdade8b6635e227919b926d8cd8245be43b83c"
+
+[[files]]
+file = "config/taczaddon-client.toml"
+hash = "d3d422dfc084ee986bf7ac0867720c8353285193973c92ff19b7b8fe22402c17"
+
+[[files]]
+file = "config/taczaddon-common.toml"
+hash = "d8ca14344f5b386cdd2ff6470641f175fe253505e8beb27342a564274104316d"
+
+[[files]]
+file = "config/taczexpands-client.toml"
+hash = "b9bd94ba62e2a4e06e739ea8065653dd1007764c5664c6f7615293bf723354ac"
+
+[[files]]
+file = "config/taczexpands-common.toml"
+hash = "d486f3b2ec243ba86287f4dee105ce2a748764bf3815ced2e5dc3adb07acbd90"
+
+[[files]]
+file = "config/taczexpands-pre.toml"
+hash = "1cfe56375c377c24afc7fb0258cda6b27437bfbca3317885fc4dbc74f6c565ee"
+
+[[files]]
+file = "config/taczexpands/actions/example.yaml.disabled"
+hash = "e2cb0b19eb959065525521c7c11167d7b448c6e99ae5473075890e6783da97b0"
+
+[[files]]
+file = "config/taczexpands/conditions/example.yaml.disabled"
+hash = "d61ba1576fbe9ce04ba7e1d116c2f6da351a6ef662e56a38eb6cbe201c7f0105"
+
+[[files]]
+file = "config/taczexpands/skills/example.yaml.disabled"
+hash = "52c6419f1361258fbd2ab48d59801ed2cfb391daad2b7d18a25e11b709398c94"
+
+[[files]]
+file = "config/taczexpands/volatile_variables.yml"
+hash = "fecb1e01a95f1c62dd84f78898a28650d9595e5b4d5e6a7343cbb66e95fb2d08"
+
+[[files]]
+file = "config/taczopenlights-client.toml"
+hash = "600ceb98ae52e651d2cc0fed2c39acba0fbd6189f5f81b4a153dd2e3a9703370"
+
+[[files]]
+file = "config/tacztweaks.json"
+hash = "74f37ff4aa9dfe9caaecf701b1731c1c58365e3c398a81e7c4d8695fcf72d9d8"
+
+[[files]]
+file = "config/trades/lightmanscurrency/custom_banker_trades.json"
+hash = "f0616c88fccecdec2f7598c645bfae5b38c2a9149debf76d0d8c20d8ea796f59"
+
+[[files]]
+file = "config/trades/lightmanscurrency/custom_cashier_trades.json"
+hash = "4346c3364fcf1d25eccf8cecff29b7f8a4d08927ded0d8873e2c25c7ac936990"
+
+[[files]]
+file = "config/trades/minecraft/custom_wandering_trader_trades.json"
+hash = "b61836fb27f8ce442e93dc33f891b87ae344752ac76d5062584eeead398b5949"
+
+[[files]]
+file = "config/transition.json"
+hash = "60420a41571a4658b91babfa2b47d6fefb7c1766eeea969f51ff98ab34c2431c"
+
+[[files]]
+file = "config/trender.json"
+hash = "fe0bed19bd0927b3d519816c73378730689080a8f07e66a6167c266ffde29dd2"
+
+[[files]]
+file = "config/worldedit/worldedit.properties"
+hash = "a9b198097398d0d6458d27a5c2fa4cf2a402292c740b6e6aba1db31816bc8ffb"
+
+[[files]]
+file = "config/xaero/lib/client.cfg"
+hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
+
+[[files]]
+file = "config/xaero/lib/common.cfg"
+hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
+
+[[files]]
+file = "config/xaero/lib/profiles/default.cfg"
+hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
+
+[[files]]
+file = "config/xaero/lib/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaero/world-map/client.cfg"
+hash = "d0f079a8df083f6f60a0e0c1316a25fc841755a91bdcb2f86c66ead8e7d4d13d"
+
+[[files]]
+file = "config/xaero/world-map/common.cfg"
+hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
+
+[[files]]
+file = "config/xaero/world-map/profiles/default.cfg"
+hash = "5422abf9c83fedef6509144293fad20f588d4bb6ce0cf1af78cbcd2bcd0d2ccf"
+
+[[files]]
+file = "config/xaero/world-map/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/yacl.json5"
+hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
+
+[[files]]
+file = "config/zerocontact-client.toml"
+hash = "2a61fd409b33cd5c317e8d34d0637ed2e1a0ce4e8cf935ec5ffe06db156d8747"
+
+[[files]]
+file = "config/zerocontact-common.toml.txt"
+hash = "59f136086dd537ead9d8d2690dbdbb7c7faf59dd7774100e2bc5f499929a6804"
+
+[[files]]
+file = "config/zerocontact/override.toml"
+hash = "4850a970699b85b0d476797ff89e6bcadf5b41016722ca1facbed3c977f7693e"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/geo/bastion_cover_black.geo.json"
+hash = "444ebdc3bc957e5aa2f102cfff3f249129e1e1f5bf6414c3198f73a7179afbca"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/geo/c2r_headset.geo.json"
+hash = "57a9a9bd93c3055e2dc17b495c344518e318ddfe66aae86b678c1d174e921b55"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/geo/c2r_helmet.geo.json"
+hash = "71184fae633d791a2a2a9fe457fff1b9a0f6688a56205662d59656b9b9e5cea5"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/geo/c2r_mor_lite.geo.json"
+hash = "ca030c676be880a8ed5f6e79b028d628212dcfabf5210fb9c2b2cc22a471067d"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/geo/g3pro_ctsfo_pants.geo.json"
+hash = "fa5891db52f182a930988590d6a188f4d74c46b14c723df5f991550cf2dfba7f"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/geo/g3pro_ctsfo_top.geo.json"
+hash = "6a70d3f48ad244f4ee367464def588b2b3982610df0ece13929ca9028e02f3d9"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/geo/hound_wolf_armor.geo.json"
+hash = "a09d19914a29aadbc338042d3c1337879bdae0ddc1286095d9e5bb5d2d1c7756"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/geo/hound_wolf_headset.geo.json"
+hash = "68c7d16677ee03d726f83931abaea526313957da33c5c5fe50a4ee17647ac9c6"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/geo/hound_wolf_helmet.geo.json"
+hash = "44cbd72195163da7263f33e4b6996e401b528f9187a7f11fafc680e55fa99f91"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/geo/hound_wolf_uniform_pants.geo.json"
+hash = "5062d79ef54bfd778d690b3a921e4ce12c9a49082052afe4133164b3b263d71d"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/geo/hound_wolf_uniform_top.geo.json"
+hash = "0159d6fdd87222dcd7d03f6cd1321d13aa197d87dc614f50d49cdc4a24cc8f5d"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/geo/iba_otv.geo.json"
+hash = "7f4a6dcc203b2bc230f0992b176e40983b17152f13e45e31c99de0e7a9cbcad5"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/geo/iotv_gen4.geo.json"
+hash = "a66a5d91d100fe524ea2f0d1e821245e9c23f2f9068b107321a85758ea661ec5"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/geo/jx.geo.json"
+hash = "921a14fc65263459b6d50f7ce1bc4104cd758639beb7447bfd89664a8b7ebf47"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/geo/sb_gpnvg.geo.json"
+hash = "95b14c8a2bef534b6ac5bc5be56da1b4a7cd83b1013e471884c44e8f94f12049"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/geo/sb_nvg_pvs31a.geo.json"
+hash = "abc34ce6e3ddd6c8019839800e492617ca73a6ffc8b154050db338efeed27744"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/lang/en_us.json"
+hash = "3a37c44fade9d285c7ea47b2ee23c061249d5c15e387550158944847ba3ee4ff"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/lang/zh_cn.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/models/item/armor_c2r_lite.json"
+hash = "5eb82a5867d2283b47a3e1b4fbf2a9d54e49445b3a8887d3a83667c36c3b6435"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/models/item/armor_fcpc_v5.json"
+hash = "5eb82a5867d2283b47a3e1b4fbf2a9d54e49445b3a8887d3a83667c36c3b6435"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/models/item/armor_hound_wolf.json"
+hash = "5eb82a5867d2283b47a3e1b4fbf2a9d54e49445b3a8887d3a83667c36c3b6435"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/models/item/armor_iba_otv.json"
+hash = "5eb82a5867d2283b47a3e1b4fbf2a9d54e49445b3a8887d3a83667c36c3b6435"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/models/item/armor_iotv_gen4.json"
+hash = "5eb82a5867d2283b47a3e1b4fbf2a9d54e49445b3a8887d3a83667c36c3b6435"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/models/item/armor_lv119_wedge.json"
+hash = "5eb82a5867d2283b47a3e1b4fbf2a9d54e49445b3a8887d3a83667c36c3b6435"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/models/item/bastion_cover_black.json"
+hash = "4f33a7a5404b2958ebe743bcc25b396db42ce68fff20ff14b646cba15a1c351f"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/models/item/headset_c2r.json"
+hash = "6eeb8718451d828aeae686b03dc10e6302ab84ba337fe81b2f92f4c52f1c4a42"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/models/item/headset_hound_wolf.json"
+hash = "6eeb8718451d828aeae686b03dc10e6302ab84ba337fe81b2f92f4c52f1c4a42"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/models/item/helmet_c2r.json"
+hash = "573e05ac54c758b418ba4d2b376ac40d7e62ab5ed4291a8cb516752a2ee66e47"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/models/item/helmet_hound_wolf.json"
+hash = "573e05ac54c758b418ba4d2b376ac40d7e62ab5ed4291a8cb516752a2ee66e47"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/models/item/plate_colossus.json"
+hash = "8a648d095d0ff1f7c67f0f6523f931c19776fe808cf705e6bc45e276a7654712"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/models/item/sb_gpnvg.json"
+hash = "56304595da757bb62dba1077eb97902409d89ae678d9bd2399ff56cd932beb4d"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/models/item/sb_pvs31a.json"
+hash = "56304595da757bb62dba1077eb97902409d89ae678d9bd2399ff56cd932beb4d"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/models/item/uniform_g3pro_ctsfo_pants.json"
+hash = "a488ce247009b8bdfbb2e95852e5959264f05a1d7805c212d072d8da5979a305"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/models/item/uniform_g3pro_ctsfo_top.json"
+hash = "5eb82a5867d2283b47a3e1b4fbf2a9d54e49445b3a8887d3a83667c36c3b6435"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/models/item/uniform_g3pro_pants.json"
+hash = "a488ce247009b8bdfbb2e95852e5959264f05a1d7805c212d072d8da5979a305"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/models/item/uniform_g3pro_top.json"
+hash = "5eb82a5867d2283b47a3e1b4fbf2a9d54e49445b3a8887d3a83667c36c3b6435"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/models/item/uniform_hound_wolf_pants.json"
+hash = "a488ce247009b8bdfbb2e95852e5959264f05a1d7805c212d072d8da5979a305"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/models/item/uniform_hound_wolf_top.json"
+hash = "5eb82a5867d2283b47a3e1b4fbf2a9d54e49445b3a8887d3a83667c36c3b6435"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/models/item/uniform_wedge_pants.json"
+hash = "c22a763887b4ff6bf0d8075495213b0c54f1683f6d9ab58154199d3092d76a4d"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/models/item/uniform_wedge_top.json"
+hash = "5eb82a5867d2283b47a3e1b4fbf2a9d54e49445b3a8887d3a83667c36c3b6435"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/textures/bastion_cover_black.png"
+hash = "97f438b53d5e55426d22211b725d9ed17969a6c65907b0666262a42f66eeddab"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/textures/c2r_headset.png"
+hash = "f7fdf38c14043c0a13c1661f7425cdeed7b4469c8f5cc1101a480eafa5f9a475"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/textures/c2r_helmet.png"
+hash = "f7fdf38c14043c0a13c1661f7425cdeed7b4469c8f5cc1101a480eafa5f9a475"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/textures/c2r_mor_lite.png"
+hash = "21aa22e34d8184d1d068b859052bbfb5b93196104528c1147692900ed3402a44"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/textures/g3pro_ctsfo.png"
+hash = "70d67c987499182e8271268705e811b7d730c701a11af693c4c80c84b0ae04b8"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/textures/hound_wolf_armor.png"
+hash = "b73c305e1dc900c48a478afd3c391278cde4036ed63c1623972c1b78bee30d02"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/textures/hound_wolf_headset.png"
+hash = "64f08de4f683ca34aa143737b13c341a068236db9b544c4a053df420f710609e"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/textures/hound_wolf_helmet.png"
+hash = "64f08de4f683ca34aa143737b13c341a068236db9b544c4a053df420f710609e"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/textures/hound_wolf_uniform_top.png"
+hash = "55a51fe54409bff131d4301be799cf8aa3c9e1289f8c8056e7130f8a94db3e59"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/textures/iba_otv.png"
+hash = "5959c51e783837f9e3dee378cc25eaadb4efe2f8d58eb474fface6b831901328"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/textures/iotv_gen4.png"
+hash = "a9193a697694113e976b20d797309893b5fcbb40d47268c00a016986b3faf755"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/textures/jx.png"
+hash = "39d9356cd8a1c249c935c648e7d241af85dda0ac952ea45420164926fb108b47"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/textures/sb_gpnvg.png"
+hash = "96b0224f2d37389cc43ba5a4d185f3d358410ed5ca82fca9154ed7ac87c45af5"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/textures/sb_pvs31.png"
+hash = "8cfb5118700244343e1061cb256c53d6119d6ec8c91f38b4f989276bb263a103"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/assets/zerocontact/textures/sb_pvs31a.png"
+hash = "816bde365fcac39c7d6ef8e4ed52db17d8bd82023bf9ccbbc96bceb26aed8af3"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/data/zerocontact/items/armor_c2r_lite.json"
+hash = "28cf5008e165bb030d5355459ac2c448e43a60e3da39e1bc57eb56c2964af717"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/data/zerocontact/items/armor_fcpc_v5.json"
+hash = "fada4727ada06697294779b846aaac1fb037accecf294ae4024fe3bf579eb116"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/data/zerocontact/items/armor_hound_wolf.json"
+hash = "3b77621e9090d4d11312e1b7cbcaebe217ad2a163b26320261fabefa03310bd5"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/data/zerocontact/items/armor_iba_otv.json"
+hash = "88565b317c79590d9e9d70b486114e808d50290b02a5ca8ce321595ff6f5df75"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/data/zerocontact/items/armor_iotv_gen4.json"
+hash = "539c34e92eda6d742cd6b25a88a4b1471a311f37388b8d8d44338d07bfafbdf8"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/data/zerocontact/items/armor_lv119_wedge.json"
+hash = "bf9cbad5923849f5f87012a36de1309a8c52908375bb52aac2bb62ab2dc85713"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/data/zerocontact/items/bastion_cover_black.json"
+hash = "b20b5c8df2bc08837e05ee7f2ac4917d496a525b1121e2f345e4fca28b80efd8"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/data/zerocontact/items/headset_c2r.json"
+hash = "522dd3ff61b43ece5c6976053817a779e7ea71cab6c73b47f29dd47047ef18bf"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/data/zerocontact/items/headset_hound_wolf.json"
+hash = "05ef9a85157c5a26dcdf73d52c5651e1904c624160c8c92b762926659b035e62"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/data/zerocontact/items/helmet_c2r.json"
+hash = "02a0e627b437cf9ab77237ee1aa0d8b4a54c96c2da0ef89a48037a59c930812a"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/data/zerocontact/items/helmet_hound_wolf.json"
+hash = "120490dc836902489af8c9ce5ddf010b276ec339a47bfd4aee5017ac23ddfe6c"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/data/zerocontact/items/plate_colossus.json"
+hash = "ee55dc1b09ad4119b4106a477001a221a96b78baa50e0e3d8b3f266b2d8d5d20"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/data/zerocontact/items/sb_gpnvg.json"
+hash = "37e094038e47ac6c9b80670c23c63ad6f187ffef9c6f9b881c00e2afb30c1c00"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/data/zerocontact/items/sb_pvs31a.json"
+hash = "0f613cd42c6998fc499d75c2a3f65fe82bacea5f5e5d380b4b26797ce0db9207"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/data/zerocontact/items/uniform_g3pro_ctsfo_pants.json"
+hash = "af622004b3f6ed14eaccddd7b5ee6fec87c3144e6d6256f5bda42a3b2a92c315"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/data/zerocontact/items/uniform_g3pro_ctsfo_top.json"
+hash = "e4144df665836370df8cf013ed8d4828c807ef549753ae123a686b359437db2b"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/data/zerocontact/items/uniform_g3pro_pants.json"
+hash = "06688e57884221c04606005e0b34c34037cd40f0c2407081c6893613bc6d511c"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/data/zerocontact/items/uniform_g3pro_top.json"
+hash = "6ef75bf58107b1483cbcd28f4bb3d82abafb1f2fc18524cea2e6e7f95fedf080"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/data/zerocontact/items/uniform_hound_wolf_pants.json"
+hash = "45a716827a692d005051412a5eb32b1ecf8c3bc925269c80f713617b3732afe2"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/data/zerocontact/items/uniform_hound_wolf_top.json"
+hash = "55b572804ae37b7b13d962cd4afe1b520a60c51a4c5eb6d538b4ce5deadec446"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/data/zerocontact/items/uniform_wedge_pants.json"
+hash = "21621f988b18d7932901d8d974d0b411fe39d50a22adca222ddcd09bd3e46217"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/data/zerocontact/items/uniform_wedge_top.json"
+hash = "be17ccd4c8ac3038a3d218fbce0dbe1816d3efe21a31d9e5725dbdfdcf76d351"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/manifest.json"
+hash = "cca25ca03042fa02f5ae280dc45ffcf1064e033863f42840538dd559df319b50"
+
+[[files]]
+file = "config/zerocontact/packs/content_creator_smat/pack.mcmeta"
+hash = "8d9acbd74b29864057c97f59e5662a573e6c52482be51bcb64d365ebd3b5966b"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/lang/en_us.json"
+hash = "808b2fa9542f8d8b2f2adf294bde8eea8cdcfadb21f526ecc60963aadd1d7f54"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/lang/zh_cn.json"
+hash = "e947eddd1de3ee1e6a1a286ed4aa19758858a91a86b827a711dbe12b17affe5f"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/12g_ap.json"
+hash = "45025ef7d0406f8e68e6bf41a9231ddc7ed4ecf52052684c09c3b7e66f434cb7"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/12g_db.json"
+hash = "42d5325f8ba94c80c605fb436105609b096c9ad363143da521240b0bf634bae1"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/12g_flechette.json"
+hash = "2b707433eb3cd93882088f418959f346dca6da1e9680b4e8f6c9d48544008cc6"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/308_m62.json"
+hash = "3d34337f60744156aa27e692b3897bfc16b8c8e3eb13fe111074da993caf9c57"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/308_m80.json"
+hash = "9f7e95d1cc5a5a95bb7bde1767dbd77d51acaaa6c7fc3630dfeeb9b593412e0d"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/308_m80a1.json"
+hash = "c090221340d14bf7c410b3b9b22a30f5624197491eab607ac8256b0ee9c9299f"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/308_m993.json"
+hash = "b40a84e04460c3b0f694cca58d573e793148cf612bd5cb6b331a7e88c3f07a78"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/308_sp.json"
+hash = "1826c2d091aaccbc859358679aae9e9749916d0152c70270a7c3b16aaa167ff8"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/308_un.json"
+hash = "7d28e1453146e8c6efbac8a99855c31792fda4a5dd1ab4b4e949cd0bd14248d7"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/338_ap.json"
+hash = "7233a8bf5b2a0836d18b0b3df4ad655b6bce9a40bfe71181ed0c150212efc61a"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/338_fmj.json"
+hash = "7d1e9a3d6f8b23b7054f1afc67384bffef2e8a815b7421d93588e4f9d7d9b3e9"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/338_tacx.json"
+hash = "8b1f8e63b584f4b462a8b4d163c54db570d47aef8a5908e610e82dcb8bf9ebb6"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/338_ucw.json"
+hash = "b43f74c2fad9e5ef2b0882a7beaaf967f05d705e277b7e8d4be83faa8a367c0d"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/40mm_incendiary.json"
+hash = "042cdb7b5c681a8f6f0f573424f86e9934365079366112001b1f8a9d5a17a3c7"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/40mm_smoke.json"
+hash = "ecaa13e4407ab3b823ae0cc3c56a278c183000123af28ee0d3b61cc0eb8fc42b"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/45acp_ap.json"
+hash = "a5fb90c70171a6a0ea418fa15a2335af144ca456db96e042bfaac5f605f73627"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/45acp_fmj.json"
+hash = "26601a05af5a529f966253288a75eda677e1a7b920b7ec43e6157f4ea8f9e42d"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/45acp_hs.json"
+hash = "cd06faee45c2ff31415bf0f576d29fc58c8ce02dc3a1d0cf979e9430f8564a1d"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/45acp_rip.json"
+hash = "7cfc06b8bfd3e21328e6fcf24e09db190d003d9b5370bb23862beb32c010b31c"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/50bmg_api_t.json"
+hash = "3147125c19cd301d423767590b0c8c16cb2b45d5084432b58e08beac88c09725"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/545x39bp.json"
+hash = "f5194d262d268ed2da53910614f14d440c8e14f003cff8ebfb0786bf756e1568"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/545x39bs.json"
+hash = "657b98197c5247ccdf1b6e8497d4776763a2097d19f6f457077957f4bff57cbd"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/545x39bt.json"
+hash = "18f5c32daae9ef710f7dbb4488953c3e2275bc3be5f791935537a8416cec371b"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/545x39pp.json"
+hash = "7f9067e0945fdc97d1b53042630eab93302aa7153ed8c73a0030fd643697fe3c"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/545x39ps.json"
+hash = "59a28711e1a6703d89766b58b687e44f427d0e1bff4f717ae0067c19385ca62c"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/545x39t.json"
+hash = "02e9943d5f65d93243d47e57d118bae1f7ce64294e161009cdb5647b8f0c38ba"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/556x45ap.json"
+hash = "db559781966f026dbc87ab155405f55852893edc9004222fde065c2766e27551"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/556x45hp.json"
+hash = "e483141d1644ff5ca1f84e8546a241f0a63ef158e71e063a710a2128d3adafb9"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/556x45m855.json"
+hash = "9b28c5825723127f21fd0044448995731a98c01607b0de5db09d22c8ed7937f9"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/556x45m855a1.json"
+hash = "771f0fa017296b5d6cdac3d5eb07f99bce79a02bb11d2c7ad1227cc1b7394387"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/556x45m856.json"
+hash = "e1f24a42f389dce46f632731693960c3e247a52e81f6f9e634720a9f041c4907"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/556x45m856a1.json"
+hash = "91fc99ca10aae7c565847d1485cf032183b06557d531515d7619eeb80a5e59e6"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/556x45m995.json"
+hash = "73ff71fc3c677528808f03351d75ae22eef5e1448a3f0d93c758b69f760dc91a"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/57x28l191.json"
+hash = "9f01268f43645c4fdba032c2d33f063e63e7e616a6e28cf6b337f53e7652e094"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/57x28sb193.json"
+hash = "110d4a53511995151f43a9b8e973a652d7f0ec70ee0d48e0277f7246e8101502"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/57x28ss190.json"
+hash = "ba583a9fcc946d52554f9d6320e6a0a946941425eae37373856ba246b96cc262"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/58x42dbp191.json"
+hash = "44e87dd54b0d33e789c47f431b814ffb786b19b49ac33de869785e09883d86c7"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/58x42dbx95.json"
+hash = "29879de303308691865d8b9ddd4168c452e1dde8151d2a1aaffabb7d7c45f489"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/58x42dvc12.json"
+hash = "e97ec2e669e0a969e6b6075f013c2ec9746220054185cd3076f5f5543c372b0b"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/762x39ap.json"
+hash = "a6f5b29436b84f8131a6c3109ae398ddf0c5a7137d8a9757e625871cff15a38f"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/762x39bp.json"
+hash = "570d69585349a8875b9d510c14d049e8622e9e35851a93a667ea7e2ac7f3d3b1"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/762x39hp.json"
+hash = "25c23adfd3fa40a1bb15c2c5050c73e6e7b375fb6a6c728e37eccd654439951b"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/762x39pp.json"
+hash = "cc186fdc581b6e7840f8bf070284d41e4a5f4991b5bdeb57eff4e7518a7c280a"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/762x39ps.json"
+hash = "89192167f04a2a2d7ae30f1354e857b9791e9e424b6906bc785b66bfb3c94ef9"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/762x39sp.json"
+hash = "51ed2bb4551709085b7841812d7de83b61b9f80ecdeedae53a850c9aed6074fb"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/762x54bt.json"
+hash = "13c515ef2befe0d7dfe19b095f5bddc6262a9848f77fe3a9238d2ab486c1da80"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/762x54fmj.json"
+hash = "1e6ea69f86a916b4659e53d3cf0dc77435a50606dba80ce77bd716184823a149"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/762x54hp.json"
+hash = "909248dfb41ee7787cd55cc5d113cff2d010ec631b4c7e7d39eae861e81709dc"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/762x54lps.json"
+hash = "82ae260623d0b33e7cb091836087d8e5f6e2cab3cb278ba2320d271a3f3d74d0"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/762x54snb.json"
+hash = "953e3963ebebbe2c6ecb67445908a26b03ab5528f3546be2ee9a053edd96f7fb"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/9x19ap.json"
+hash = "baa0509c09b9590f71452cde1b562830bc68f191851cda85d65a4f0473128893"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/9x19luger_cci.json"
+hash = "e642a709ec8dfd7596f996e3f966514129c066a3d2cae2388fbd52314b5e91ce"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/9x19pbp.json"
+hash = "b6f5221877943914334c34f4d5cc67d9cd1b12ce266b91f2447f2e8ab9018cf0"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/9x19pst.json"
+hash = "21583cc0d0b495a62aedf9a6b861bdaabb534d0a3b68bed43526feb994fd71ad"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/models/item/9x19rip.json"
+hash = "4fb38a5499994a88263709da05bf80ab10647cdaf1c19090bfb81a6aaf83a894"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/12g_ap.png"
+hash = "5f2ab6457d920d4863ae6fba3513f2c265d2fa4ba04693c2127d922c54e46950"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/12g_db.png"
+hash = "d0d6b1a374d7db99877000e9b2e92726235fa93418074bf765ca6879cb10fcfe"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/12g_flechette.png"
+hash = "2ef93989ae0f190d713a3226b6154d693f36bffc15ad2474d23662b8c44c7532"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/308m62.png"
+hash = "2c44923d678f0047355a4b1afd5901ae07b31080b1a55a25e95eb2b0b56b23dc"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/308m80.png"
+hash = "6251c4d789dc481ccc1524c6fe97fefe8d8587ece18184f12eab1ed8e38d8786"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/308m80a1.png"
+hash = "371311b18e97becb862e171dd4e9b7c3e9a25d8a1b6b4102731819b1b9099404"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/308m993.png"
+hash = "4e6f7c570c5980f3e32107347d2d614d79b833da99ecd280427f28a0296cee6e"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/308sp.png"
+hash = "f806addd7507f12b72a0be971bb6fa85801e01686a5d711d0ca8fa6affe8b2e7"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/308un.png"
+hash = "2747f086766a0221275d21a0fc55f3ad5ec16e7b267268770a9ac3476f4ea07c"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/338ap.png"
+hash = "2e3e63789c0b8963be0f4b6212c3f6144592c34b9b46006c6c1f89b876988f54"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/338fmj.png"
+hash = "fbbc6a7e1b8f24da239814ee02f014803f66bc402f58401d7ae8805ac6010c22"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/338tacx.png"
+hash = "92c1fc214586ac126860a3f9bcabcdb0d9ef1d5c318587ad06913b4539bc7dda"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/338ucw.png"
+hash = "9f8dda29477fcf67a028ab4ffae8ee6fefc9a5dde6d66cb58e49309d4af64e67"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/40mm_incendiary.png"
+hash = "513899d679bb490a4c847bc875a6e754eb1b9cba6f486e8ae7f7915de9e21c28"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/40mm_smoke.png"
+hash = "1305fa500aa03e8f9b3ab343e90964d3210289be4d46186c58ae4ad35d0d2b9b"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/45acp_ap.png"
+hash = "d7d20417882c80435ee5818cb168c8144a1d9fdd631dda5d02dbfcc8d2a4621f"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/45acp_fmj.png"
+hash = "b559d87fed7888e0cbcffa0fb9dfe3387eceb4978d6e16fb64d00d2226c7f7ed"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/45acp_hs.png"
+hash = "4960b31c04283f70b18d9dff1ca258d88f9aa5a7d1970c70838a4a37bdba1fd5"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/45acp_rip.png"
+hash = "5e418884534456d9907fbff59e9bace3d8577118407456a5d3f5a2929701f6b2"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/50bmg_api_t.png"
+hash = "306654da0dd862fb4f6215cf0ef16a6df2f1d9dcbce03ab830a9857a9a9452b0"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/545x39bp.png"
+hash = "78cfa30e19916e951f82f77f79dcdec9bbefbb191b83818d7a986ffc4f925e3a"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/545x39bs.png"
+hash = "097ef6e05f49f83443a7d61e75bde4c59c8d5092914d4ad7e669bcb226f0c625"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/545x39bt.png"
+hash = "64b5cbae4ac54118b7081f9abd7976be1e31e1015fb8d3368eb61351a3048b32"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/545x39pp.png"
+hash = "6cc9e952007f743e741650079c73bb1bc9797ba62efa15e088999d63004b0b2e"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/545x39ps.png"
+hash = "785e4aab652d03cb7513814fdc86f0c9080ac07dcb7360e9f99e6828fd29b8a7"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/545x39t.png"
+hash = "080b3eb14a2270c4f2257892cb99a717646d135b30e546d22e056616a22497c6"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/556x45ap.png"
+hash = "b067b58ca72a9a5a5aecea4278d964466800cb003700c94b4f65023e02606ded"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/556x45hp.png"
+hash = "7bc5aa0ae8f45c3686b1725b47b6c9a1d1eaef3a2d0226f5ed7ca2c365972b01"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/556x45m855.png"
+hash = "ea9c77741e1b5985d826ac59925de13f95476e3cbf0340c512a5d1686bf31bc9"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/556x45m855a1.png"
+hash = "44fcdc9d420396f141e8a0a4ad229dc92ef38e591031240544367dc359ad0e64"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/556x45m856.png"
+hash = "ab88aaf145185e442e4cc109fd47d9b0784c601317f42bfcc347271e0eea7054"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/556x45m856a1.png"
+hash = "81cff6559ae23889d75ccfbc3e0a1409b230b68e40ae5230451708f36092448b"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/556x45m995.png"
+hash = "17c13aeffce0c831faa99259d3a5f7f5b71069c7e0d91775b5d1ad3c577a52d7"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/57x28l191.png"
+hash = "11f62b7ec78e29c8c640e50840fae4f84fddd0b94669a37518cb7bd6a01d5e65"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/57x28sb193.png"
+hash = "4421b24e3000066ac56fc12ddff64494d9eaf0e485f374da7f0ce0bef6a50717"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/57x28ss190.png"
+hash = "8082b4217fbfd2e77419e9a82fa1e3b8ec918c502edfb7aa80b53f784de738db"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/58x42dbp191.png"
+hash = "3064704dc66bc2f213ddff983559b61694ed1ef77908fdebce644ce962c5a468"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/58x42dbx95.png"
+hash = "a9e27d4b0cf88224d8cfa37dd03d040de434dde4b7436c348a01a2992dc1e2cb"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/58x42dvc12.png"
+hash = "2addc0c31abd612a642c00a21b14d499ff5b03e45566429e0bd5ae139a28d332"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/762x39ap.png"
+hash = "b2f2f7c0efa4524c69580b66268e6999ed471a9932c7f735b8f021518279339c"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/762x39bp.png"
+hash = "042ffa4f61ec20093a49aa33d230e8d5032a9bedd3adcf1d249b180074ddca9d"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/762x39fmj.png"
+hash = "a73eae668dbe73ae839e4d2d3e1d6d6269061be136a2d5d3503d664c8e96fd96"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/762x39hp.png"
+hash = "eb2a9d7c4f16ec77b7a4a58a7fd817d93a0fcdfd4fe95f69b471e98fa3a98e52"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/762x39pp.png"
+hash = "d5250c4924ea3b1513e259614945363599e1205ed0a0e5c0503117ffd26cd886"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/762x39ps.png"
+hash = "581998e91286396a94daae1a3937467f9af2f9304860f30e3bd8c9993e123f6d"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/762x39sp.png"
+hash = "184e62fc38829185606ceb6fe2139bab2e4d136ab53e51a2da8b833243c8d677"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/762x54bt.png"
+hash = "bc1b1627f9c16d4d5d06ecffdddaa7c0eb0338116952e416c7828abd6cc59bef"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/762x54fmj.png"
+hash = "33114bd2de3808c4c21020f6630d04f156da06da26867d189bc65d3a79da71e5"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/762x54hp.png"
+hash = "4e7962e2f71a19168a66c71c7421d5c3c6e7d96e0202b62bbb43ea4c1084d9f7"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/762x54lps.png"
+hash = "ae3c5e963a4c47e0256cb5c8d240cf0a307eba56a82bc0a1d767779feb51943f"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/762x54snb.png"
+hash = "60afb8df1898308b3c2a76ce86e942104fb690ee6db221546af909670698d7e0"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/9x19ap.png"
+hash = "f3c6c38a415be8745e1d60e6eecc09821f314f056356ac18cbb30d747066c770"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/9x19luger.png"
+hash = "d78bd90c328cad6aca78f9ee8194921259cf7cc39f50a50a412ed52bfcba549b"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/9x19pbp.png"
+hash = "fbe9a87896c4bc03862e2efd081ca8c0d35a4f6cf6f6622d4f65cf8b7f1eb6c4"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/9x19pst.png"
+hash = "439cdcab54cc5f64437746cbb019180013cd82d929a648b559a7114156cf6288"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/assets/zerocontact/textures/item/9x19rip.png"
+hash = "924a70bfc81d38bb8faed898df4efb6a04c1e9730925452a498df0476264bd5d"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/12g_ap.json"
+hash = "a8d93f103d9338174cb00f4c2176b26cb1ed3ab338cf89229f934d8110d59c24"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/12g_db.json"
+hash = "beff580709884123ddd81f6b50a0a8a3eec1412871f064a38e7e1266fb64e98a"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/12g_flechette.json"
+hash = "b2908e37cb862b25cdbc20bab866656607684283459732302664dc2544d9a4ea"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/308_m62.json"
+hash = "b1b1767f7028c246ae473d5f3724bbdc18641e7f41949ce406ec472b115901c4"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/308_m80.json"
+hash = "b426e72354cbda07c3499a72d77aed35e9ca42fed62a5c9fbe887015e28036b9"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/308_m80a1.json"
+hash = "b69c0c4e0cc9e31739cc26f51dd2cc74bf948c3e4443bd3dc99818a252b1a50d"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/308_m993.json"
+hash = "dabb85d8c370903e1cd911db795bc65e05415ee5ec2ca5404e547b14b16ef9b6"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/308_sp.json"
+hash = "cbfe426249332d87555500b0f6fa4450b4d76850d6a943089078a54e7cafc39f"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/308_un.json"
+hash = "beaab2459175e53198d72b41ec3d6e01100cd9c564a2714773488bf8c7b9f4e7"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/338_ap.json"
+hash = "56981958f15f7bf5212be191d77c4128bf57f898bf8cf1f72ced20af5fe3a488"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/338_fmj.json"
+hash = "5d9afa94424bbee64cf12016a42b7562ddce758dbb20186893f7d7585eb2b225"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/338_tacx.json"
+hash = "73673d37c846eb69be3696c6394b76b59f5862dc89b0e3f4e4f47c710a3d05ac"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/338_ucw.json"
+hash = "1bd209d670bb893034fa2a2b368f236a71d41ae7bb65c2fa4ad62377f69739fd"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/40mm_incendiary.json"
+hash = "df9188e2de75385e9be45d25c96c4f2bc0a42ab125e8fb9fd4f04e51b56d9ba4"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/40mm_smoke.json"
+hash = "826cc5e989ae238bba73b51f2d8b326d4743d0d1eacdd2960ab05dcb735ec90b"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/45acp_ap.json"
+hash = "c9ff4e31f8fe5820e8c50aa90224daf4d981b0d378987a9e8855a89505c9e6f0"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/45acp_fmj.json"
+hash = "18426db4031d3b5e889e15fd3dff3ba1ed5e515e53461fe2390caa65c64fadfa"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/45acp_hs.json"
+hash = "8eb1d3806052c4cb97e6f4e63df9bf40d49e9d967548ba7c3df228f23b80bfa9"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/45acp_rip.json"
+hash = "c8635ce80582770f219bb7d1b2cf619999bcaee4860a1b4fb62d3335c63118c8"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/50bmg_api_t.json"
+hash = "e9240ed5158268c0744189ba2047ede8183bd4eec248e5443f1c1f27c70542c0"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/545x39bp.json"
+hash = "bf88c51685f480b9f9335a0958b880d665ad6d29815e379f88a6ee1795b69eb4"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/545x39bs.json"
+hash = "a0cf6ef8f397fbec5add5d7f8f6dfb599b84afe9539a970103b0e0c2c8a9cb39"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/545x39bt.json"
+hash = "f5286b7df723e7beb5364d31fcd8222e4d20ac41e8541a987d11a6f271faba24"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/545x39pp.json"
+hash = "8ba9c98ec5a062d232271529d089ed8e472e0726211122ecdc939ecf3e844c21"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/545x39ps.json"
+hash = "62f00ba91b2bd51e3c3b13ea49d768781becf5a42b2bba73067766e9eb1c61b6"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/545x39t.json"
+hash = "b50f30fc0522f7eb5c64957bd9cacae112741048af7dd2c3fb2a1f933edd563f"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/556x45ap.json"
+hash = "289a4a9629f71bc93d929b78b00428b9c8b9dbc78dccb654d1997df2a617f0fa"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/556x45hp.json"
+hash = "a9278bb011c6ed795531ad7f9317b0b07c039a8c1a1eefe7ceb4c5dace873c45"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/556x45m855.json"
+hash = "0a94f87bdcf4866db25871d21287f9a6103e0d15f859e02e14cba804dce3bae9"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/556x45m855a1.json"
+hash = "9c74556dd8477d6112bf76aa66e43a9fd90ccea31e91f63b9e240f9bac6be3f4"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/556x45m856.json"
+hash = "f0ac0bbba9669fa2b00ba2f67fb6d1da5aaf7bd7cd29cd807466d37d9a5eed10"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/556x45m856a1.json"
+hash = "41de622601a9588df53298c5b2b0d60202a05dc48e6021ee7f8ce9219cf2ce62"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/556x45m995.json"
+hash = "c1852d68f83183e60a68cfbd1bcc7314b7e7620c11dbc012af2d4885858f1eda"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/57x28l191.json"
+hash = "6bb806f51b21f4f0a19de4b14f21d0e2d102dde31eb4d8ed80818eb6ee0dcfc7"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/57x28sb193.json"
+hash = "269fc7d4b0bd29cce220d268a20cc6f24711157bf4e7c853f569784e616bbae9"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/57x28ss190.json"
+hash = "96a923e05c651c75c6722f5297229d1a75163d09c179215c7fa42f999859d99f"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/58x42dbp191.json"
+hash = "9d26dda8694af80b2e847ca876b2d63b33712397dca67d49a07bbf98a96e8b8b"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/58x42dbx95.json"
+hash = "235fbbe7d7809d701ea362525125a3b02b3d5331da783033f7d8cf334144bf3b"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/58x42dvc12.json"
+hash = "0603181fc80d376962f934b509395999ba2c8ce5ac39b42ba6ecb31209ea7be4"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/762x39ap.json"
+hash = "be409de4d98038548875fff7ef00b586bb8fb83e9bc525ddee2f0cb77d06c6ce"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/762x39bp.json"
+hash = "e5e77fb0fa82159c58fe7ecf638c3d6d3f424f8b7e6733910f70114c1f8a0445"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/762x39hp.json"
+hash = "f0bee77f280cf54119fa4147adff5f0812b93b0d6f62333b711e1c4e2f1cc2b0"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/762x39pp.json"
+hash = "dfff3e4b49ed1d73c5cde69e029674097e3af7518f883514a739fec247f56d2c"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/762x39ps.json"
+hash = "579d4b0d8b96b54597b5566457ed70820d6330073a17106688465acaff0b2dae"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/762x39sp.json"
+hash = "44fce9d44edeccf0f57f6b040320eba5eafde2aa8f03196a40d08a57fa6b8d07"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/762x54bt.json"
+hash = "a4f9a2e6e3d7df81c44d7b77337890b4b9d4c69e251167ec805e9f63b4499635"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/762x54fmj.json"
+hash = "d62cad864024377dcaa88d6fd2031d81349d9c10b8eb65610ad4f1dbaf960b27"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/762x54hp.json"
+hash = "f9cf5d79f734de3ea4a1ba24090dc54a2b0bace96e7831c64f1a1882358d5589"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/762x54lps.json"
+hash = "cfa370e46a014d3a906d6bcae9faa574a4f6a572e2938af7fe1b528bac191243"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/762x54snb.json"
+hash = "6df3da3e35c2726150cb80ff17cafa03329b5fc0aede98121817a1c51f313eb0"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/9x19ap.json"
+hash = "f6741699f8ba32f87032f875e2e714d8f4e601ff551c9bdd623d33466b54baca"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/9x19luger_cci.json"
+hash = "2d5028b4c40c915846a9f2a7232d221518dc13a83558d78db4e20169260ec323"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/9x19pbp.json"
+hash = "fb7c62ec7379a5389263635b089531c384ac18c222ee3661be62eb5feb343db3"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/9x19pst.json"
+hash = "248876b7a6bc768d946ff8b8194ee03fb55128a80035a386a645f0103bd6b3df"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/ammoDefinitions/9x19rip.json"
+hash = "f8fd215231fc5c4139e13a24de09a54266277542d65c4a66b6522863abe2aab4"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/gear_recipes/ammo.json"
+hash = "fce402a99a4137c3aeb422dc2e761062220d2df95ccc75024c4351f86366d517"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/scripts/40mm_incendiary_logic.lua"
+hash = "a9b4f78be353a3e1503d754bdc2f95272431a56b458a5ae152b4bc7df904a52c"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/data/zerocontact/scripts/50cal_api_t_logic.lua"
+hash = "e5611118aee5b16b23bdaeb9967cbca77c9261a40b27d7da4de4d6d1383c1fca"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/manifest.json"
+hash = "cdb588edc4d4fb2c80463c3e7478d3b93ea0190c1ccc1cde085cde917135ded0"
+
+[[files]]
+file = "config/zerocontact/packs/default_ammo/pack.mcmeta"
+hash = "8d9acbd74b29864057c97f59e5662a573e6c52482be51bcb64d365ebd3b5966b"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/lang/en_us.json"
+hash = "ffd14ae0f5e19e15ccf2484a434716c9cfb6e44853425dcb0109b7476ebc9bc8"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/lang/zh_cn.json"
+hash = "3f39fd80a86750ad3ed9b1168b9c1807e015e65121fda38f7a12a2a75bd81a4a"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/armor_6b2.json"
+hash = "776e637a00e6842ffa448c7426468206cca96dbcfd175c4e47a64a594ce07179"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/armor_6b23_1.json"
+hash = "06907ad094f10712affd36c4267cb86c0ba2fc8d7d34b9443ed259071b36deef"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/armor_6b23_2.json"
+hash = "eaf7874c99cbeca3939fb7a44d51df616e8e5be0d68289654aaa7e0fc7938809"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/armor_6b43.json"
+hash = "55662a41a3ac0ecaaa72a617adf17e84acbc6514d3e8eb6fa378c5efef388b44"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/armor_avs.json"
+hash = "3606b0078fca462b675a62719fc9dacbe14da935c7216206571720ee56024ff7"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/armor_defender_2.json"
+hash = "8d9fd0ea2aba18646ee54a36ce22ba2dadf69787918e839a4d3c077ab12d9e27"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/armor_hexgrid_black.json"
+hash = "9ec5ec18cdb9f6a339301be02eb13af151b1487a4e9fc9abdc0f6fb007440618"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/armor_jpc_v1.json"
+hash = "3664ce3843c69939389da7bbcfc8d21b84406975c4e3570b308231859bc3cd41"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/armor_jpc_v2.json"
+hash = "9c3a5c767e9ec3c3767d784ff48ba42d8fb1714695aa1d7fc14e4372d0d998ff"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/armor_jpc_v2_swimmer_cut.json"
+hash = "0b4c4ffc673fb6882edc8c69c5a27f806ff2ba4b95b7dcf0e8fd04392a4db097"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/armor_thor_black.json"
+hash = "119641a0b79111172fc446c4df6d5e2926b182c8fbbfdf54c9bcaa0d217ad6a9"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/armor_untar_blue.json"
+hash = "c5cc1dceaabc3e9841a7de83cce805d17d24272751d6ac2470f98508c8d914db"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/bc_plate.json"
+hash = "aff10636b52ddb5d6cda38d1d15f3ad674ee271926bef4a0c695ca397116a863"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/cap_boss.json"
+hash = "4edc5257794f950486848dec529ea6642ce93886b9a30db4f0409307c3c2171e"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/cap_cyan.json"
+hash = "7f217680d39ecc23268561a2a863039d42b9931003b9c8496f8dd2d1f8f012f3"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/ceramic_plate.json"
+hash = "8c6f090b75502a61cfea91b669eee6e7a1fa161836968e9dcd0b428fc2fc0d6d"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/helmet_6b47_ratnik_arc.json"
+hash = "837a6afac9e6e2f6fa1605949024fb96e50f60d9320ce3c974b6d3259f9807dd"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/helmet_6b47_ratnik_emr.json"
+hash = "b0ee8b51be4fa8c05e03c346d24d84a58300b5c4559d1b66a3d11ca452cf2a1b"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/helmet_airframe.json"
+hash = "573e05ac54c758b418ba4d2b376ac40d7e62ab5ed4291a8cb516752a2ee66e47"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/helmet_altyn.json"
+hash = "7e1cc13561901279f0f15152e46dc05bcac2903162caa85b7b1c51bf54f258b6"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/helmet_altyn_visor.json"
+hash = "83c42ee624197925189566c77c315bb7b06836f53a1772def0f57d0d839593fc"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/helmet_bastion_black.json"
+hash = "0023f321081e26e449073ef067d9925806abbfe47f203494720c57105b8dd7fc"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/helmet_bastion_green.json"
+hash = "fbc859f1331637abec8f6b3cc9b637adcf626d95eab6953f4898cf98bd55b044"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/helmet_bastion_multicam.json"
+hash = "85441e52c6c84cb882d3c087a3cbd54a6e3e77209058bb849bf70fe806eb5894"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/helmet_british23.json"
+hash = "f1fbdada5c9eb16bf2af4afe58ee5925d7182f655ced9ddb7683430978383f36"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/helmet_phonetalker_iiia.json"
+hash = "4d71621132a91c44e8fa58c756f88d8bd903e40bda845afb3a157728ad8f60c5"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/helmet_tbh_iiia.json"
+hash = "488f852ca49cc884a8359b5ae716e85e1e6c66e2920d26bfea7235b253b0b0fc"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/helmet_untar_blue.json"
+hash = "da556bcabac397991793cbaaf078ef8157a37a49d0f247b7a10d29caf0a50175"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/mask_cold_fear.json"
+hash = "307c8dd0021ed16ba82073f73439e4b8d0f7bb82cee98c4ed25640ccc2aef2ab"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/mask_m50.json"
+hash = "fe90fea66bce4e11d9828273fef1ac89b9e1fd38b783a6d2fd369477eb48332b"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/mask_mp5.json"
+hash = "c5f784909bfcf60ab27e29a3df48aaf968ee5021d4a2443b17f5709cf1961984"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/mask_pmk2.json"
+hash = "14fbacd8cfd5376002a95c332347cb8a20bc8dc238c3547218dbbaf5b8f80646"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/mask_tagilla_manhunt.json"
+hash = "228c769567064658bce8b2d420ff64c8daec9adb587d8d0c1f3b6a8c286007fd"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/mask_tagilla_ybey.json"
+hash = "05f76c7a686b2f22d281dd88fe2bb340cdf3eb61f96655bb5f0367eb8f828613"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/mask_zk.json"
+hash = "1cefa90003ad8a588bd447efb6f7d49cae9b814f6f87c7e68795dcee4c75c6ac"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/plate_ballistic_convoy.json"
+hash = "65392876f08b0b72d17d860d2d723f199434e17aea3fa6b16f2fbc7a05f4ff32"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/plate_cult_locust.json"
+hash = "65392876f08b0b72d17d860d2d723f199434e17aea3fa6b16f2fbc7a05f4ff32"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/plate_slime.json"
+hash = "65392876f08b0b72d17d860d2d723f199434e17aea3fa6b16f2fbc7a05f4ff32"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/assets/zerocontact/models/item/plate_steel.json"
+hash = "55c8d21ec83f98b8641690acd5825b7b22c6fb0277977afd435ab3f530855292"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/gear_recipes/default.json"
+hash = "1a683964a8a97697c0395f5c6f87c30d582c0bf97e4d73b409f8967ff3f47614"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/items/armor_6b2.json"
+hash = "119349a963728b186ebcc529d9553a79fc32281592d639b7d15d4ab53df4dcb3"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/items/armor_6b23_1.json"
+hash = "25835506bfc24ea56265e0424bb84de4937ca49b22fb295757e62bd9a341445c"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/items/armor_6b23_2.json"
+hash = "b5a91653b9ac9dc1fd6da3c507f67d1c353d0509009affae8b5055c62fe88415"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/items/armor_6b43.json"
+hash = "db5f9b25dc2e52feb419eeb11422375cf825ab838e85591bef986a88fc4eed86"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/items/armor_avs.json"
+hash = "41c7588c53b87850854838190697fed9bebc08ac874eaaf4d4900426da4e2d6e"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/items/armor_defender_2.json"
+hash = "02d5f7c5d0ce75f30ec415478920fb1029c7ea88c3a45270842b4ee0ee899536"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/items/armor_hexgrid_black.json"
+hash = "1bc56e0d52a888dc3e70fe5c1f7a16653e9bc68de59122781af00604e1b987b3"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/items/armor_jpc_v1.json"
+hash = "461185cdc7decf47e9733d461eb583d2474a68fb954e72f9a1e21d46e2144d33"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/items/armor_jpc_v2.json"
+hash = "e0bf17da9a0cecdc43920daad3be153724850e3a9742d9c8a4c25bc7a44cddb7"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/items/armor_jpc_v2_swimmer_cut.json"
+hash = "7880a69ea7a6715c0f6d4877a3f9fa939e5f62c4d385b5be0b44d83323a6619d"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/items/armor_thor_black.json"
+hash = "3fdca3360444871380ecee4a988f2447730269e2ea7006081952a79fa6e346dc"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/items/armor_untar_blue.json"
+hash = "e0bcf899f89eecc97bc24cdb29b1c14b67550951d858e93016015bb6cf2fe8d5"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/items/cap_boss.json"
+hash = "2d9e68379f88222fb0f90ea81173fe9dce10c44dbcb7780d10379ab6d510cad2"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/items/cap_cyan.json"
+hash = "2689bd138e409bfc2873d263f8b028a6bef5a758701d11816484726eba7a6073"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/items/helmet_6b47_ratnik_arc.json"
+hash = "ffd641b647b42111ba56756ead3f5c0a76239db780a086f198e21f2768ed95de"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/items/helmet_6b47_ratnik_emr.json"
+hash = "c1378775eb676c1128e4d04045000b17ab23b61b2b9d20bf6a5c9c1d3721df53"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/items/helmet_airframe.json"
+hash = "6dc551fd126e7fa8f5e48fa136acce5fd54209ccb7a9dcaa1432462241cfe1f4"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/items/helmet_bastion_black.json"
+hash = "d717b82f5c5be0e838e08c25f303e1e485f02d0534e92c83c7a9f13b825e6a20"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/items/helmet_bastion_green.json"
+hash = "bf75d2fbe216d790d2dc17690fe67847c5888bd25cbec49292bd85c7b8925079"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/items/helmet_bastion_multicam.json"
+hash = "076b8321560d0edd30bd84a699ff8087b8ef1e7f70437202aeffe63bd866d66a"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/items/helmet_british23.json"
+hash = "8586f6083b1a45ac7fb276a6084409fba6de1d9bdf8e21fc43bc70463a1d2352"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/items/helmet_phonetalker_iiia.json"
+hash = "c5c1b2bd1a190ce63c17e2411101411bf443fcca45d03ebf474a6b6972b502cc"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/items/helmet_tbh_iiia.json"
+hash = "0e72f7cc012430e2a8808ccffadaa336d379a0bf04ac52018efc82f85a6ff97f"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/items/helmet_untar_blue.json"
+hash = "b608e0f90ea867d0b031b4f0e252921481d99c7bded618300f80965ba703db89"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/items/mask_cold_fear.json"
+hash = "2d5c431686b86eb6bf48bc64d3b4d56dd59461dd422206541b82ad5d983df326"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/items/mask_m50.json"
+hash = "93a2fff20e04ea892bd24492c2e7673a2467944c3485a5d96a5dde55832289fb"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/items/mask_mp5.json"
+hash = "dd5ca1c119d512a2c42a062874067d9a30f78733f732475f585a5a24df764192"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/items/mask_pmk2.json"
+hash = "2222ac0b1f19a5834339a48f427c24bb7c9f8647601ea130cdf5dbb17f07c17a"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/items/mask_tagilla_manhunt.json"
+hash = "a0bd5c1836da3eeb268fa6b8836debbb48ad983dfa36bdd90a1e1c7eff69192f"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/items/mask_tagilla_ybey.json"
+hash = "b390721e1ccb427318e15a8e16254ca7878358c7dd141d0ca8281713b1f176b1"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/items/mask_zk.json"
+hash = "2dec21696526c6d7e5976cbccb390776e81aca8b547deecd0824c1cf671486ac"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/items/plate_ballistic_convoy.json"
+hash = "e4536bab3ba03f3add5de8fcbd155b83152944ae1bbc2677529b8cbd23faec25"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/items/plate_cult_locust.json"
+hash = "5398a4c2c9e20d6c0d0eded0f7fc1ffaaeda1ea7bc33ba4d8679f30379de8990"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/items/plate_slime.json"
+hash = "2b4fc8cc666b639310a9605e3981c26c3d456d9f9bbb0cc24c03a0f15ece38dd"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/items/plate_steel.json"
+hash = "ae49d64c9c8884286e77a13990d3fce9cf99e9f3ca6f34ad51d0a3e2f41af1fe"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/data/zerocontact/rule/rules.json"
+hash = "db088a27742d351e6bb0828af27f218bc0b3924af6a415e8d7eefd0e3669e805"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/manifest.json"
+hash = "2a14c151fa1050c60d9ba94b836e17fe69c80b67876041143467436d4d0be50d"
+
+[[files]]
+file = "config/zerocontact/packs/default_armor/pack.mcmeta"
+hash = "8d9acbd74b29864057c97f59e5662a573e6c52482be51bcb64d365ebd3b5966b"
+
+[[files]]
+file = "config/zerocontact/packs/default_loadout/assets/zerocontact/lang/en_us.json"
+hash = "0f40b7e0bdd68afb03b770429790cd67059eb275bb7122b56f56fd6c36519b0b"
+
+[[files]]
+file = "config/zerocontact/packs/default_loadout/assets/zerocontact/lang/zh_cn.json"
+hash = "f69b254198ebff3a428c36d6b66e53cbd97c4361386782cc538a9a41669e9111"
+
+[[files]]
+file = "config/zerocontact/packs/default_loadout/assets/zerocontact/models/item/backpack_6sh118.json"
+hash = "bc152b065c381df1f1e24f14b518cb15e3737b696b2748f6d4ba7051f1106f64"
+
+[[files]]
+file = "config/zerocontact/packs/default_loadout/assets/zerocontact/models/item/backpack_british23_red.json"
+hash = "9a07684774a1d33e500e84e17b67bd8202a64092811c608d0f32ab633847dd29"
+
+[[files]]
+file = "config/zerocontact/packs/default_loadout/assets/zerocontact/models/item/backpack_t20_multicam.json"
+hash = "fd57d483d7985539bf4f0d810a3bd7518921e5bcb65ec3cfbd1106b48caef3af"
+
+[[files]]
+file = "config/zerocontact/packs/default_loadout/assets/zerocontact/models/item/backpack_t20_umbra.json"
+hash = "e2d3c65083141371dabd9badfe10f43124cfe05202490acf5fdb531f66719b72"
+
+[[files]]
+file = "config/zerocontact/packs/default_loadout/assets/zerocontact/models/item/backpack_vkbo_olive.json"
+hash = "a2661b8c5404888df6d0226fe3eb3170456bc9062855223efb5dea08e6cdb868"
+
+[[files]]
+file = "config/zerocontact/packs/default_loadout/assets/zerocontact/models/item/rigs_alice_olive.json"
+hash = "c03d82e237d73fb7f889ddc6e84227291a841220ff208bdc43518ba46237b1b7"
+
+[[files]]
+file = "config/zerocontact/packs/default_loadout/assets/zerocontact/models/item/rigs_cr498_desert.json"
+hash = "9b3f9f0b490df4510dbffb65ca724aad3e5b219984b635d3e058cbc435a81a67"
+
+[[files]]
+file = "config/zerocontact/packs/default_loadout/assets/zerocontact/models/item/rigs_fast_tac.json"
+hash = "bfdb4d0e9170a7e531dfb1a717826803e69ff8ac08b80a80ae24dce36e94df43"
+
+[[files]]
+file = "config/zerocontact/packs/default_loadout/assets/zerocontact/models/item/rigs_sop_mr_desert.json"
+hash = "1d6b05ef91198e8d1d14534972ebd8dc92748356beacea7a286176ab4983bce5"
+
+[[files]]
+file = "config/zerocontact/packs/default_loadout/assets/zerocontact/models/item/rigs_thunderbolt_gray.json"
+hash = "2ffa7891f80a8f1ba2d6c29c1e7c31a00c1c6374ef79bf93b1abd34d73e91979"
+
+[[files]]
+file = "config/zerocontact/packs/default_loadout/data/zerocontact/gear_recipes/loadout.json"
+hash = "b714e913f85bfd530d065916f81a4ae421a9c494f5a08fa94b37b26fd2f9dbb1"
+
+[[files]]
+file = "config/zerocontact/packs/default_loadout/data/zerocontact/items/backpack_6sh118.json"
+hash = "4d5b784f7c2174b86eee8c5c4c07b2a588a02f512bf11651fe495e1b5ebaa5df"
+
+[[files]]
+file = "config/zerocontact/packs/default_loadout/data/zerocontact/items/backpack_british23_red.json"
+hash = "6fec45a886e7e4dc40a4fad836595cb3ad01ac29ef5c32b9f4ab33448a3a3c05"
+
+[[files]]
+file = "config/zerocontact/packs/default_loadout/data/zerocontact/items/backpack_t20_multicam.json"
+hash = "f78122d27071ca92713f58065bd1b9961f150395ffb98b99a8884529b2421c9e"
+
+[[files]]
+file = "config/zerocontact/packs/default_loadout/data/zerocontact/items/backpack_t20_umbra.json"
+hash = "3e524bc170e75918a23a4fc5c97a67856e88c56a9ab69a2d93a9a4ac59a16848"
+
+[[files]]
+file = "config/zerocontact/packs/default_loadout/data/zerocontact/items/backpack_vkbo_olive.json"
+hash = "12e9922ca29135f0f45e8403de2c11f93b838df3a47cf9737383e72cfeac8139"
+
+[[files]]
+file = "config/zerocontact/packs/default_loadout/data/zerocontact/items/rigs_alice_olive.json"
+hash = "301208d554c7bbc5b86f8632107d21a4a89282a86a34ce538897a04deda24d93"
+
+[[files]]
+file = "config/zerocontact/packs/default_loadout/data/zerocontact/items/rigs_cr498_desert.json"
+hash = "320fc7852d6a37e0e55383bdf7239e13efa3534e605ac4e33e6dd450eed5f290"
+
+[[files]]
+file = "config/zerocontact/packs/default_loadout/data/zerocontact/items/rigs_fast_tac.json"
+hash = "84e10b3836d476a7170cbe1673dc7abe45ba1e84cc45f4c44eeb75b5da026375"
+
+[[files]]
+file = "config/zerocontact/packs/default_loadout/data/zerocontact/items/rigs_sop_mr_desert.json"
+hash = "b05d1ac6ff4cb83c090f65d4d4f830473b7f9e6d817ce61db2fef2dad4e38992"
+
+[[files]]
+file = "config/zerocontact/packs/default_loadout/data/zerocontact/items/rigs_thunderbolt_gray.json"
+hash = "5bf25083d0c752bd91aecd54cddd5e5daba6eebac9774de0b835f038087062c6"
+
+[[files]]
+file = "config/zerocontact/packs/default_loadout/manifest.json"
+hash = "2c461872ff72592f645c5d840b64d76f83477f24981f5fbc419563ed3bb89168"
+
+[[files]]
+file = "config/zerocontact/packs/default_loadout/pack.mcmeta"
+hash = "8d9acbd74b29864057c97f59e5662a573e6c52482be51bcb64d365ebd3b5966b"
+
+[[files]]
+file = "config/zerocontact/packs/default_module/assets/zerocontact/lang/en_us.json"
+hash = "cd4980a282fd3e84fc0f0bff9e99e7fc187adc633098fc3e57ab0eae65718690"
+
+[[files]]
+file = "config/zerocontact/packs/default_module/assets/zerocontact/lang/zh_cn.json"
+hash = "9d70ad31f7cd80c698f94bba1839dd39b90555bbe95a3d49548f71a67e31887b"
+
+[[files]]
+file = "config/zerocontact/packs/default_module/assets/zerocontact/models/item/battery.json"
+hash = "539c9e66df6c2c32f6fe304b1dafae2aeb0002538adf9302b3fd72978c3c7f93"
+
+[[files]]
+file = "config/zerocontact/packs/default_module/assets/zerocontact/models/item/beacon.json"
+hash = "cd14944f14085526512422d77a6c18c65da50ecb69df5ef86b20b61592cc56e5"
+
+[[files]]
+file = "config/zerocontact/packs/default_module/assets/zerocontact/models/item/headset_amp.json"
+hash = "2b65d147bc9345419f49448190b82b288140a20a79f759bcd62751d551711c6b"
+
+[[files]]
+file = "config/zerocontact/packs/default_module/assets/zerocontact/models/item/headset_amp_black.json"
+hash = "2b65d147bc9345419f49448190b82b288140a20a79f759bcd62751d551711c6b"
+
+[[files]]
+file = "config/zerocontact/packs/default_module/assets/zerocontact/models/item/headset_comtac2.json"
+hash = "4255d3cf6db24ee6fae62a4a82fc8b421df9f9a2bb84703174077401c415794c"
+
+[[files]]
+file = "config/zerocontact/packs/default_module/assets/zerocontact/models/item/headset_comtac2_brown.json"
+hash = "4255d3cf6db24ee6fae62a4a82fc8b421df9f9a2bb84703174077401c415794c"
+
+[[files]]
+file = "config/zerocontact/packs/default_module/assets/zerocontact/models/item/nvg_gpnvg.json"
+hash = "aaae3bbd587355ac0dcf5cdd17d7145b339b33857df5ceaedc04c9cea895360f"
+
+[[files]]
+file = "config/zerocontact/packs/default_module/assets/zerocontact/models/item/nvg_pvs31.json"
+hash = "56304595da757bb62dba1077eb97902409d89ae678d9bd2399ff56cd932beb4d"
+
+[[files]]
+file = "config/zerocontact/packs/default_module/assets/zerocontact/models/item/nvg_pvs31a.json"
+hash = "56304595da757bb62dba1077eb97902409d89ae678d9bd2399ff56cd932beb4d"
+
+[[files]]
+file = "config/zerocontact/packs/default_module/assets/zerocontact/models/item/nvg_t7.json"
+hash = "10c80819b3fb38c19fcd75a068244cc3998976f23a9620ef91dff8dcaa7bafb5"
+
+[[files]]
+file = "config/zerocontact/packs/default_module/assets/zerocontact/models/item/prc_148.json"
+hash = "4d96910fedc1e49f1623022814e1c4a547a8901ed3538839b6414ff23a0bccd0"
+
+[[files]]
+file = "config/zerocontact/packs/default_module/assets/zerocontact/models/item/prc_148_black.json"
+hash = "4d96910fedc1e49f1623022814e1c4a547a8901ed3538839b6414ff23a0bccd0"
+
+[[files]]
+file = "config/zerocontact/packs/default_module/assets/zerocontact/models/item/ss_navboard.json"
+hash = "94e8f5534936d7dc329e6165434cc04f0f1b284a2e525726159eca171a0f39b2"
+
+[[files]]
+file = "config/zerocontact/packs/default_module/assets/zerocontact/models/item/tmc_admin_pouch.json"
+hash = "9268cd644f99eeaad867c80f72c3e5f8253dc4c293a9642117eaa61ff5987d7b"
+
+[[files]]
+file = "config/zerocontact/packs/default_module/data/zerocontact/gear_recipes/modules.json"
+hash = "5ea5d557ee0af1060ef0e82ea70062221c3b73b6df68bd57801d553e1b8142f9"
+
+[[files]]
+file = "config/zerocontact/packs/default_module/data/zerocontact/items/prc_148.json"
+hash = "e61282406d5b82f4dfab05a45d4c858e798c91413f73199e7ae557ebc89d6af0"
+
+[[files]]
+file = "config/zerocontact/packs/default_module/data/zerocontact/items/prc_148_black.json"
+hash = "db3bb46ed159f52c3a12f56dfadf904cf8627b08a972dba55167f96bab9ca3ea"
+
+[[files]]
+file = "config/zerocontact/packs/default_module/data/zerocontact/items/ss_navboard.json"
+hash = "ebbf1fe8f7d2f13492b8a96dc38678d987c9014b5e3286f66994f7bfc532f124"
+
+[[files]]
+file = "config/zerocontact/packs/default_module/data/zerocontact/items/tmc_admin_pouch.json"
+hash = "18b05a3ab51f83a15dfacfe329863eee4f8fec35d0fa7ddc7f4624318fe0df19"
+
+[[files]]
+file = "config/zerocontact/packs/default_module/manifest.json"
+hash = "3e68d63ac4ea6e232f603ae775d3c6d3c7a6b4aae208acdfc0ae12ee9a1441ce"
+
+[[files]]
+file = "config/zerocontact/packs/default_module/pack.mcmeta"
+hash = "8d9acbd74b29864057c97f59e5662a573e6c52482be51bcb64d365ebd3b5966b"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/lang/en_us.json"
+hash = "60d71b3668b7e25953c79d5af9a5baa11ae9ab03b9c6bf9e374b5fc2a867e7f1"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/lang/zh_cn.json"
+hash = "611e2602d5f2a7fe399b05f6f88e498bb7423c6455f05fafcda98121da04c504"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/12g_ap.json"
+hash = "45025ef7d0406f8e68e6bf41a9231ddc7ed4ecf52052684c09c3b7e66f434cb7"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/12g_db.json"
+hash = "42d5325f8ba94c80c605fb436105609b096c9ad363143da521240b0bf634bae1"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/12g_flechette.json"
+hash = "2b707433eb3cd93882088f418959f346dca6da1e9680b4e8f6c9d48544008cc6"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/308_m62.json"
+hash = "3d34337f60744156aa27e692b3897bfc16b8c8e3eb13fe111074da993caf9c57"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/308_m80.json"
+hash = "9f7e95d1cc5a5a95bb7bde1767dbd77d51acaaa6c7fc3630dfeeb9b593412e0d"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/308_m80a1.json"
+hash = "c090221340d14bf7c410b3b9b22a30f5624197491eab607ac8256b0ee9c9299f"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/308_m993.json"
+hash = "b40a84e04460c3b0f694cca58d573e793148cf612bd5cb6b331a7e88c3f07a78"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/308_sp.json"
+hash = "1826c2d091aaccbc859358679aae9e9749916d0152c70270a7c3b16aaa167ff8"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/308_un.json"
+hash = "7d28e1453146e8c6efbac8a99855c31792fda4a5dd1ab4b4e949cd0bd14248d7"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/338_ap.json"
+hash = "7233a8bf5b2a0836d18b0b3df4ad655b6bce9a40bfe71181ed0c150212efc61a"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/338_fmj.json"
+hash = "7d1e9a3d6f8b23b7054f1afc67384bffef2e8a815b7421d93588e4f9d7d9b3e9"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/338_tacx.json"
+hash = "8b1f8e63b584f4b462a8b4d163c54db570d47aef8a5908e610e82dcb8bf9ebb6"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/338_ucw.json"
+hash = "b43f74c2fad9e5ef2b0882a7beaaf967f05d705e277b7e8d4be83faa8a367c0d"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/40mm_incendiary.json"
+hash = "042cdb7b5c681a8f6f0f573424f86e9934365079366112001b1f8a9d5a17a3c7"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/40mm_smoke.json"
+hash = "ecaa13e4407ab3b823ae0cc3c56a278c183000123af28ee0d3b61cc0eb8fc42b"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/45acp_ap.json"
+hash = "a5fb90c70171a6a0ea418fa15a2335af144ca456db96e042bfaac5f605f73627"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/45acp_fmj.json"
+hash = "26601a05af5a529f966253288a75eda677e1a7b920b7ec43e6157f4ea8f9e42d"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/45acp_hs.json"
+hash = "cd06faee45c2ff31415bf0f576d29fc58c8ce02dc3a1d0cf979e9430f8564a1d"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/45acp_rip.json"
+hash = "7cfc06b8bfd3e21328e6fcf24e09db190d003d9b5370bb23862beb32c010b31c"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/50bmg_api_t.json"
+hash = "3147125c19cd301d423767590b0c8c16cb2b45d5084432b58e08beac88c09725"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/545x39bp.json"
+hash = "f5194d262d268ed2da53910614f14d440c8e14f003cff8ebfb0786bf756e1568"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/545x39bs.json"
+hash = "657b98197c5247ccdf1b6e8497d4776763a2097d19f6f457077957f4bff57cbd"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/545x39bt.json"
+hash = "18f5c32daae9ef710f7dbb4488953c3e2275bc3be5f791935537a8416cec371b"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/545x39pp.json"
+hash = "7f9067e0945fdc97d1b53042630eab93302aa7153ed8c73a0030fd643697fe3c"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/545x39ps.json"
+hash = "59a28711e1a6703d89766b58b687e44f427d0e1bff4f717ae0067c19385ca62c"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/545x39t.json"
+hash = "02e9943d5f65d93243d47e57d118bae1f7ce64294e161009cdb5647b8f0c38ba"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/556x45ap.json"
+hash = "db559781966f026dbc87ab155405f55852893edc9004222fde065c2766e27551"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/556x45hp.json"
+hash = "e483141d1644ff5ca1f84e8546a241f0a63ef158e71e063a710a2128d3adafb9"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/556x45m855.json"
+hash = "9b28c5825723127f21fd0044448995731a98c01607b0de5db09d22c8ed7937f9"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/556x45m855a1.json"
+hash = "771f0fa017296b5d6cdac3d5eb07f99bce79a02bb11d2c7ad1227cc1b7394387"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/556x45m856.json"
+hash = "e1f24a42f389dce46f632731693960c3e247a52e81f6f9e634720a9f041c4907"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/556x45m856a1.json"
+hash = "91fc99ca10aae7c565847d1485cf032183b06557d531515d7619eeb80a5e59e6"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/556x45m995.json"
+hash = "73ff71fc3c677528808f03351d75ae22eef5e1448a3f0d93c758b69f760dc91a"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/57x28l191.json"
+hash = "9f01268f43645c4fdba032c2d33f063e63e7e616a6e28cf6b337f53e7652e094"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/57x28sb193.json"
+hash = "110d4a53511995151f43a9b8e973a652d7f0ec70ee0d48e0277f7246e8101502"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/57x28ss190.json"
+hash = "ba583a9fcc946d52554f9d6320e6a0a946941425eae37373856ba246b96cc262"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/58x42dbp191.json"
+hash = "44e87dd54b0d33e789c47f431b814ffb786b19b49ac33de869785e09883d86c7"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/58x42dbx95.json"
+hash = "29879de303308691865d8b9ddd4168c452e1dde8151d2a1aaffabb7d7c45f489"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/58x42dvc12.json"
+hash = "e97ec2e669e0a969e6b6075f013c2ec9746220054185cd3076f5f5543c372b0b"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/762x39ap.json"
+hash = "a6f5b29436b84f8131a6c3109ae398ddf0c5a7137d8a9757e625871cff15a38f"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/762x39bp.json"
+hash = "570d69585349a8875b9d510c14d049e8622e9e35851a93a667ea7e2ac7f3d3b1"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/762x39hp.json"
+hash = "25c23adfd3fa40a1bb15c2c5050c73e6e7b375fb6a6c728e37eccd654439951b"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/762x39pp.json"
+hash = "cc186fdc581b6e7840f8bf070284d41e4a5f4991b5bdeb57eff4e7518a7c280a"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/762x39ps.json"
+hash = "89192167f04a2a2d7ae30f1354e857b9791e9e424b6906bc785b66bfb3c94ef9"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/762x39sp.json"
+hash = "51ed2bb4551709085b7841812d7de83b61b9f80ecdeedae53a850c9aed6074fb"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/762x54bt.json"
+hash = "13c515ef2befe0d7dfe19b095f5bddc6262a9848f77fe3a9238d2ab486c1da80"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/762x54fmj.json"
+hash = "1e6ea69f86a916b4659e53d3cf0dc77435a50606dba80ce77bd716184823a149"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/762x54hp.json"
+hash = "909248dfb41ee7787cd55cc5d113cff2d010ec631b4c7e7d39eae861e81709dc"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/762x54lps.json"
+hash = "82ae260623d0b33e7cb091836087d8e5f6e2cab3cb278ba2320d271a3f3d74d0"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/762x54snb.json"
+hash = "953e3963ebebbe2c6ecb67445908a26b03ab5528f3546be2ee9a053edd96f7fb"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/9x19ap.json"
+hash = "baa0509c09b9590f71452cde1b562830bc68f191851cda85d65a4f0473128893"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/9x19luger_cci.json"
+hash = "e642a709ec8dfd7596f996e3f966514129c066a3d2cae2388fbd52314b5e91ce"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/9x19pbp.json"
+hash = "b6f5221877943914334c34f4d5cc67d9cd1b12ce266b91f2447f2e8ab9018cf0"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/9x19pst.json"
+hash = "21583cc0d0b495a62aedf9a6b861bdaabb534d0a3b68bed43526feb994fd71ad"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/models/item/9x19rip.json"
+hash = "4fb38a5499994a88263709da05bf80ab10647cdaf1c19090bfb81a6aaf83a894"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/12g_ap.png"
+hash = "5f2ab6457d920d4863ae6fba3513f2c265d2fa4ba04693c2127d922c54e46950"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/12g_db.png"
+hash = "d0d6b1a374d7db99877000e9b2e92726235fa93418074bf765ca6879cb10fcfe"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/12g_flechette.png"
+hash = "2ef93989ae0f190d713a3226b6154d693f36bffc15ad2474d23662b8c44c7532"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/308m62.png"
+hash = "2c44923d678f0047355a4b1afd5901ae07b31080b1a55a25e95eb2b0b56b23dc"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/308m80.png"
+hash = "6251c4d789dc481ccc1524c6fe97fefe8d8587ece18184f12eab1ed8e38d8786"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/308m80a1.png"
+hash = "371311b18e97becb862e171dd4e9b7c3e9a25d8a1b6b4102731819b1b9099404"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/308m993.png"
+hash = "4e6f7c570c5980f3e32107347d2d614d79b833da99ecd280427f28a0296cee6e"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/308sp.png"
+hash = "f806addd7507f12b72a0be971bb6fa85801e01686a5d711d0ca8fa6affe8b2e7"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/308un.png"
+hash = "2747f086766a0221275d21a0fc55f3ad5ec16e7b267268770a9ac3476f4ea07c"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/338ap.png"
+hash = "2e3e63789c0b8963be0f4b6212c3f6144592c34b9b46006c6c1f89b876988f54"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/338fmj.png"
+hash = "fbbc6a7e1b8f24da239814ee02f014803f66bc402f58401d7ae8805ac6010c22"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/338tacx.png"
+hash = "92c1fc214586ac126860a3f9bcabcdb0d9ef1d5c318587ad06913b4539bc7dda"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/338ucw.png"
+hash = "9f8dda29477fcf67a028ab4ffae8ee6fefc9a5dde6d66cb58e49309d4af64e67"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/40mm_incendiary.png"
+hash = "513899d679bb490a4c847bc875a6e754eb1b9cba6f486e8ae7f7915de9e21c28"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/40mm_smoke.png"
+hash = "1305fa500aa03e8f9b3ab343e90964d3210289be4d46186c58ae4ad35d0d2b9b"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/45acp_ap.png"
+hash = "d7d20417882c80435ee5818cb168c8144a1d9fdd631dda5d02dbfcc8d2a4621f"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/45acp_fmj.png"
+hash = "b559d87fed7888e0cbcffa0fb9dfe3387eceb4978d6e16fb64d00d2226c7f7ed"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/45acp_hs.png"
+hash = "4960b31c04283f70b18d9dff1ca258d88f9aa5a7d1970c70838a4a37bdba1fd5"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/45acp_rip.png"
+hash = "5e418884534456d9907fbff59e9bace3d8577118407456a5d3f5a2929701f6b2"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/50bmg_api_t.png"
+hash = "306654da0dd862fb4f6215cf0ef16a6df2f1d9dcbce03ab830a9857a9a9452b0"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/545x39bp.png"
+hash = "78cfa30e19916e951f82f77f79dcdec9bbefbb191b83818d7a986ffc4f925e3a"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/545x39bs.png"
+hash = "097ef6e05f49f83443a7d61e75bde4c59c8d5092914d4ad7e669bcb226f0c625"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/545x39bt.png"
+hash = "64b5cbae4ac54118b7081f9abd7976be1e31e1015fb8d3368eb61351a3048b32"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/545x39pp.png"
+hash = "6cc9e952007f743e741650079c73bb1bc9797ba62efa15e088999d63004b0b2e"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/545x39ps.png"
+hash = "785e4aab652d03cb7513814fdc86f0c9080ac07dcb7360e9f99e6828fd29b8a7"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/545x39t.png"
+hash = "080b3eb14a2270c4f2257892cb99a717646d135b30e546d22e056616a22497c6"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/556x45ap.png"
+hash = "b067b58ca72a9a5a5aecea4278d964466800cb003700c94b4f65023e02606ded"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/556x45hp.png"
+hash = "7bc5aa0ae8f45c3686b1725b47b6c9a1d1eaef3a2d0226f5ed7ca2c365972b01"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/556x45m855.png"
+hash = "ea9c77741e1b5985d826ac59925de13f95476e3cbf0340c512a5d1686bf31bc9"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/556x45m855a1.png"
+hash = "44fcdc9d420396f141e8a0a4ad229dc92ef38e591031240544367dc359ad0e64"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/556x45m856.png"
+hash = "ab88aaf145185e442e4cc109fd47d9b0784c601317f42bfcc347271e0eea7054"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/556x45m856a1.png"
+hash = "81cff6559ae23889d75ccfbc3e0a1409b230b68e40ae5230451708f36092448b"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/556x45m995.png"
+hash = "17c13aeffce0c831faa99259d3a5f7f5b71069c7e0d91775b5d1ad3c577a52d7"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/57x28l191.png"
+hash = "11f62b7ec78e29c8c640e50840fae4f84fddd0b94669a37518cb7bd6a01d5e65"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/57x28sb193.png"
+hash = "4421b24e3000066ac56fc12ddff64494d9eaf0e485f374da7f0ce0bef6a50717"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/57x28ss190.png"
+hash = "8082b4217fbfd2e77419e9a82fa1e3b8ec918c502edfb7aa80b53f784de738db"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/58x42dbp191.png"
+hash = "3064704dc66bc2f213ddff983559b61694ed1ef77908fdebce644ce962c5a468"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/58x42dbx95.png"
+hash = "a9e27d4b0cf88224d8cfa37dd03d040de434dde4b7436c348a01a2992dc1e2cb"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/58x42dvc12.png"
+hash = "2addc0c31abd612a642c00a21b14d499ff5b03e45566429e0bd5ae139a28d332"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/762x39ap.png"
+hash = "b2f2f7c0efa4524c69580b66268e6999ed471a9932c7f735b8f021518279339c"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/762x39bp.png"
+hash = "042ffa4f61ec20093a49aa33d230e8d5032a9bedd3adcf1d249b180074ddca9d"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/762x39fmj.png"
+hash = "a73eae668dbe73ae839e4d2d3e1d6d6269061be136a2d5d3503d664c8e96fd96"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/762x39hp.png"
+hash = "eb2a9d7c4f16ec77b7a4a58a7fd817d93a0fcdfd4fe95f69b471e98fa3a98e52"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/762x39pp.png"
+hash = "d5250c4924ea3b1513e259614945363599e1205ed0a0e5c0503117ffd26cd886"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/762x39ps.png"
+hash = "581998e91286396a94daae1a3937467f9af2f9304860f30e3bd8c9993e123f6d"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/762x39sp.png"
+hash = "184e62fc38829185606ceb6fe2139bab2e4d136ab53e51a2da8b833243c8d677"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/762x54bt.png"
+hash = "bc1b1627f9c16d4d5d06ecffdddaa7c0eb0338116952e416c7828abd6cc59bef"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/762x54fmj.png"
+hash = "33114bd2de3808c4c21020f6630d04f156da06da26867d189bc65d3a79da71e5"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/762x54hp.png"
+hash = "4e7962e2f71a19168a66c71c7421d5c3c6e7d96e0202b62bbb43ea4c1084d9f7"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/762x54lps.png"
+hash = "ae3c5e963a4c47e0256cb5c8d240cf0a307eba56a82bc0a1d767779feb51943f"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/762x54snb.png"
+hash = "60afb8df1898308b3c2a76ce86e942104fb690ee6db221546af909670698d7e0"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/9x19ap.png"
+hash = "f3c6c38a415be8745e1d60e6eecc09821f314f056356ac18cbb30d747066c770"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/9x19luger.png"
+hash = "d78bd90c328cad6aca78f9ee8194921259cf7cc39f50a50a412ed52bfcba549b"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/9x19pbp.png"
+hash = "fbe9a87896c4bc03862e2efd081ca8c0d35a4f6cf6f6622d4f65cf8b7f1eb6c4"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/9x19pst.png"
+hash = "439cdcab54cc5f64437746cbb019180013cd82d929a648b559a7114156cf6288"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/assets/zerocontact/textures/item/9x19rip.png"
+hash = "924a70bfc81d38bb8faed898df4efb6a04c1e9730925452a498df0476264bd5d"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/12g_ap.json"
+hash = "de8fd510b5f2ddc49721595804b47cbe5e271ee48fc989be55c70f26ca6485ec"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/12g_db.json"
+hash = "e0d7810792c21153f950cc78a6691d68753798541b9db2d43f67d69500ece33b"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/12g_flechette.json"
+hash = "d2a13735a5bf22f68726dea025c5976989474832385609c1d52827280e3643b0"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/308_m62.json"
+hash = "38913355bba18834a3a7cbdef60d8b46c9712b581eb2e591f0a12f2941bc1ee7"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/308_m80.json"
+hash = "6ab504cbd9a036d7eb528b70708c9e631d8092a617bfdbbe8a999fecd816f52b"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/308_m80a1.json"
+hash = "b947d8584b60af7caaf5b07c9d473fa1398486824a53ebb36c40cd5d5b46ebb3"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/308_m993.json"
+hash = "be98c6cb6107166b0db864db431122db7863d4698f173ff883565891bf93ab26"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/308_sp.json"
+hash = "7a6e55738095efacbd6049f841fc3c24105392b658fab187159a73d09b6880ac"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/308_un.json"
+hash = "fe515a7b9e4392de963ef2e3f486eff489a6ec8eb1491f06613e97fcecb276ad"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/338_ap.json"
+hash = "b55ab4919dd9fd4ac5fb526d332d97ff8d288971303c4d9f471dcc64e9d77dac"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/338_fmj.json"
+hash = "5af2904f67ac2bd0df6056cd6f4f18b6fc8d4430e28239d4101f5f44a9c96c6f"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/338_tacx.json"
+hash = "c6dab93ba19e45be42eb98bea402c05feb75da6b82475efaec7509ab757304fc"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/338_ucw.json"
+hash = "140dcc1e5e7735d547e66807d5b448f02dd832aecdc5ba8549e17ffd593b3545"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/40mm_incendiary.json"
+hash = "65f9531990db0ead87e64cbe1bfa733429a8b03872a79218abbad748734a3bfc"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/40mm_smoke.json"
+hash = "36271081263637df5324e63ad73be85236cf770cc76472c4aa7b6c719c4d86c0"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/45acp_ap.json"
+hash = "420aed89260c388fdb701f3e00daa253d42cb73ddfe5773b81e73b547f002cc8"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/45acp_fmj.json"
+hash = "a565eeead1c5b21ddcc10cc213884b6f2a623fcd912ca2857cafd699d9e6c050"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/45acp_hs.json"
+hash = "e163693fe76d9c2bf5295c25e0838aaca602b35979bb3826b6d6a60905a2600a"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/45acp_rip.json"
+hash = "594574668aa85ccbcd2cc92eb2e1b823215ba27c189d8f6273edc0b4dfd810e4"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/50bmg_api_t.json"
+hash = "f37b39334493176562bdf89e42820be3a1951bcd95e2ecef696c6d950d43c118"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/545x39bp.json"
+hash = "7637eabb58dd0285694d827f24846da3ba3b807708571b4f521f76eb9b74fb83"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/545x39bs.json"
+hash = "fc27e0a86fefade1cd5f3d69404f82967565c1b208b959b9576ed4c8b8793312"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/545x39bt.json"
+hash = "39d29419fb322b0bff8fad244ee440a1978ff74a8f89920bfe826168eec62b3b"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/545x39pp.json"
+hash = "04d0ac47087355c6f86647f020098c94e4a4b880dbf32ce15a870c018c7ca9b0"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/545x39ps.json"
+hash = "39b4f528df207469b8fe7fe69211e7c3c4f3f8bb94fc0db6da048b3380f9a391"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/545x39t.json"
+hash = "b8e64444e3fa14e5850ed9e1ac4d50dc96b2f0802b1eaa86a3ecdd46661bd2fc"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/556x45ap.json"
+hash = "e95bc66286573ae30e2489f1de9bd82b1a65eea9e4c5a3d30d442461869adc1c"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/556x45hp.json"
+hash = "8e69e209b16d60d2e186de47c0cdae3ebfc58aa9b8e1099d98e8df4070410a0c"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/556x45m855.json"
+hash = "629f910587897843633dc3005ad21a6aed979243791476c4c7d3db2171b28c4f"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/556x45m855a1.json"
+hash = "524799d8b6f017f3a22010880e9cea16ae6dc390ec8434b5957dfe663fe461be"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/556x45m856.json"
+hash = "c50a8ed2ee9aa49ca17effd808adc788cf64a559b7a643957fb2d94fc3b106de"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/556x45m856a1.json"
+hash = "c9a462e460be051eb10aa5a811ba3cca7d07387bd068f27b2967ecfd9a3f6012"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/556x45m995.json"
+hash = "8906c5bc4e078d318dcfb4b8878b03e143b42b12ae3f1a84242af65a8b59a88d"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/57x28l191.json"
+hash = "22d1d0c4688eb41ae3b313d6a2a5d7c611642380704d4da424abad1d5c0090c0"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/57x28sb193.json"
+hash = "fbcaca27b4598386cfaaf59c5b590e0431da05b6cec58c14e24781770c0cefd0"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/57x28ss190.json"
+hash = "7e68c8ba7f44aa8b152a067bfc47c92b9edc8cb20fe995df74e440cd4253849b"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/58x42dbp191.json"
+hash = "230bb12bd08c5bfec0f9f07187ce9b1d9ef268b4b45524eeee728dd76932f9b0"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/58x42dbx95.json"
+hash = "de3f2031c7ce4aeba0b25a56dfe991abef4fa14028fcd0e9e74cae883e285099"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/58x42dvc12.json"
+hash = "d09d8d43c89a7ceacd49aaab032e25aa18b91ccfe74b68594cde4b3c56b5855a"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/762x39ap.json"
+hash = "c9764de36fbf0941711b8f2d4a5250939a17577c208211e3fd7d469f70cf7d72"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/762x39bp.json"
+hash = "aa154989c682605ed9ad6c70a433de9bb2c1ad8c475955d066b9cc2294763fb9"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/762x39hp.json"
+hash = "8a42d7dac971c5702649d0dfc8e57845d7ef56dc172bfde891363a49cdb93515"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/762x39pp.json"
+hash = "1951cdebe19661ecaabe6eb75068449a16c9fb177a23a6bd8ae66bc619c1c339"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/762x39ps.json"
+hash = "2bf6e62ae211596903a20f4a923b60ec2b188982ead13c273cd70c17e9096282"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/762x39sp.json"
+hash = "c5eaf1c7c795faeaa4f9d7621c64fc775841e035cfef39de1cd183671af44cf5"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/762x54bt.json"
+hash = "04bdce1627a79a3eccf1a95e0932cbc530b8bb4690330c208b2e599637094fa9"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/762x54fmj.json"
+hash = "4434e58edc1685b62056b89daf816a2c80af39f3a51ca8b09cb633315c4133ed"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/762x54hp.json"
+hash = "8d179d16e66c695bfeedf7fe0a166b9eb37137dc1096acbf5044ab6b51c14839"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/762x54lps.json"
+hash = "a954f4a2794df59d8a04c8a73981d96d743e641bf68e592c0d1169327bbd6688"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/762x54snb.json"
+hash = "f288140d599d04f96c717b472081b60224f9d26797fcc3b691d791cafa3bcfb2"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/9x19ap.json"
+hash = "2d1624b6009ad1f2169355c7e63e28887c730b8b1737ec9529f29480529cc5c4"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/9x19luger_cci.json"
+hash = "c3cfeff1ce3471d4aa9033118929279995fa8f49f56d5849a65ee492c70f662a"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/9x19pbp.json"
+hash = "6ad9882afb0f377d5d800e816276a87385f2a276e79520c439adc407f5ed1d17"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/9x19pst.json"
+hash = "548c9c9be36126ee2116008b1b3d559399d5e21925857b925b596c660df01bb3"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/ammoDefinitions/9x19rip.json"
+hash = "7e2f7704bc7e2d10f0b16ce13e49bf9ba217d0bae652d2ef420b876dd1a124a8"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/gear_recipes/ammo.json"
+hash = "810cbd4c225ba79d497878770e8b11ce7d72cf703ae9201014a56793f4596fd3"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/gear_recipes/default.json"
+hash = "e5612fac7485360d5f3b3737acab9613a31d292314564d220358099e98c01c3d"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/armor_6b2.json"
+hash = "119349a963728b186ebcc529d9553a79fc32281592d639b7d15d4ab53df4dcb3"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/armor_6b23_1.json"
+hash = "25835506bfc24ea56265e0424bb84de4937ca49b22fb295757e62bd9a341445c"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/armor_6b23_2.json"
+hash = "b5a91653b9ac9dc1fd6da3c507f67d1c353d0509009affae8b5055c62fe88415"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/armor_6b43.json"
+hash = "db5f9b25dc2e52feb419eeb11422375cf825ab838e85591bef986a88fc4eed86"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/armor_avs.json"
+hash = "41c7588c53b87850854838190697fed9bebc08ac874eaaf4d4900426da4e2d6e"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/armor_defender_2.json"
+hash = "02d5f7c5d0ce75f30ec415478920fb1029c7ea88c3a45270842b4ee0ee899536"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/armor_hexgrid_black.json"
+hash = "1bc56e0d52a888dc3e70fe5c1f7a16653e9bc68de59122781af00604e1b987b3"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/armor_jpc_v1.json"
+hash = "ea05fa036c6ea7c8db971f91a93a320d1cca8db6322f19ae51d64bd7b7a07ec1"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/armor_jpc_v2.json"
+hash = "68c8feb881c3d165cfb7a21736db6804f49e0291891b9e00f82d5108b396c68e"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/armor_jpc_v2_swimmer_cut.json"
+hash = "b5ac0eb349aef4b947c6969de5abbe85c7b188b4742a73123e754af289ef7cce"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/armor_thor_black.json"
+hash = "3fdca3360444871380ecee4a988f2447730269e2ea7006081952a79fa6e346dc"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/armor_untar_blue.json"
+hash = "e0bcf899f89eecc97bc24cdb29b1c14b67550951d858e93016015bb6cf2fe8d5"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/backpack_6sh118.json"
+hash = "4d5b784f7c2174b86eee8c5c4c07b2a588a02f512bf11651fe495e1b5ebaa5df"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/backpack_british23_red.json"
+hash = "6fec45a886e7e4dc40a4fad836595cb3ad01ac29ef5c32b9f4ab33448a3a3c05"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/backpack_t20_multicam.json"
+hash = "f78122d27071ca92713f58065bd1b9961f150395ffb98b99a8884529b2421c9e"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/backpack_t20_umbra.json"
+hash = "3e524bc170e75918a23a4fc5c97a67856e88c56a9ab69a2d93a9a4ac59a16848"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/backpack_vkbo_olive.json"
+hash = "12e9922ca29135f0f45e8403de2c11f93b838df3a47cf9737383e72cfeac8139"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/cap_boss.json"
+hash = "2d9e68379f88222fb0f90ea81173fe9dce10c44dbcb7780d10379ab6d510cad2"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/cap_cyan.json"
+hash = "2689bd138e409bfc2873d263f8b028a6bef5a758701d11816484726eba7a6073"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/helmet_6b47_ratnik_arc.json"
+hash = "98077ae32bcc2d362b21ace45e734afd28ed2a6053b4363f732ecbdaf6d5dcba"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/helmet_6b47_ratnik_emr.json"
+hash = "692ec62c57dfb3cc857bc9f878fd9fe2b890360e5b0fbeaa43e7e6ea814884b1"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/helmet_airframe.json"
+hash = "d00333d379d2817f1e1e809d6e2c3b622b261b0a7a5d5862b00e5cdf8698f134"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/helmet_bastion_black.json"
+hash = "6edab49fa98db104b1c06a2bc32f5c052e6affdd3742c59c2201de26ac6ab9d4"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/helmet_bastion_green.json"
+hash = "0fbdcc25671d39e246a608365786e26b49cc720f0914ece9ab07e50553893f16"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/helmet_bastion_multicam.json"
+hash = "177f77dd9aaf54649a0286ffb3a13f9d68c509037e7f993903e7709e778f9131"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/helmet_british23.json"
+hash = "8586f6083b1a45ac7fb276a6084409fba6de1d9bdf8e21fc43bc70463a1d2352"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/helmet_phonetalker_iiia.json"
+hash = "e5978b554063d3638af1b20bb2a1c2188a23cbb04e6021cbbea8c26934758054"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/helmet_tbh_iiia.json"
+hash = "5e68494108aa95984e2ac7ef43c12bb3e1051126948bf6664c964526c26f94b9"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/helmet_untar_blue.json"
+hash = "b608e0f90ea867d0b031b4f0e252921481d99c7bded618300f80965ba703db89"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/mask_cold_fear.json"
+hash = "42643391591af66b436f0767e3442f745c5e114a5a832c165ee5b1fed86a6e55"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/mask_m50.json"
+hash = "78ef3c854f6f0402802b67ad1163de391800193af2e9855c6f5632e16eae53f2"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/mask_mp5.json"
+hash = "9c4cc46c24633b90150a0d8d13ca68d8869e702ffc598364c8deda9063ba872c"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/mask_pmk2.json"
+hash = "1be06d64ca49685da9c24a30f79fdbbb6a1f9d885cd792c63d105656fe5bc09a"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/mask_tagilla_manhunt.json"
+hash = "a0bd5c1836da3eeb268fa6b8836debbb48ad983dfa36bdd90a1e1c7eff69192f"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/mask_tagilla_ybey.json"
+hash = "b390721e1ccb427318e15a8e16254ca7878358c7dd141d0ca8281713b1f176b1"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/mask_zk.json"
+hash = "f3083d9603bbb2a69022728d697c6ba16d4dec9ac9c4d81745a26a74aa71c879"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/plate_ballistic_convoy.json"
+hash = "e4536bab3ba03f3add5de8fcbd155b83152944ae1bbc2677529b8cbd23faec25"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/plate_cult_locust.json"
+hash = "5398a4c2c9e20d6c0d0eded0f7fc1ffaaeda1ea7bc33ba4d8679f30379de8990"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/plate_slime.json"
+hash = "2b4fc8cc666b639310a9605e3981c26c3d456d9f9bbb0cc24c03a0f15ece38dd"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/plate_steel.json"
+hash = "ae49d64c9c8884286e77a13990d3fce9cf99e9f3ca6f34ad51d0a3e2f41af1fe"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/rigs_alice_olive.json"
+hash = "301208d554c7bbc5b86f8632107d21a4a89282a86a34ce538897a04deda24d93"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/rigs_cr498_desert.json"
+hash = "320fc7852d6a37e0e55383bdf7239e13efa3534e605ac4e33e6dd450eed5f290"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/rigs_fast_tac.json"
+hash = "84e10b3836d476a7170cbe1673dc7abe45ba1e84cc45f4c44eeb75b5da026375"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/rigs_sop_mr_desert.json"
+hash = "b05d1ac6ff4cb83c090f65d4d4f830473b7f9e6d817ce61db2fef2dad4e38992"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/items/rigs_thunderbolt_gray.json"
+hash = "5bf25083d0c752bd91aecd54cddd5e5daba6eebac9774de0b835f038087062c6"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/scripts/40mm_incendiary_logic.lua"
+hash = "a9b4f78be353a3e1503d754bdc2f95272431a56b458a5ae152b4bc7df904a52c"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/data/zerocontact/scripts/50cal_api_t_logic.lua"
+hash = "e5611118aee5b16b23bdaeb9967cbca77c9261a40b27d7da4de4d6d1383c1fca"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/manifest.json"
+hash = "76c4bc5e0dedc477b61b1d48578f5c25f224b4e5c975b17d86c6a6fc18ad8f84"
+
+[[files]]
+file = "config/zerocontact/packs/default_pack/pack.mcmeta"
+hash = "8d9acbd74b29864057c97f59e5662a573e6c52482be51bcb64d365ebd3b5966b"
+
+[[files]]
+file = "defaultconfigs/ftblibrary/ftblibrary-client.snbt"
+hash = "ab6bcad040f138406197f70cfe9a041832feaddf7e87954d9a5f4b13b6a962f9"
+
+[[files]]
+file = "defaultconfigs/ftbquests/client-config.snbt"
+hash = "4ce84f0da35036f810959086ea1043062993bf34ae704fc9cd4f1a67810090a6"
+
+[[files]]
+file = "defaultconfigs/ftbxmodcompat/ftbxmodcompat.snbt"
+hash = "9e5046ac0b9f6d27945b689657835bff24310aec7b11f7461c972b514d0e0658"
+
+[[files]]
+file = "mods/.connector/continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar"
+hash = "372752157e7ebe716e4d4116b49f73bba8554ef5846a525f7918096eeb932013"
+
+[[files]]
+file = "mods/.connector/continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar.input"
+hash = "3457bba78f57a7d7bde0fcb7a522634d333a8ed185d4e12f4f4b46a328170dc6"
+
+[[files]]
+file = "mods/1.20.1-SecurityCraft-v1.10.2.1.jar"
+hash = "f7c637b291cccd2c4a4f94048a6d08a48065c0618fec03043d6f9e15af27948a"
+
+[[files]]
+file = "mods/AmbientSounds_FORGE_v6.3.11_mc1.20.1.jar"
+hash = "63a4ea6ea11fa63982325306ae09268080c296633b6bfbf72dbd7c8514d4f114"
+
+[[files]]
+file = "mods/Arcana-1.1.4-loader-hybrid.jar"
+hash = "b0a9ba0cc00de886a0b7162dff5073b9255910e951b5f5a2655c01490eee7dfa"
+
+[[files]]
+file = "mods/CameraOverhaul-v2.1.2-forge+mc[1.20-1.20.5].jar"
+hash = "efec2331678c6653e9d43d5ad24a902ec538613fed708843c9431bb72dca844d"
+
+[[files]]
+file = "mods/CreativeCore_FORGE_v2.12.42_mc1.20.1.jar"
+hash = "8d90a490c590613f79e51066bd885e5d93f947ab12790740c9b7cbd4e49b2676"
+
+[[files]]
+file = "mods/CustomNPCs-1.20.1-GBPort-Unofficial-20240709.jar"
+hash = "8430768969b53ef598b153804feafe446e7a6a3f331cb38ffe0f9d96ee3b459a"
+
+[[files]]
+file = "mods/Elite%20X%20Quality%20Guns%20Forge%20v6.0%20-1.20.1Final.jar"
+hash = "219f0fdf92f48dcb6355438d3892f6d103a04611f12b789f404f9f8717a3ef10"
+
+[[files]]
+file = "mods/ImmediatelyFast-Forge-1.5.5-1.20.4.jar"
+hash = "82db19cc65b5c11a444498fb4b8cbcb0393c043e794cb5bf368631a0af765035"
+
+[[files]]
+file = "mods/ItemPhysicLite_FORGE_v1.6.13_mc1.20.1.jar"
+hash = "f30d7bdc9410bb1b38b5e18e7c3051e0df8b8f883932f49d0b9aa23a146ac1fa"
+
+[[files]]
+file = "mods/Kiwi-1.20.1-Forge-11.10.3.jar"
+hash = "803753d53e22124713e66c01559eb0a502e0ccba996ce7e89a9169e48a2660e2"
+
+[[files]]
+file = "mods/ParCool-1.20.1-4.0.2.0 (1).jar"
+hash = "b7bea183d472a36d8a99a55574240a0179f168fb01eb0cf4cb75b28078ecb5cd"
+
+[[files]]
+file = "mods/PassableFoliage-1.20.1-forge-8.2.1.jar"
+hash = "15c215f1782c21f1ee1295eae3a5e96386eefc790247f5f32bd74893b967ec14"
+
+[[files]]
+file = "mods/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar"
+hash = "beeb560232c8ee691ea446d53194358902eed8ed38d198515906ac724bdde1fb"
+
+[[files]]
+file = "mods/Pretty Rain-1.20.1-Forge-1.1.3.jar"
+hash = "4d61ef6e1d1b4a3fb4acfc876fe0cfe14d56afe2097f952332c8c23838096ddf"
+
+[[files]]
+file = "mods/ShrapnelExplosionsMod-2.0.7.4-1.20.1.jar"
+hash = "0a02a8283496b921cb5d56ef23f5a9c4bf5592ead49499595e77196778d44f05"
+
+[[files]]
+file = "mods/SmartBrainLib-neoforge-1.20.1-1.15.jar"
+hash = "13c568f8fa1bc8cf415fe58b58252cd6d7a28f57609418bbf16eb6ad8115d63d"
+
+[[files]]
+file = "mods/TIG-1.20.1-2.0.10.jar"
+hash = "cea45f6031cc6dd606dbfb27921eafeeffaeed357d83172e6369c2dbba602286"
+
+[[files]]
+file = "mods/TaCZ_-Expanded-Arsenal-v3.0%20(1).jar"
+hash = "e4725721fdfe5d57c14af0a93458f702bacd87ccfc361c46623319e1976c02ef"
+
+[[files]]
+file = "mods/TacticalCamo-1.8.1.jar"
+hash = "f4b47d217bc80fe755fc7947349bab38f197c5d4a2207067be0e0226337100bb"
+
+[[files]]
+file = "mods/UniLib-1.2.1+1.20.1-forge.jar"
+hash = "10a239c60c12e7df14d10d23911b240249d3692ccc8db268ef8d7d9f93390b8a"
+
+[[files]]
+file = "mods/alexsmobs-1.22.9.jar"
+hash = "16bc5bcc19db9029c24f951346ec71098e6f5b0afef96e61894a2e9407aad37c"
+
+[[files]]
+file = "mods/architectury-9.2.14-forge.jar"
+hash = "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af"
+
+[[files]]
+file = "mods/autohud-8.14+1.20.1-forge.jar"
+hash = "f383fe1cd295b605746a367d5f9a3859a91ebe0f7bf3ee114e976cd34ab1cc75"
+
+[[files]]
+file = "mods/bloodbits-2.1.5-forge-1.20.1.jar"
+hash = "ee21ffaf3aa52578ceb767fbea6fdd949aab074559844a7ed5761eb845aaf430"
+
+[[files]]
+file = "mods/blur-forge-3.1.1.jar"
+hash = "7ab7248ecfc0fa9cf2e6dd7530732263e580d7a794a6ba999366af345e7c8e71"
+
+[[files]]
+file = "mods/botarkov-1.0.0.jar"
+hash = "f471ab3d11895da1d5ea5096ce6128961a8e9d76192743dc6fc87d8788602ee7"
+
+[[files]]
+file = "mods/citadel-2.6.3-1.20.1.jar"
+hash = "56c7ab87348a5292583aac787b6cf11b5193e77f02af1d17ea75a96f8640b3ce"
+
+[[files]]
+file = "mods/click2pick-1.0.0-1.20.1.jar"
+hash = "f652a143441e4db2825b3f973513b40f599112052a5d7c83c95b8afe036e1df0"
+
+[[files]]
+file = "mods/cloth-config-11.1.136-forge.jar"
+hash = "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2"
+
+[[files]]
+file = "mods/concord_deco-2.3.0.jar"
+hash = "ea356d75969aa9568a8e5de2d871d78272adf7de20c46a1398f654d7f34e8c72"
+
+[[files]]
+file = "mods/corpse-forge-1.20.1-1.0.23.jar"
+hash = "8d77c5fc8dc981c750a8e66d4665f055457f748f0ce49a303d9bc50347bdbf7c"
+
+[[files]]
+file = "mods/curios-forge-5.14.1+1.20.1.jar"
+hash = "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f"
+
+[[files]]
+file = "mods/curios_for_ammo_box-1.20.1-1.2.0.jar"
+hash = "af9209b4bc1e7c719742308934d654e29d674ca3a3872e7e6cd1d384d4b0775b"
+
+[[files]]
+file = "mods/daffas_arsenal-3.7.1.2.jar"
+hash = "d3da11dddca3b9e2457da0194af46614b5e6ea3a7d73f94f1a1f588d17a1f09e"
+
+[[files]]
+file = "mods/dochi_warfare-0.3.2-forge-1.20.1.jar"
+hash = "4ae102ff88470d74dd03b85185d2bfa456c94cea5a34190472e95016fca86f11"
+
+[[files]]
+file = "mods/easy_npc-forge-1.20.1-7.19.0.jar"
+hash = "8815cdee8b60e31e81db0c102f770284140ddff226ad8acfe3cbf53dc9188c22"
+
+[[files]]
+file = "mods/easy_npc_config_ui-forge-1.20.1-7.18.0.jar"
+hash = "4a5de693aabf0e26114218a3a923c57c3e6dfaab0f4b00b1b4ed183a3e3d3280"
+
+[[files]]
+file = "mods/embeddium-0.3.31-mc1.20.1.jar"
+hash = "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"
+
+[[files]]
+file = "mods/endlessammo-2.0.jar"
+hash = "30527d016f12d1862aeaf21d303d2f017138127cd722163c07d7e348e3223002"
+
+[[files]]
+file = "mods/entityculling-forge-1.12.1-mc1.20.1.jar"
+hash = "94f8881f696dfa73f1fe59395fca040655187ca87340747fb65cad69e13759b9"
+
+[[files]]
+file = "mods/fallingleaves-1.20.1-2.1.2.jar"
+hash = "6202d8241f01e21278fd5de644fd2e992824069f2cf0fc9dc6a74ab2218015b6"
+
+[[files]]
+file = "mods/fancymenu_forge_3.11.0_MC_1.20.1.jar"
+hash = "c24fe00352e6e5ddcc8b5997d108dc1b8aa72c728612310de2c8d0f88c4c97be"
+
+[[files]]
+file = "mods/ferritecore-6.0.1-forge.jar"
+hash = "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54"
+
+[[files]]
+file = "mods/firstaid-1.20.1-1.1.jar"
+hash = "c2021a688e301f7a44da0ae04163ec8b8f077154e02c48e89063027b0cf33e4a"
+
+[[files]]
+file = "mods/flashlight-5.1-forge-1.20.1.jar"
+hash = "57c68ce015ce9a5c73e161ae43e495c4f288f92b167f6bc6ad752a46fe7e34ef"
+
+[[files]]
+file = "mods/foglooksgoodnow-1.0.1.jar"
+hash = "af93bf7962d9ea05c8e0bb984c0b5ee3de7bed880e4c71740fc9d16d87d45d00"
+
+[[files]]
+file = "mods/framework-forge-1.20.1-0.8.0.jar"
+hash = "37c267f46d8b8dfa81bae8c9fa9fa6467e456cadecae10722ee91b43437f25a0"
+
+[[files]]
+file = "mods/ftb-library-forge-2001.2.12.jar"
+hash = "f09335944fff8ca3ef37a40e0b125ffb6707759ede258c73f9ce9bac61bfbf96"
+
+[[files]]
+file = "mods/ftb-quests-forge-2001.4.22.jar"
+hash = "9ea9d159a78a2724cfe0457b024680fdb52a2126eff9cfa5280a30578f647a68"
+
+[[files]]
+file = "mods/ftb-teams-forge-2001.3.2.jar"
+hash = "b1cb4d82ea9f137a87e12a7aaf3329619294b56f7d70337dfd557a76e10b6e07"
+
+[[files]]
+file = "mods/ftb-xmod-compat-forge-2.1.3.jar"
+hash = "16a8eb9de88d5c33d29cb076cc39dfb337b2c54348e1ef1efe9dd60cf85e5f72"
+
+[[files]]
+file = "mods/fzbe-0.4.8.1_beta.jar"
+hash = "447c2546bdff0efae7c4382d35fd08af52a2724389b2614ffa2354248db54aa6"
+
+[[files]]
+file = "mods/fzzy_config-0.7.7+1.20.1+forge.jar"
+hash = "c4acf6fd3ce66ff28050dd9fdbff25c407f98a4911311ff3f59d651acccc9575"
+
+[[files]]
+file = "mods/geckolib-forge-1.20.1-4.8.4.jar"
+hash = "c04abba4fd354dd8c0e8a732f1f05f4dca893d2e1d962b2ab128bbd411478747"
+
+[[files]]
+file = "mods/grassiergrass-forge-1.4.5+mc1.20.1.jar"
+hash = "0bb02d32a840944feaba7f606823a0bf775f648f134749f988aab4a76a85ca3e"
+
+[[files]]
+file = "mods/guccivuitton-1.20.1-0.2.2.jar"
+hash = "9247e55f20acf8ec89af56d4ad45fcc8fe08bee9f7189421ef31835f3516bd57"
+
+[[files]]
+file = "mods/gunsandtargets-1.0.6.jar"
+hash = "f63a86eb2b38572a8c55149a6231f267ca1a5feec6a330a00382757455607acb"
+
+[[files]]
+file = "mods/hourglass-1.20-1.2.1.1.jar"
+hash = "29d3c6813792b2733fa1264a4a732aead67741b7fe9555d7a5e229717d9ffa3c"
+
+[[files]]
+file = "mods/immersive_ballistic-1.3.jar"
+hash = "b1d037714bb106e02476b97976e5d8245b321b5541a97cc4c06f2d24b542539e"
+
+[[files]]
+file = "mods/inventory_weight-1.7.jar"
+hash = "2660f4b744b7a7751ac729416b179041a9648d7efe49d4c03f521474b6b418ea"
+
+[[files]]
+file = "mods/item-filters-forge-2001.1.0-build.59.jar"
+hash = "99417b1342ba51ccb9611b17ab01fc1299971aa34e8f9d2a8b3c63df5713eb49"
+
+[[files]]
+file = "mods/keeparmor-1.0.jar"
+hash = "d1e9c1f2af56b6db3e417ff4a617c4c2b330cea56a331999b810fe131852b109"
+
+[[files]]
+file = "mods/keephotbar-1.0.jar"
+hash = "d264f31ced52fddce259dc237aa30d55cfe00a0add19a478039ee4a86bd1d6e0"
+
+[[files]]
+file = "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar"
+hash = "e78686b92c3761ec26eb9d3c53efdd3d6ca77981cbd3723995e1163b7103ae0b"
+
+[[files]]
+file = "mods/kotlinforforge-4.12.0-all.jar"
+hash = "6a66c6a68ec09f8717cdbf06883394f0ee24d7cd826b7134a0f81839e8e720ae"
+
+[[files]]
+file = "mods/leaningornot-forge-1.20.1-0.3.7-BETA.jar"
+hash = "578207f78a12d08203d39c13b563de6101886ead7d16e891cf0bf60b294c662c"
+
+[[files]]
+file = "mods/libIPN-forge-1.20-4.0.2.jar"
+hash = "cb96fa15eddc74c243677f7f5b6e3ecaa87bb33f4854ae0353646f304058add6"
+
+[[files]]
+file = "mods/lightmanscurrency-1.20.1-2.3.0.6.jar"
+hash = "cf232aedaa4ac553a9e5f2bd8571a10306bfcd39aff7e689d13cb1a0de636d1e"
+
+[[files]]
+file = "mods/lootbeams-1.20.1-1.2.6.jar"
+hash = "4660197524c9198ca93b20999204881a007df452e3bd2151358ea6b844e86b3f"
+
+[[files]]
+file = "mods/lootchestrefill-1.1.2.jar"
+hash = "1d7ad04d7c3eff4aa649655c3d3d04cd25b88d282ec26b0074982ecc4dfd0593"
+
+[[files]]
+file = "mods/lradd-1.20.1-0.3.0.jar"
+hash = "4cf60b30e843ecd92b5ff05bcfa12a89754e7ad947b6d3ea8485eb340d5f1783"
+
+[[files]]
+file = "mods/lrarmor-1.20.1-0.1.4.4.jar"
+hash = "cae5f556c1722de1b1cc3ff112eef9cd6054fdc16e77d879eaabadb6bf0a1670"
+
+[[files]]
+file = "mods/lrtactical-1.20.1-0.4.3.jar"
+hash = "930372cab33e1f563f597c74f9155b5ed25e6f2b0ff7e12dfc86255e1020ef2d"
+
+[[files]]
+file = "mods/marbledsarsenal-1.20.1forge-2.3.0.3.jar"
+hash = "b84adbf47b482e48887001c4bae4870cf9f41833cf68bed87928f6474119346c"
+
+[[files]]
+file = "mods/maxstuff-legacy-1.8.3_hotfix.jar"
+hash = "ea4495edbcdf96b085130ad05ddc2b5092fc54c162aa7ae4a327b84ef328d0f2"
+
+[[files]]
+file = "mods/mcore-1.20.1-1.0.1.jar"
+hash = "d2ae856d054c11ae53b38d13fc542dc9da8d00d951539bd16c5c2fd1f9ff6997"
+
+[[files]]
+file = "mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar"
+hash = "933e2a7e79c4594f965f7f7d00b1f28a98ec2a180ad8f9f90310a266fe5cf5d8"
+
+[[files]]
+file = "mods/militarybackpack-1.6.0-all.jar"
+hash = "83bda00c8d2172967a8c86ba068931fb7d27f51479d21109bab811e775809fc6"
+
+[[files]]
+file = "mods/mobstacz-1.1.0.jar"
+hash = "dd04d843194007c7fdc385b77cc7b0295d9fe323ef7b9d5742ee43abbdac85e4"
+
+[[files]]
+file = "mods/modernfix-forge-5.27.83%2Bmc1.20.1.jar"
+hash = "954ff22f601be8de3978a0d7636a138dc93801c6ac55cfd71ef1cd2895de8e5f"
+
+[[files]]
+file = "mods/modernhud-Stable-1.2.6.jar"
+hash = "576325cba14a9ec5602c24b3d1ce72ae1a2a9088a7335aed97d6d86442234e5f"
+
+[[files]]
+file = "mods/narcosis-1.5.2-forge-1.20.1-FINAL.jar"
+hash = "11e8a5b78ef871a633f5d58cf3746881a57b8911b9f862d70d7a72459292f247"
+
+[[files]]
+file = "mods/neurolib-0.3.3-all.jar"
+hash = "9ea7f95b1d29b31b14e2017a2d67efcf12af2627f7c0fbfe45f0d69bad4682d4"
+
+[[files]]
+file = "mods/onewholibs-forge-1.20.1-2.4.20.jar"
+hash = "176822d6ad483dec7c2820604f826412197a48e31bffda4f7341c0a845e3d6c1"
+
+[[files]]
+file = "mods/openlights-1.20.1-2.0.1.jar"
+hash = "eaa1cdba7dc3fec29c08e205727341cd6bbb7ca6d6565b674b3b1ae3bab0441c"
+
+[[files]]
+file = "mods/packetfixer-3.3.2-1.18-1.20.4-merged.jar"
+hash = "12f96ecb8e61e0b3d3f0ca5701f479904904501dd251aa7bb60205afdf6bc2ce"
+
+[[files]]
+file = "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar"
+hash = "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691"
+
+[[files]]
+file = "mods/polytone-1.20-3.5.26.jar"
+hash = "3409f22a39a93eaa699f96561ea8830bf5f492db43a000be783f53ae59e00404"
+
+[[files]]
+file = "mods/presencefootsteps-1.20.1-1.9.1-beta.1.jar"
+hash = "447dd543e178a9454ccf3bf0d9d7bd7957b1af6da9d74f2cd3d9b5fbe8548e98"
+
+[[files]]
+file = "mods/quantified%20api-omni-2.2.3.jar"
+hash = "dfeb10230b3d5d50094744a385625fe26db388e31fd0da27c5faeef2c70fca2d"
+
+[[files]]
+file = "mods/qulib-kt-forge-1.20.4-2.1.21.jar"
+hash = "3cd2d230982e1eb92e8a946180a7e0c4e8cfb8c3c3956b8b555c8b86777d6cf4"
+
+[[files]]
+file = "mods/rbi-1.20.1-0.2.0.jar"
+hash = "8ee274f6ef6c019f03423de4128efe8b78b0a88c671ab8cca68cb37669756f7d"
+
+[[files]]
+file = "mods/securepouch-1.20.1-1.2.0.jar"
+hash = "eee1a97cabb138e495558f209dfda5dcf7ed3c10edf640cc138870aa0e08a27f"
+
+[[files]]
+file = "mods/sodiumdynamiclights-forge-1.0.10-1.20.1.jar"
+hash = "dff5325abb58c0c8526dffb80e764188bde045fd02ca6ed5e2bb76f0897d46f4"
+
+[[files]]
+file = "mods/sophisticatedbackpacks-1.20.1-3.26.21.2256.jar"
+hash = "b797b5a0c3096e1a1a6182eaa3eae0edb1fd8b3797a1c3e56184b92ae7ba9d40"
+
+[[files]]
+file = "mods/sophisticatedcore-1.20.1-1.5.37.2488.jar"
+hash = "afb2c333a03db21c794481c3e9917f355da3f75b1098cd95f1f2ec9a0dcd2300"
+
+[[files]]
+file = "mods/sound-physics-remastered-forge-1.20.1-1.5.1 (2).jar"
+hash = "591fa317c4e462039dae01967bf370acb284d5118cf5839a33f1d01b6c0def3c"
+
+[[files]]
+file = "mods/suppressionmod-1.1.1.jar"
+hash = "a300cce97ca128b5e97954f9fdb269f7de3b3478243e655279371e276fcb0896"
+
+[[files]]
+file = "mods/tactical_stuff-1.0.2.jar"
+hash = "5abd896853e7b5bcc5b26a5b27ae79cf3f566e25c475793f484e69568764fb41"
+
+[[files]]
+file = "mods/tacz-1.20.1-1.1.8-hotfix2.jar"
+hash = "2cbb89f44333d2eb4e825d86d789ff119b272ff75184390b55bafd4f0e7f10c2"
+
+[[files]]
+file = "mods/tacz-mesh-loader-forge-1.20.1-0.1.8.jar"
+hash = "fcded6b5a1d688e910218f0d81a266fcb4bd937ff0a359075653765c4f98a9eb"
+
+[[files]]
+file = "mods/tacz-tweaks-2.14.2-all.jar"
+hash = "e0a9aeea1b764910fa4201391089759e338002c89a19a98b296f1c9f27fd836f"
+
+[[files]]
+file = "mods/tacz_npc-1.2.0.jar"
+hash = "150c2ebf86f689a74ec8f710be25916364b0a5b4de4d26283c64bddf1ecbd07d"
+
+[[files]]
+file = "mods/tacz_realistic_drop-1.0.0-beta.jar"
+hash = "435eacba011dd70ace36b0313008e16445e1dc9af0f9d3d14610f3aa1be67802"
+
+[[files]]
+file = "mods/tacz_x_guns_lights_addon-2.9.0.jar"
+hash = "5a098fbc68518b2faf030ef95864366ee04afe710237de16587cf7561703842e"
+
+[[files]]
+file = "mods/taczaccel-1.2.0.jar"
+hash = "e83d5e813e8e101fc839b9703d6c4518e069b0631c536ec01508031c1ebdea8d"
+
+[[files]]
+file = "mods/taczaddon-1.1.8.3-forge-1.20.1.jar"
+hash = "495000ffba37320116ef3752363f020afd75d4bb3e4a4d6c5eb82bbb1073c09c"
+
+[[files]]
+file = "mods/taczopenlights-1.20.1-1.2.0.jar"
+hash = "9d28b16b3e86261bef64b3d9c0b2ecdb419d403ad2ffaec0b7a679be8b3536cb"
+
+[[files]]
+file = "mods/tarkovdayz-1.0.2-forge-1.20.1 (1).jar"
+hash = "0e8b0e80c8b56ac01bb9bd2bcd90944ec95603ca3200253d8db593f8dd3b3bd1"
+
+[[files]]
+file = "mods/tctcore-2.3-forge-1.20.1.jar"
+hash = "564325438a35631c69f88aaf20b8103232c10fbe8cb3bcd36644e7e5f4c0da1c"
+
+[[files]]
+file = "mods/tl_skin_cape_forge_1.20_1.20.1-1.32.jar"
+hash = "b7d7c81ecc057a6b00977380d86c0b1730067f7403dca50c88d6aee98ca6aefa"
+
+[[files]]
+file = "mods/worldedit-mod-7.2.15.jar"
+hash = "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c"
+
+[[files]]
+file = "mods/xaeroworldmap-forge-1.20.1-1.47.0.jar"
+hash = "88c6d844163c95a94d92bc6d87d9011cc840bd6207c3099a81b113d4450a3f6b"
+
+[[files]]
+file = "mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar"
+hash = "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f"
+
+[[files]]
+file = "options.txt"
+hash = "69856de43dd75aab42efc20c4e5723a007080777e31f7e36d9f70a2d2cc003ff"
+
+[[files]]
+file = "resourcepacks/4lvoluminous-grass.zip"
+hash = "74130ead811325c9a53d4cfc3b77b63dbc1c568051df78ba598e27c5cee6d374"
+
+[[files]]
+file = "resourcepacks/A Little Taste of Jerm V2.7-26.3.zip"
+hash = "f60899651090468b29524c4b3908c1a1a344bff34cbee09c39610cb8ee0a243a"
+
+[[files]]
+file = "resourcepacks/Ashen_16x.zip"
+hash = "6f01c16cf8d24b894850d4e3151f3f2d0823d9c42cdeafcf742bae49b0afd5c0"
+
+[[files]]
+file = "resourcepacks/BoogSkies.zip"
+hash = "d20edeac01e77e843cb38af673be8c0ec0dcfb8e139d0a9469b7454c53f96597"
+
+[[files]]
+file = "resourcepacks/DarkAtmosphere2.0.zip"
+hash = "44a68fca85bc7e82f8c88932976098781db0c595e9860aa7e7f893af713daa9e"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode-26.3-2026.9.0.zip"
+hash = "3a41d2ec737c6a284089a8d2f41c225b4cd954f5e62363e9d927a6cf8c919b84"
+
+[[files]]
+file = "resourcepacks/Game1Pack.zip"
+hash = "bb93acdaa66f785f28e43ca7599290eba43afdd0cfe4b5085c87b15ec4031dd8"
+
+[[files]]
+file = "resourcepacks/Game2Pack.zip"
+hash = "41a4754819ecdef56286c2f7e41957c22468025e1692078ecdcf3e64786c4679"
+
+[[files]]
+file = "resourcepacks/Grassrise-1.0.3-mc1.20.x.zip"
+hash = "688db0fee124fdca506460a84f1e8c6feb276f007e7e9e3250e0fa8d8e0f9a80"
+
+[[files]]
+file = "resourcepacks/MenuPack.zip"
+hash = "679de7a91655d6031665e6ba0c14ab036b3ecac7b5f643385b27a7be3df8b41d"
+
+[[files]]
+file = "resourcepacks/Stay True 1.21.5.zip"
+hash = "c61397d8e9d1f15e069f718c0bd61c5c347be1f3e18603ea576dccb570302c82"
+
+[[files]]
+file = "resourcepacks/Tarkov_Foliage_Color.zip"
+hash = "153192bb0be340710a0180f165133441ee7485f93e20bf911f14258fffaa582f"
+
+[[files]]
+file = "resourcepacks/dark grass 26.2.zip"
+hash = "b85b8f01a23f87c4a782b61d0c724973790a356ec5b90e189e4d84bc1503c32a"
+
+[[files]]
+file = "resourcepacks/updated_BTZ-Tarkov_Texture_pack_playtest.zip"
+hash = "75b82859f1b2c90ed5c8b68bf31c7e4735891d0c67f64284d39cd247de026c6a"
+
+[[files]]
+file = "servers.dat"
+hash = "47d540e61e82a5e15982fb9d43c8fccab9b7dbeeddf52f7c6010f39177125c9a"

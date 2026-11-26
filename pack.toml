@@ -1,0 +1,13 @@
+name = "Efz"
+author = "senitexxx"
+version = "0.5"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "35876c22eca49b37a5c37c3e4b08df9f442fd867f6b08aee77464787c5071010"
+
+[versions]
+forge = "47.4.28"
+minecraft = "1.20.1"
