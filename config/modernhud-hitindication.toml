@@ -1,0 +1,47 @@
+
+#Damage direction: an arc around the crosshair that points at whoever hit you and
+#rotates with your view.
+[hitIndication]
+	#Master switch for the directional damage arc.
+	enableHitIndication = true
+	#Keep the arc and hit markers visible when F1 (hide GUI) is on.
+	ignoreHideGui = true
+	#Distance (px) of the arc from the crosshair.
+	#Range: 20 ~ 400
+	radius = 120
+	#How wide the arc is, in degrees of the circle around the crosshair.
+	#Range: 8 ~ 120
+	arcSpanDegrees = 38
+	#Thickness of the arc's solid core in pixels. The glow adds a soft edge.
+	#Range: 1 ~ 16
+	thickness = 4
+	#Peak opacity of the arc, 0-100.
+	#Range: 0 ~ 100
+	opacity = 90
+	#Time (ms) for the arc to flash in.
+	#Range: 0 ~ 1000
+	fadeInMs = 60
+	#Time (ms) the arc stays at full strength.
+	#Range: 0 ~ 5000
+	holdMs = 350
+	#Time (ms) for the arc to fade away.
+	#Range: 0 ~ 5000
+	fadeOutMs = 450
+	#Most arcs shown at once. 0 means unlimited. The oldest is dropped first.
+	#Range: 0 ~ 32
+	maxIndicatorCount = 0
+	#Hits from nearly the same direction refresh the existing arc instead of adding a new
+	#one.
+	mergeSameDirection = true
+	#Soft glow around the arc. Quality and strength follow the global glow settings.
+	glow = false
+	#Arc color as a hex code.
+	hitIndicatorColor = "FF0000"
+	#Draw the arc in absorptionIndicatorColor while you still have Absorption left. It
+	#turns red once the Absorption is gone.
+	absorptionBlueIndicator = true
+	#Arc color while Absorption is still up, as a hex code.
+	absorptionIndicatorColor = "2F8CFF"
+	#Show a brief crosshair marker on landing a critical hit or a kill.
+	enableHitMarkers = false
+

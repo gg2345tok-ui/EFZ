@@ -1,0 +1,43 @@
+enabled = true
+#Render profile-defined beam dust; also respects Minecraft particle settings.
+beamDust = true
+#Maximum lights processed per frame.
+#Range: 1 ~ 8
+maxLights = 8
+#Camera viewing distance for analytic lights, in chunks. Zero follows Minecraft render distance; does not change each source's reach or the world/GI caches.
+#Range: 0 ~ 64
+lightRenderDistanceChunks = 0
+#Maximum lights receiving shadow calculations.
+#Range: 0 ~ 4
+maxShadowLights = 4
+#Shadow-map resolution per face, in pixels.
+#Range: 64 ~ 2048
+shadowResolution = 256
+#Samples per volumetric ray.
+#Range: 0 ~ 24
+volumetricSteps = 12
+#Shared direct, indirect and volumetric lighting buffer scale relative to the window.
+#Range: 0.25 ~ 1.0
+renderScale = 0.5
+#Maximum reach of each point, spot, or area light from its source, in blocks. This is NOT a camera-distance cutoff.
+#Camera visibility is controlled separately by lightRenderDistanceChunks; zero there follows Minecraft render distance.
+#Range: 1.0 ~ 32.0
+maxRange = 24.0
+#Multiplier applied to all light intensities.
+#Range: 0.0 ~ 8.0
+intensityMultiplier = 1.0
+#Rescan unchanged lighting and geometry periodically. Leave false for event-driven caching; enable as a fallback for mods that bypass block/chunk/light notifications.
+periodicCacheRefresh = false
+#Ticks between scene/medium safety rescans when periodicCacheRefresh is enabled.
+#Range: 1 ~ 200
+mediumUpdateTicks = 10
+#Occupied block positions scanned per tick, rounded down to 512-block sectors.
+#Range: 512 ~ 32768
+sceneBlockBudget = 8192
+#Transparent-medium regions processed per pixel; zero disables colored transmission.
+#Range: 0 ~ 32
+maxMedia = 32
+#Added-light bloom; zero skips neighboring bloom samples.
+#Range: 0.0 ~ 2.0
+bloomStrength = 0.08
+

@@ -1,0 +1,5 @@
+{
+  "target_loot_table": "minecraft:chests/apteka",
+  "enabled": true,
+  "inject_items": []
+}

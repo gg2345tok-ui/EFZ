@@ -1,0 +1,251 @@
+
+#Your own status widget: head, name, health and absorption bars, HP text.
+[general]
+	#Show the player widget.
+	enabled = false
+	#Show your own health bar under the absorption bar.
+	showHealthBar = false
+	#Show your own username next to the head icon.
+	showName = false
+	#Color your name with your scoreboard team color. White if you have no team.
+	useTeamColor = false
+	#Show a small 2D render of your own head/skin.
+	showHead = true
+
+#Numeric health readout.
+[hpText]
+	#Show your current HP as text somewhere on the widget.
+	enabled = false
+	#CLASSIC = '20/20' (current/max HP points). PERCENT = '100%'.
+	#Allowed Values: CLASSIC, PERCENT
+	format = "PERCENT"
+	#Where the HP text goes: BELOW_BAR, BELOW_NAME_HEAD or END_OF_BAR.
+	#Allowed Values: BELOW_BAR, BELOW_NAME_HEAD, END_OF_BAR
+	position = "BELOW_NAME_HEAD"
+	#Health percentage below which the HP text uses the low-health color.
+	#Range: 0.0 ~ 100.0
+	lowHealthThresholdPercent = 30.0
+	#Glow behind the health bar: a flash when you are hit and a slow pulse while health is
+	#low.
+	glowEnabled = true
+	#Vitals glow color, as a hex code (e.g. "FF3B30" or "#FF3B30").
+	vitalsGlowColor = "FF3B30"
+	#HP text color above the low-health threshold, as a hex code (e.g. "FFFFFF").
+	normalColor = "FFFFFF"
+	#HP text color at/below the low-health threshold, as a hex code.
+	lowColor = "FF5555"
+
+#Armor readout, shown as text (for example 14/20). Visible even at 0.
+[armor]
+	#Show your current armor points as text.
+	enabled = false
+	#CLASSIC = '12/20' (current/max armor points). PERCENT = '60%'.
+	#Allowed Values: CLASSIC, PERCENT
+	textFormat = "CLASSIC"
+	#BELOW_NAME_HEAD puts armor on the info line after the HP text. END_OF_BAR and
+	#BELOW_BAR put it on its own row under the health bar.
+	#Allowed Values: BELOW_BAR, BELOW_NAME_HEAD, END_OF_BAR
+	textPosition = "END_OF_BAR"
+	#Armor text color, as a hex code (e.g. "C0C0C0" or "#C0C0C0").
+	textColor = "C0C0C0"
+
+#Where the widget is anchored on screen
+[position]
+	#Screen corner the widget is attached to. CUSTOM uses the offsets as absolute
+	#coordinates.
+	#Allowed Values: TOP_LEFT, TOP_RIGHT, BOTTOM_LEFT, BOTTOM_RIGHT, CUSTOM
+	anchor = "BOTTOM_LEFT"
+	#Horizontal distance from the anchor in pixels (absolute X when anchor is CUSTOM).
+	#Range: -10000 ~ 10000
+	offsetX = 12
+	#Vertical distance from the anchor in pixels (absolute Y when anchor is CUSTOM).
+	#Range: -10000 ~ 10000
+	offsetY = 12
+
+#Bar size and how Absorption points map onto it
+[appearance]
+	#Bar width in pixels, before scaling.
+	#Range: 10 ~ 1000
+	barWidth = 70
+	#Bar height in pixels, before scaling.
+	#Range: 2 ~ 200
+	barHeight = 5
+	#Overall scale multiplier applied to the whole widget.
+	#Range: 0.1 ~ 5.0
+	barScale = 0.9
+	#Number of segments in the absorption bar. 4 matches the four color tiers and the four
+	#vanilla Absorption levels.
+	#Range: 1 ~ 20
+	segmentCount = 3
+	#Absorption points per segment. Vanilla gives 4 per level, so 4.0 means one segment per
+	#level.
+	#Range: 0.5 ~ 100.0
+	pointsPerSegment = 4.0
+	#Show a +N label when absorption is higher than the bar can display.
+	showOverflowText = false
+	#Take the absorption bar's row out of the layout while you have no absorption, so the widget is
+	#shorter and the name moves down into its place. The row slides back in when absorption returns.
+	collapseAbsorptionRow = true
+	#Where your name shows relative to the bars: ABOVE (MW default) or BELOW.
+	#Allowed Values: ABOVE, BELOW
+	namePosition = "ABOVE"
+	#Height of the thin absorption strip above the health bar, in pixels.
+	#Range: 1 ~ 100
+	absorptionHeight = 3
+	#TIERED colors the plates gray, blue, purple, red as more fill up. CUSTOM always uses
+	#absorptionCustomColor.
+	#Allowed Values: TIERED, CUSTOM
+	absorptionColorMode = "CUSTOM"
+	#Plate color when absorptionColorMode is CUSTOM, as a hex code.
+	absorptionCustomColor = "1C7ED6"
+
+#Background panel behind the widget: a flat fill with an optional corner or line
+#border.
+[panel]
+	#Draw the background panel behind the whole widget.
+	enabled = false
+	#Panel background color, as a hex code (e.g. "0A0D11" or "#0A0D11").
+	panelColor = "D9DEE3"
+	#Panel opacity, 0 to 100.
+	#Range: 0 ~ 100
+	panelOpacity = 14
+	#Border drawn over the panel. NONE, CORNERS (short L-shaped brackets), FULL (thin
+	#outline), DOTS, BOTTOM_DOTS or FRAME (outline with corner dots).
+	#Allowed Values: NONE, CORNERS, FULL, DOTS, BOTTOM_DOTS, FRAME
+	borderStyle = "CORNERS"
+	#Border/corner-bracket color, as a hex code (e.g. "E8ECF0" or "#E8ECF0").
+	borderColor = "E8ECF0"
+	#Border opacity, 0 to 100.
+	#Range: 0 ~ 100
+	borderOpacity = 90
+	#Length of each bracket arm in pixels. Capped to a fraction of the panel size.
+	#Range: 1 ~ 20
+	borderLength = 1
+	#How far brackets and dots sit outside the panel edge, in pixels. 0 puts them on the
+	#edge.
+	#Range: 0 ~ 20
+	borderOutset = 1
+
+#Shield feedback. The sounds themselves (style, volume, pitch) are in the Sounds tab.
+#They only play for you.
+[sounds]
+	#Also play the hit and break cue and icon when you are the one being hit.
+	showFeedbackWhenVictim = false
+
+#Position and size of the shield hit / break icon.
+[feedbackIcon]
+	#Screen corner the icon is attached to. CUSTOM uses the offsets as absolute
+	#coordinates.
+	#Allowed Values: TOP_LEFT, TOP_RIGHT, BOTTOM_LEFT, BOTTOM_RIGHT, CUSTOM
+	anchor = "CUSTOM"
+	#Horizontal distance from the anchor in pixels (absolute X when anchor is CUSTOM).
+	#Range: -10000 ~ 10000
+	offsetX = 377
+	#Vertical distance from the anchor in pixels (absolute Y when anchor is CUSTOM).
+	#Range: -10000 ~ 10000
+	offsetY = 132
+	#Icon width in pixels, before scaling.
+	#Range: 4 ~ 500
+	width = 28
+	#Icon height in pixels, before scaling.
+	#Range: 4 ~ 500
+	height = 28
+	#Extra scale multiplier for the icon.
+	#Range: 0.1 ~ 10.0
+	scale = 1.0
+
+#Which icons appear and how long they stay, in milliseconds.
+[feedbackIconTiming]
+	#Show an icon when a hit lands on a shield without breaking it.
+	showHitIcon = true
+	#How long the hit icon stays on screen, in milliseconds.
+	#Range: 50 ~ 10000
+	hitIconDurationMs = 300
+	#Show an icon when you (the attacker) fully break someone's Absorption.
+	showBreakIcon = true
+	#How long the break icon stays on screen, in milliseconds.
+	#Range: 50 ~ 10000
+	breakIconDurationMs = 700
+
+#Teammate list for your scoreboard team: one compact row per teammate above your own
+#widget.
+[teamHud]
+	#Show the teammate list. Nothing is drawn if you have no team or no other tracked
+	#members.
+	enabled = true
+	#Most teammates shown at once. Extra ones are hidden, sorted by name.
+	#Range: 1 ~ 16
+	maxPlayers = 6
+	#Size of teammate rows relative to your own widget. 0.9 makes them 10% smaller.
+	#Range: 0.1 ~ 1.5
+	scaleFactor = 0.95
+	#Width of each teammate health bar in pixels, before scaling. Long names can run past
+	#it.
+	#Range: 16 ~ 400
+	barWidth = 70
+	#Vertical gap in px between teammate rows.
+	#Range: 0 ~ 40
+	rowGap = 2
+	#Vertical gap in pixels between the team list and your widget.
+	#Range: 0 ~ 100
+	groupGap = 4
+	#Show each teammate's head next to their row.
+	showHead = true
+	#Show each teammate's absorption bar above their health bar, using the same style as
+	#your own.
+	showAbsorption = true
+	#Color teammate names with their scoreboard team color. Falls back to nameColor if the
+	#team has none.
+	useTeamColor = false
+	#Teammate name color when useTeamColor is off or the team has no color, as a hex code.
+	nameColor = "E6EEF5"
+	#Color of the pulsing glow over a row while that teammate is dead or spectating.
+	downGlowColor = "E85138"
+
+#Scaling, animation and glow settings shared by every HUD element. Fade times for each
+#element are in that element's own section.
+[animation]
+	#Where the HUD's GUI scale comes from. MINECRAFT follows the game setting. FIXED uses
+	#hudGuiScale. RESOLUTION scales hudGuiScale with window height.
+	#Allowed Values: MINECRAFT, FIXED, RESOLUTION
+	guiScaleMode = "MINECRAFT"
+	#GUI scale for FIXED mode, or the scale at the reference height for RESOLUTION mode.
+	#2.0 equals Minecraft's GUI Scale 2.
+	#Range: 0.5 ~ 8.0
+	hudGuiScale = 2.0
+	#RESOLUTION mode only: the window height in pixels where hudGuiScale applies unchanged.
+	#Range: 360 ~ 4320
+	guiScaleReferenceHeight = 1080
+	#Snap text so each font pixel covers a whole number of screen pixels. Removes uneven
+	#text at fractional scales.
+	pixelPerfectText = true
+	#Also snap whole widgets to whole screen pixels. Sharper, but scale options change in
+	#coarse steps.
+	pixelPerfectElements = true
+	#RESOLUTION mode only: round the resulting GUI scale to a whole number.
+	guiScaleSnap = true
+	#Smoothness of glows: LOW, MEDIUM or HIGH.
+	#Allowed Values: LOW, MEDIUM, HIGH
+	glowQuality = "LOW"
+	#Turn all HUD animations (gliding bars, sliding slots, fades) on or off. Off makes
+	#values change instantly.
+	animations = false
+	#Speed of all animations. 2.0 is twice as fast, 0.5 is half speed.
+	#Range: 0.25 ~ 4.0
+	animationSpeed = 1.0
+	#Strength of every glow in percent. 0 turns all glows off, 100 is the default.
+	#Range: 0 ~ 200
+	glowIntensity = 0
+	#Time in milliseconds for health bars to move to a new value.
+	#Range: 0 ~ 3000
+	healthAnimMs = 280
+	#Time in milliseconds for absorption bars to move to a new value.
+	#Range: 0 ~ 3000
+	absorptionAnimMs = 220
+	#Opacity of the hit / Absorption-break feedback icon, 0-100.
+	#Range: 0 ~ 100
+	feedbackOpacity = 100
+	#Fade-out time in milliseconds at the end of the icon's display time.
+	#Range: 0 ~ 10000
+	feedbackFadeMs = 250
+

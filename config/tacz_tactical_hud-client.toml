@@ -1,0 +1,73 @@
+
+[general]
+	#Hide vanilla health and armor while the 3D HUD is shown, since the HUD displays them
+	HideHealthAndArmor = true
+	#Hide the hotbar and the selected item name while the 3D HUD is shown
+	HideHotbar = false
+	#Hide the experience bar and level while the 3D HUD is shown
+	HideExperience = false
+	#Hide the food bar while the 3D HUD is shown
+	HideFood = false
+
+[first_person]
+	#Whether or not to show the 3D HUD in first person instead of the classic gun HUD
+	Enabled = true
+	#How the HUD size adapts to the screen: AUTO follows the screen height, X1..X4 render as if the GUI scale were 1..4
+	#Allowed Values: AUTO, X1, X2, X3, X4
+	GuiScale = "X1"
+	#Horizontal position of the HUD center, as a fraction of the screen width
+	#Range: 0.0 ~ 1.0
+	AnchorX = 0.72
+	#Vertical position of the HUD center, as a fraction of the screen height
+	#Range: 0.0 ~ 1.0
+	AnchorY = 0.62
+	#Size multiplier of the HUD
+	#Range: 0.25 ~ 4.0
+	Scale = 1.25
+	#Rotation of the panel around the vertical axis, in degrees. Positive values push the right edge away from the camera, negative values the left edge
+	#Range: -60.0 ~ 60.0
+	Yaw = -18.0
+	#Rotation of the panel around the horizontal axis, in degrees. Negative values push the top edge away from the camera
+	#Range: -45.0 ~ 45.0
+	Tilt = -6.0
+	#Field of view of the HUD camera, in degrees. Lower values flatten the perspective
+	#Range: 10.0 ~ 110.0
+	Fov = 40.0
+	#How strongly the HUD lags behind camera rotation, 0 disables the sway
+	#Range: 0.0 ~ 3.0
+	SwayStrength = 1.0
+	#Opacity of the dark panel background
+	#Range: 0.0 ~ 1.0
+	BackgroundOpacity = 0.72
+
+[third_person]
+	#Whether or not to show the 3D HUD in third person instead of the classic gun HUD
+	Enabled = true
+	#How the HUD size adapts to the screen: AUTO follows the screen height, X1..X4 render as if the GUI scale were 1..4
+	#Allowed Values: AUTO, X1, X2, X3, X4
+	GuiScale = "AUTO"
+	#Horizontal position of the HUD center, as a fraction of the screen width
+	#Range: 0.0 ~ 1.0
+	AnchorX = 0.7
+	#Vertical position of the HUD center, as a fraction of the screen height
+	#Range: 0.0 ~ 1.0
+	AnchorY = 0.62
+	#Size multiplier of the HUD
+	#Range: 0.25 ~ 4.0
+	Scale = 1.25
+	#Rotation of the panel around the vertical axis, in degrees. Positive values push the right edge away from the camera, negative values the left edge
+	#Range: -60.0 ~ 60.0
+	Yaw = 18.0
+	#Rotation of the panel around the horizontal axis, in degrees. Negative values push the top edge away from the camera
+	#Range: -45.0 ~ 45.0
+	Tilt = -6.0
+	#Field of view of the HUD camera, in degrees. Lower values flatten the perspective
+	#Range: 10.0 ~ 110.0
+	Fov = 40.0
+	#How strongly the HUD lags behind camera rotation, 0 disables the sway
+	#Range: 0.0 ~ 3.0
+	SwayStrength = 1.0
+	#Opacity of the dark panel background
+	#Range: 0.0 ~ 1.0
+	BackgroundOpacity = 0.72
+

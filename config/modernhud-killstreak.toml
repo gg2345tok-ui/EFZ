@@ -1,0 +1,168 @@
+
+#Killstreak and Specialist tracker: square slots and a segmented kill bar. Needs
+#ModernLoadout, which does the tracking; this only draws it.
+[killstreak]
+	#Draw the tracker with ModernHUD. ModernLoadout's own vertical bar is hidden while this
+	#is on.
+	enabled = false
+	#Stack the tracker above the weapon widget, on the same edge and at the same scale. Off
+	#uses position and the offsets below.
+	attachToWeaponHud = false
+	#Screen corner the tracker is anchored to when attachToWeaponHud is off.
+	#Allowed Values: TOP_LEFT, TOP_RIGHT, BOTTOM_LEFT, BOTTOM_RIGHT, CUSTOM
+	position = "BOTTOM_RIGHT"
+	#Horizontal distance from the anchor in pixels. Only used when attachToWeaponHud is
+	#off.
+	#Range: -2000 ~ 4000
+	offsetX = 8
+	#Vertical distance from the anchor in pixels. Only used when attachToWeaponHud is off.
+	#Range: -2000 ~ 4000
+	offsetY = 120
+	#Scale relative to the weapon widget (1.0 is the same size). Absolute scale when
+	#attachToWeaponHud is off.
+	#Range: 0.25 ~ 3.0
+	scaleFactor = 1.0
+	#Side of one square slot in px.
+	#Range: 16 ~ 48
+	slotSize = 25
+	#Gap between slots in px.
+	#Range: 0 ~ 24
+	slotGap = 2
+	#Gap in pixels between the tracker and the weapon widget. Only used when
+	#attachToWeaponHud is on.
+	#Range: 0 ~ 48
+	groupGap = 10
+	#Segmented bar next to the slots with one segment per kill still needed for the next
+	#reward. It fills as kills come in and resets for the next slot.
+	showProgressBar = true
+	#Flash the selected streaks or Specialist perks once when you join and whenever the
+	#loadout changes.
+	showSelection = false
+	#How long the selection stays visible before fading, in seconds.
+	#Range: 1 ~ 30
+	selectionSeconds = 4
+	#Slide the tracker away after autoHideSeconds without progress and bring it back on a
+	#kill, a reward or a loadout change. Ready rewards keep it visible. Specialist always
+	#works this way.
+	autoHide = false
+	#Seconds without a change before the tracker slides out.
+	#Range: 1 ~ 120
+	autoHideSeconds = 5
+	#Glow and border color of a reward that is ready to use, as a hex code.
+	readyGlowColor = "A6F58C"
+	#Color of the kill bar segments and the next slot's accent, as a hex code.
+	killBarColor = "FFFFFF"
+	#Color of Specialist perks that are already active, as a hex code.
+	activeGlowColor = "A6F58C"
+	#Specialist: hide the fourth (8 kill) slot. Only the three perk slots are shown.
+	specialistHideFinalStage = true
+	#Specialist: once every shown perk is earned, play the completion once, slide away and
+	#stop updating.
+	specialistStopWhenFull = true
+	#Time in milliseconds for slots to slide between the queue and the ready row, and to
+	#fade.
+	#Range: 0 ~ 3000
+	animationMs = 420
+
+	#Look of this element: opacity, fade times, panel and border.
+	[killstreak.style]
+		#Opacity of the whole element, 0 to 100.
+		#Range: 0 ~ 100
+		opacity = 90
+		#Fade-in time in milliseconds. 0 is instant.
+		#Range: 0 ~ 5000
+		fadeInMs = 460
+		#Fade-out time in milliseconds. 0 is instant.
+		#Range: 0 ~ 5000
+		fadeOutMs = 460
+		#Draw a flat background panel behind the element.
+		panelEnabled = true
+		#Panel color as a hex code, for example D9DEE3.
+		panelColor = "D9DEE3"
+		#Panel opacity, 0 to 100.
+		#Range: 0 ~ 100
+		panelOpacity = 16
+		#Border style: NONE, CORNERS (short L-shaped brackets), FULL (thin outline),
+		#DOTS (one dot per corner), BOTTOM_DOTS (bottom corners only) or FRAME (outline with corner dots).
+		#Allowed Values: NONE, CORNERS, FULL, DOTS, BOTTOM_DOTS, FRAME
+		borderStyle = "BOTTOM_DOTS"
+		#Border color as a hex code, for example E8ECF0.
+		borderColor = "E8ECF0"
+		#Border opacity, 0 to 100.
+		#Range: 0 ~ 100
+		borderOpacity = 90
+		#Bracket arm length for CORNERS, or dot size plus 1 for DOTS and FRAME, in pixels.
+		#Range: 1 ~ 20
+		borderLength = 3
+		#How far brackets and dots sit outside the element's edge, in pixels.
+		#Range: 0 ~ 20
+		borderOutset = 1
+
+#Popup listing the perks you selected when you join or when the loadout changes. It
+#slides in, holds, then slides out. Needs ModernLoadout.
+[perkToast]
+	#Show the perk popup. In Specialist mode it replaces the small blink of the selected
+	#perk icons above the tracker.
+	enabled = true
+	#Screen corner the toast slides in from / sits in.
+	#Allowed Values: TOP_LEFT, TOP_RIGHT, BOTTOM_LEFT, BOTTOM_RIGHT, CUSTOM
+	position = "TOP_RIGHT"
+	#Horizontal offset in px from that corner's edge.
+	#Range: -2000 ~ 4000
+	offsetX = 4
+	#Vertical offset in px from that corner's edge.
+	#Range: -2000 ~ 4000
+	offsetY = 40
+	#Overall scale of the toast.
+	#Range: 0.5 ~ 3.0
+	scale = 1.0
+	#How long the popup stays on screen before sliding out, in seconds.
+	#Range: 1 ~ 20
+	holdSeconds = 4
+	#Size of each perk icon in px.
+	#Range: 10 ~ 40
+	iconSize = 18
+	#Draw a thin outline around the popup with a dot on each corner.
+	frame = true
+	#A very light, thin highlight strip behind each perk's name.
+	nameHighlight = true
+	#Soft glow behind each perk icon and around each perk's box.
+	glow = true
+	#Delay in milliseconds between one perk row sliding in or out and the next.
+	#Range: 0 ~ 1000
+	rowStaggerMs = 110
+
+	#Look of this element: opacity, fade times, panel and border.
+	[perkToast.style]
+		#Opacity of the whole element, 0 to 100.
+		#Range: 0 ~ 100
+		opacity = 100
+		#Fade-in time in milliseconds. 0 is instant.
+		#Range: 0 ~ 5000
+		fadeInMs = 480
+		#Fade-out time in milliseconds. 0 is instant.
+		#Range: 0 ~ 5000
+		fadeOutMs = 420
+		#Draw a flat background panel behind the element.
+		panelEnabled = false
+		#Panel color as a hex code, for example D9DEE3.
+		panelColor = "D9DEE3"
+		#Panel opacity, 0 to 100.
+		#Range: 0 ~ 100
+		panelOpacity = 14
+		#Border style: NONE, CORNERS (short L-shaped brackets), FULL (thin outline),
+		#DOTS (one dot per corner), BOTTOM_DOTS (bottom corners only) or FRAME (outline with corner dots).
+		#Allowed Values: NONE, CORNERS, FULL, DOTS, BOTTOM_DOTS, FRAME
+		borderStyle = "CORNERS"
+		#Border color as a hex code, for example E8ECF0.
+		borderColor = "E8ECF0"
+		#Border opacity, 0 to 100.
+		#Range: 0 ~ 100
+		borderOpacity = 90
+		#Bracket arm length for CORNERS, or dot size plus 1 for DOTS and FRAME, in pixels.
+		#Range: 1 ~ 20
+		borderLength = 1
+		#How far brackets and dots sit outside the element's edge, in pixels.
+		#Range: 0 ~ 20
+		borderOutset = 0
+
