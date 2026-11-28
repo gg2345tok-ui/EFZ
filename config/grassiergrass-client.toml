@@ -2,7 +2,7 @@
 [rendering]
 	#Number of grass blades rendered on each grass block. Higher is denser but heavier.
 	#Range: 1 ~ 64
-	bladesPerBlock = 25
+	bladesPerBlock = 24
 	#Fraction of blades thinned along the height-noise field, shortest regions first. 0 keeps all; 1 removes all.
 	#Range: 0.0 ~ 1.0
 	grassSparsity = 0.15000000596046448

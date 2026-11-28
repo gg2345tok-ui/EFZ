@@ -846,7 +846,7 @@ hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
 
 [[files]]
 file = "config/grassiergrass-client.toml"
-hash = "b19c5cfdd784d0616ca94e5df4fcdba79d0a11cf95af18a496d0c68b6ee8d1b1"
+hash = "8394199d5332bfcfbd84d8c23ad5c138e3e5a651a9e16a3e8e7b67f2d4b269b9"
 
 [[files]]
 file = "config/hourglass-client.toml"
@@ -1038,7 +1038,7 @@ hash = "0862e977aa20c508b6d5f6576b4d34299bebcf71de09e3628ea53c2aaeb299f8"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "9cdb20e9a88caf00abda8a085bd80f7d11db04f83a46f7f19513909798c7385b"
+hash = "9aadff4a0bf4754a97688493f797815929fb547d158e78dc58aed0ebd7ab5fc7"
 
 [[files]]
 file = "config/parcool-animation.toml"
@@ -1079,6 +1079,14 @@ hash = "1afde48eff108eb21adb246de5d44ef6ced16862cca62cf0123c059a9934c7cc"
 [[files]]
 file = "config/physicsmod/physics_vines_client_config.json"
 hash = "d58f9519b1ff4bfde113949ddc9e0a938231f3f826b0744388a27fe6ecb48803"
+
+[[files]]
+file = "config/pingwheel.json"
+hash = "6878009a9f7ca2309feb78f6884556493b6752232f7f87e12901dbb6946ab5ea"
+
+[[files]]
+file = "config/pingwheel.server.json"
+hash = "821d5d12d0c096996c82d1a65349ac803adffcc25b89420a146c727fb92b381a"
 
 [[files]]
 file = "config/playerrevive-client.json"
@@ -3749,14 +3757,6 @@ file = "defaultconfigs/ftbxmodcompat/ftbxmodcompat.snbt"
 hash = "9e5046ac0b9f6d27945b689657835bff24310aec7b11f7461c972b514d0e0658"
 
 [[files]]
-file = "mods/.connector/continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar"
-hash = "372752157e7ebe716e4d4116b49f73bba8554ef5846a525f7918096eeb932013"
-
-[[files]]
-file = "mods/.connector/continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar.input"
-hash = "3457bba78f57a7d7bde0fcb7a522634d333a8ed185d4e12f4f4b46a328170dc6"
-
-[[files]]
 file = "mods/1.20.1-SecurityCraft-v1.10.2.1.jar"
 hash = "f7c637b291cccd2c4a4f94048a6d08a48065c0618fec03043d6f9e15af27948a"
 
@@ -3803,6 +3803,10 @@ hash = "b7bea183d472a36d8a99a55574240a0179f168fb01eb0cf4cb75b28078ecb5cd"
 [[files]]
 file = "mods/PassableFoliage-1.20.1-forge-8.2.1.jar"
 hash = "15c215f1782c21f1ee1295eae3a5e96386eefc790247f5f32bd74893b967ec14"
+
+[[files]]
+file = "mods/Ping-Wheel-1.12.1-forge-1.20.1.jar"
+hash = "71692ad5d2b410ebcfbe3bb6bdf151c40ea75d012c75aff3c6c1a37abf9e8057"
 
 [[files]]
 file = "mods/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar"
@@ -3977,6 +3981,10 @@ file = "mods/grassiergrass-forge-1.4.5+mc1.20.1.jar"
 hash = "0bb02d32a840944feaba7f606823a0bf775f648f134749f988aab4a76a85ca3e"
 
 [[files]]
+file = "mods/grassiergrassfix-1.0.1.1.jar"
+hash = "afd00234384840e1e2ed53f026a0ea919efdbf666a802138a4b46772438ebd3d"
+
+[[files]]
 file = "mods/guccivuitton-1.20.1-0.2.2.jar"
 hash = "9247e55f20acf8ec89af56d4ad45fcc8fe08bee9f7189421ef31835f3516bd57"
 
@@ -4129,6 +4137,10 @@ file = "mods/securepouch-1.20.1-1.2.0.jar"
 hash = "eee1a97cabb138e495558f209dfda5dcf7ed3c10edf640cc138870aa0e08a27f"
 
 [[files]]
+file = "mods/sitmod-1.0.0.jar"
+hash = "0a894fa003cb651f8c5f621da5e73deada0283438894b8ff013cc4d7e857a1e6"
+
+[[files]]
 file = "mods/sodiumdynamiclights-forge-1.0.10-1.20.1.jar"
 hash = "dff5325abb58c0c8526dffb80e764188bde045fd02ca6ed5e2bb76f0897d46f4"
 
@@ -4214,7 +4226,7 @@ hash = "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f"
 
 [[files]]
 file = "options.txt"
-hash = "69856de43dd75aab42efc20c4e5723a007080777e31f7e36d9f70a2d2cc003ff"
+hash = "bdca2c14cfc99f19d41b9e4e2c36ec489bd9ca753c1fc00a8995a5112fe40eb2"
 
 [[files]]
 file = "resourcepacks/4lvoluminous-grass.zip"

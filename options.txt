@@ -15,7 +15,7 @@ reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:true
 touchscreen:false
-fullscreen:false
+fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -97,12 +97,12 @@ key_key.drop:key.keyboard.g
 key_key.inventory:key.keyboard.tab
 key_key.chat:key.keyboard.t
 key_key.playerlist:key.keyboard.unknown
-key_key.pickItem:key.mouse.middle
+key_key.pickItem:key.keyboard.unknown
 key_key.command:key.keyboard.slash
 key_key.socialInteractions:key.keyboard.unknown
 key_key.screenshot:key.keyboard.f2
 key_key.togglePerspective:key.keyboard.f5
-key_key.smoothCamera:key.keyboard.unknown
+key_key.smoothCamera:key.keyboard.f12
 key_key.fullscreen:key.keyboard.f11
 key_key.spectatorOutlines:key.keyboard.unknown
 key_key.swapOffhand:key.keyboard.unknown
@@ -140,14 +140,15 @@ key_key.modernfix.config:key.keyboard.unknown
 key_key.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_key.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown
 key_key.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
 key_key.tactical_stuff.nightvission:key.keyboard.n
 key_key.corpse.death_history:key.keyboard.u
 key_key.curios.open.desc:key.keyboard.unknown
+key_key.sitmod.sit:key.keyboard.k
 key_Scene1 start/pause:key.keyboard.unknown
 key_Scene2 start/pause:key.keyboard.unknown
 key_Scene3 start/pause:key.keyboard.unknown
@@ -176,6 +177,8 @@ key_key.taczflashierflashlights.toggle:key.keyboard.k
 key_key.concord_deco.guide:key.keyboard.unknown
 key_key.autohud.toggle-hud:key.keyboard.unknown
 key_key.autohud.peek-hud:key.keyboard.unknown
+key_key.pingwheel.ping_location:key.mouse.middle
+key_key.pingwheel.open_settings:key.keyboard.unknown
 key_key.lightmanscurrency.open_wallet:key.keyboard.unknown
 key_key.lightmanscurrency.portable_terminal:key.keyboard.unknown
 key_key.lightmanscurrency.portable_atm:key.keyboard.unknown
@@ -214,8 +217,8 @@ key_key.tacticalcamo.bandolier:key.keyboard.unknown
 key_key.tacticalcamo.shotgun_reload:key.keyboard.unknown
 key_key.tacticalcamo.detonate_drone:key.keyboard.unknown
 key_key.presencefootsteps.settings:key.keyboard.f10
-soundCategory_master:0.30176874000913456
-soundCategory_music:0.30357955925206415
+soundCategory_master:0.25496688741721857
+soundCategory_music:0.20892018779342716
 soundCategory_record:0.3041866500728509
 soundCategory_weather:0.10629021976687705
 soundCategory_block:0.15258215962441327
